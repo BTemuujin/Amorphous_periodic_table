@@ -67,7 +67,7 @@ The interactive web application runs in any modern browser with zero server depe
 - **100% Crossref & OpenAlex Verified Citations (`data/verified_doi_registry.json`)**:
   Every cataloged amorphous system and crystalline-to-amorphous conversion benchmark resolves to a live peer-reviewed DOI (`HTTP 200 OK`, verified author/year/journal/title match) and is experimentally confirmed by diffuse X-ray/neutron scattering ($S(Q)$ First Sharp Diffraction Peak), pair distribution function $g(r)$, TEM selected-area electron diffraction (SAED), and/or differential scanning calorimetry ($T_g$ / $T_x$).
 - **Explicit Experimental vs. Reconstructed Spectral Provenance**:
-  In Tab 5 ($S(Q)$, $g(r)$, and $P(\theta)$ curves), the interface explicitly badges whether curves are anchored to **Literature Experimental / MD Benchmark Peaks** (43 canonical systems such as $\text{SiO}_2$, $\text{GeSe}_2$, $\text{Zr}_{41.2}\text{Ti}_{13.8}\text{Cu}_{12.5}\text{Ni}_{10}\text{Be}_{22.5}$, $\text{Cu}_{50}\text{Zr}_{50}$, $a\text{-Si}$, $a\text{-Gd}_{14}\text{Si}_{86}$) or **Composition-Weighted Analytical Reconstructions** (198 multi-component systems reconstructed from covalent/metallic radii and family FSDP/coordination rules).
+  In Tab 5 ($S(Q)$, $g(r)$, and $P(\theta)$ curves), the interface explicitly badges whether curves are anchored to **Literature Experimental / RMC Benchmark Peaks** (44 canonical systems across 45 benchmark entries such as $\text{SiO}_2$, $\text{GeSe}_2$, $\text{Al}_2\text{O}_3$, $\text{Ta}_2\text{O}_5$, $\text{Zr}_{41.2}\text{Ti}_{13.8}\text{Cu}_{12.5}\text{Ni}_{10}\text{Be}_{22.5}$, $\text{Cu}_{50}\text{Zr}_{50}$, $a\text{-Si}$, $a\text{-FeGe}$, $a\text{-FeSi}$, $a\text{-MoGe}$) or **Composition-Weighted Analytical Reconstructions** (197 multi-component systems reconstructed from canonical experimental pair bond lengths and family FSDP/coordination rules), while explicitly noting that continuous curve profiles are parameterized Gaussian/Lorentzian reconstructions.
 - **Composite Amorphous Induction Score ($S_i$)**:
   Combines frequency coverage ($f_i$), compositional diversity / normalized Shannon partner entropy ($H_i$), majority-species dominance ($D_i$), and Zachariasen/Miracle structural topology bonus ($Z_i$):
   $$S_i = 0.30 f_i + 0.25 H_i + 0.20 D_i + 0.25 Z_i$$
@@ -128,7 +128,9 @@ Amorphous_periodic_table/
 │   ├── baseline_elements_118.json
 │   ├── raw_amorphous_records.json
 │   ├── statistical_analysis_results.json
-│   └── verified_doi_registry.json      # 100% Crossref & OpenAlex verified DOI audit registry
+│   ├── verified_doi_registry.json          # 100% Crossref & OpenAlex verified DOI audit registry (232 DOIs)
+│   ├── vpn_extracted_sro_mro.json          # Institutional VPN full-text & abstract SRO/MRO extraction summary
+│   └── vpn_extracted_structural_tables.json # Extracted full-text structural tables & SRO/MRO mentions
 ├── src/
 │   ├── catalog_oxides_chalcogenides.py
 │   ├── catalog_metals_covalent.py
@@ -143,7 +145,7 @@ Amorphous_periodic_table/
 │   ├── verify_and_resolve_dois.py
 │   └── vpn_fulltext_extractor.py
 └── tests/
-    └── test_pipeline.py                # 11-test unit & end-to-end verification suite
+    └── test_pipeline.py                # 12-test unit & end-to-end verification suite
 ```
 
 ---

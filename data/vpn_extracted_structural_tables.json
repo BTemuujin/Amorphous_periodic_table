@@ -1,0 +1,720 @@
+{
+  "metadata": {
+    "total_dois_processed": 232,
+    "fulltext_files_downloaded": 61,
+    "pdf_files_downloaded": 72,
+    "pdf_files_with_extractable_text": 61,
+    "scanned_image_pdfs_without_ocr": 11,
+    "xml_files_downloaded": 72,
+    "elsevier_xml_metadata_stubs": 72,
+    "dois_with_fulltext_sro_mro_metrics": 29,
+    "dois_with_abstract_sro_mro_metrics": 6,
+    "dois_with_extracted_sro_mro_metrics": 35,
+    "dois_with_extracted_tables": 29,
+    "papers_dir": "data/vpn_papers"
+  },
+  "tables_by_doi": {
+    "10.1007/978-3-662-64978-7_66": {
+      "title": "Be-Cu-Ni-Sn-Ti",
+      "canonical_citation": "Kawazoe & Carow-Watamura, Phase Diagrams and Physical Properties of Nonequilibrium Alloys: 5 Component Amorphous Alloys (2022) — \"Be-Cu-Ni-Sn-Ti\"",
+      "downloaded_file": "data/vpn_papers/10.1007_978-3-662-64978-7_66.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {},
+      "extracted_tables": [
+        "Table 1 The glass transition temperature Tg and reduced glass transition Trg ¼ (Tg/Tl) of\nTi50Ni15Cu25Sn3Be7 alloy ribbon with thickness of 30 μm and width of 2 mm [03KIM]\nComposition  Tg [K]  Trg\nTi50Ni15Cu25Sn3Be7  688  0.57\n386  Be-Cu-Ni-Sn-Ti\nCrystallization Temperature\nTable 2 The crystallization temperatures Tx of ﬁrst and second event in Ti50Ni15Cu25Sn3Be7 alloy\nribbon with thickness of 30 μm and width of 2 mm [03KIM]\nComposition  Tx1 [K]  Tx2 [K]\nTi50Ni15Cu25Sn3Be7  733  786\nEnthalpy of Crystallization and Crystallization Kinetics\nTable 3 The enthalpy of crystallization ΔHx of ﬁrst and second event in Ti50Ni15Cu25Sn3Be7 alloy\nribbon with thickness of 30 μm and width of 2 mm [03KIM]\nComposition  ΔHx1 [J g\u00021]  ΔHx2 [J g\u00021]\nTi50Ni15Cu25Sn3Be7  \u000228  \u000214\nSupercooled Liquid Region\nTable 4 The supercooled liquid region ΔTx of Ti50Ni15Cu25Sn3Be7 alloy ribbon with thickness of\n30 μm and width of 2 mm [03KIM]\nComposition  ΔTx ¼ Tx1–Tg [K]\nTi50Ni15Cu25Sn3Be7  45\nReference  387\nMechanical Properties\nStress-Strain Curves\n3000"
+      ]
+    },
+    "10.1007/bf00659342": {
+      "title": "High-temperature oxidation of a rapidly solidified amorphous Ta-Ir alloy",
+      "canonical_citation": "Lee & Worrell, Oxidation of Metals 25, 195 (1986) — \"High-temperature oxidation of a rapidly solidified amorphous Ta-Ir alloy\"",
+      "downloaded_file": "data/vpn_papers/10.1007_bf00659342.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {},
+      "extracted_tables": [
+        "Table I. Measured Interplanary Spacings and\nEstimated Intensities Obtained from an Electron\nDiffraction Pattern of the Iridium-Rich Phase in\nthe Oxidation Product Formed on an A m o r p h o u s\nTa-44.5 at.% Ir Alloy after 30 min at 700~ in\nAr-0.1%O 2\nd, ,~  Estimated intensity\n2.89  60\n2.14  100\n1.81  60\n1.59  60\n1.28  60\n1.09  60\n0.814  40\nof the product layer was controlled by solid-state diffusion in that layer.\nThe parabolic rate constant, which is one-half the slope of the line in Fig.\n11, is about 1.2x 10 -1~ cm2/sec, which is approximately equal to the rate\nof oxidation of pure cobalt in pure oxygen at 750~ The rate of oxidation\nis high relative to the rate of oxidation of pure chromium (parabolic rate\nTable II. Measured Interplanar Spacings and Estimated Intensities\nObtained from Electron Diffraction Pattern of the Tantalum-Rich\nPhase in the Oxidation Product Formed on an A m o r p h o u s T a -\n44.5 at.% Ir Alloy after 30 min at 700~ in Ar-0.1%O2\nMeasured\nestimated  Actual\nd, A  intensity  d (Ta2Os) , ~,  intensity"
+      ]
+    },
+    "10.1007/bf01197650": {
+      "title": "Aluminium metaphosphate glass-ceramics",
+      "canonical_citation": "",
+      "downloaded_file": "data/vpn_papers/10.1007_bf01197650.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "Tg to 50 °C"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1007/s00269-017-0909-y": {
+      "title": "Electronic and local atomistic structure of MgSiO3 glass under pressure: a study of X-ray Raman scattering at the silicon and magnesium L-edges",
+      "canonical_citation": "Fukui & Hiraoka, Phys Chem Minerals 45, 211 (2018) — \"Electronic and local atomistic structure of MgSiO3 glass under pressure: a study of X-ray Raman scattering at the silicon and magnesium L...\"",
+      "downloaded_file": "data/vpn_papers/10.1007_s00269-017-0909-y.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "coordination_number": [
+          "coordination number (ECoN) OEn shows peaks. b Averaged spectra with ECoN of 3.8"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1007/s12633-016-9492-y": {
+      "title": "A Novel Barium Borate Glasses for Optical Applications",
+      "canonical_citation": "Saeed, Elbashar & El Khameesy, Silicon 10, 185 (2018) — \"A Novel Barium Borate Glasses for Optical Applications\"",
+      "downloaded_file": "data/vpn_papers/10.1007_s12633-016-9492-y.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "coordination_number": [
+          "tetrahedral coordination, BO4 units. B–O–B bend- an increase of the degree"
+        ]
+      },
+      "extracted_tables": [
+        "Table 1 Structural parameters\nof the present glasses  Ba = 0 % Ba = 10 % Ba = 20 % Ba = 30 % Ba = 40 % Ba = 50 %\nNBi χ1023 (ions/cm3 )  0  2.22  4.856  6.871  8.857  10.102\nri (Å)  0  1.652  1.272  1.133  1.041  0.968\nrp (Å)  0  0.666  0.513  0.457  0.420  0.3900\nOPD(g-atom/liter)  89.929  84.769  84.662  72.247  62.494  54.915\nVO (cm3 /mol)  11.12  11.797  12.46  13.841  16.0015  18.211\nF χ1016 (cm−2 )  0  2.2  3.707  4.672  5.533  6.403\nSilicon (2018) 10:569–574  571\nTable 2 Frequencies and their\nassignments for FTIR spectra of  Wavenumber (cm−1 )  Assignment\nxBaO.5ZnO.5MgO.14Na2 O.1Li2 O-\n(75x)B2 O3 (x = 0, 10, 20, 30,  ∼433∼ 475 ∼ 494  Specific vibrations of Ba–O bonds\n40, 50) glasses  500 514  Specific vibrations of Ba–O bonds low intensity\n∼ 862  vibration band of Ba–O\n681–715  B–O–B bending vibrations\n∼770  B3 O–O–BO4 bending vibrations\n∼ 930 ∼100 ∼1036  B–O stretching vibration of BO4 units in tri-, tetra- and\npenta- borate groups\n∼1200  B–O stretching vibration of trigonal BO3 units in boroxol\nrings\n∼1390  B–O stretching vibrations of BO3 units in meta-, pyro- and\northoborate groups.\nand lack of periodicity of three dimensional network indi-  the structural units and transport properties of the glasses,\ncate the amorphous nature of the prepared materials. It is  the estimated parameters are listed in Table 1. The results\nalso observed that the addition of Ba facilitates the forma-  show that Polaron radius and inter-ionic distance decrease\ntion of the glassy state.",
+        "Table 3 Theoretical optical\nbasicity (\u0006T h ), Experimental  Ba = 0 % Ba = 10 % Ba = 20 % Ba = 30 % Ba = 40 % Ba = 50 %\noptical basicity (\u0006Exp. ) Molar\nfraction (Rm ) Dielectric  \u0006T h  0.566  0.639  0.712  0.785  0.858  0.931\nconstant (ε), Metallization  \u0006Exp.  Direct 0.997  1.020  1.020  1.109  1.178  1.227\ncriterion (M) of the  Indirect 1.008  1.043  1.039  1.130  1.197  1.245\ninvestigated glasses\nRm (cm3 /mol) Direct 15.824  15.474  14.571  15.618  16.286  16.409\nIndirect 16.006  15.96  14.912  16.113  16.821  16.949\nε  Direct 4.982  5.272  5.387  5.476  5.513  4.964\nIndirect 5.285  5.523  5.746  5.861  5.905  5.072\nM  Direct 0.431  0.430  0.413  0.406  0.401  0.399\nIndirect 0.424  0.412  0.399  0.387  0.382  0.380\n572  Silicon (2018) 10:569–574\nFig. 3 Optical absorptions\nspectra  Ba = 0 %  Ba = 10 %  Ba = 20 %\nBa = 30 %  Ba = 40 %  Ba = 50 %\nAbsorbance (a.u.)\n200  400  600  800  1000  1200\nWavelength (nm)\nunits for borate glasses as shown in Table 3. In the region  from the slope reciprocal of the graph of the absorption\n850–1100 cm−1 , bands appeared due to the stretching of  coefficient logarithm (ln α), versus the photon energy (hν)\nthe B–O bond in tetrahedral BO4 units, which are the vibra-  [22–26]. Figures 4 and 5, show the variation of optical band\ntions of tetra borate (tri borate and penta borate) groups of  gap and Urbach energy respectively with the increase in\nBO4 units. Bands in the region 1150–1456 cm−1 are usu-  BaO content. The decline in band gap and incre"
+      ]
+    },
+    "10.1007/s12633-021-01553-y": {
+      "title": "Structural Characterization of Strontium Silicate Glasses and Glass Ceramics Applied as Glass Ionomer Cements (GICs)",
+      "canonical_citation": "El Damrawi, El Baiomy & Ramadan, Silicon 14, 8733 (2022) — \"Structural Characterization of Strontium Silicate Glasses and Glass Ceramics Applied as Glass Ionomer Cements (GICs)\"",
+      "downloaded_file": "data/vpn_papers/10.1007_s12633-021-01553-y.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {},
+      "extracted_tables": [
+        "Table 1  Compositions (mol%) of the prepared samples of the formula  from the FTIR absorbance spectroscopy of the glass mol-\nxSrO-(45-x) ­SiO2-24.5CaO-24.5Na2O-6P2O5\necules revealed main peaks centered at approximately 500,\nSample  SiO2  CaO  Na2O  P2O5  SrO  575, 780, 920, and 1040 ­cm−1 (Fig. 1). The presence of an\na-Si–O bond with mixed one and two non-bridging oxygen\nSr0  45  24.5  24.5  6  0\n(NBOs) per ­SiO4 tetrahedron was suggested by the peak in\nSr3  42  24.5  24.5  6  3\nthe 850–1000 ­cm−1 range [21, 22]. This suggests that the\nSr5  40  24.5  24.5  6  5\nglass containing a significant amount of NBOs can dissolve\nSr10  35  24.5  24.5  6  10\nquickly in specific solutions. Previous research has suggested\nSr15  30  24.5  24.5  6  15\nthat the peak at 500–600 ­cm−1 in high phosphate-containing\n13\nSilicon (2022) 14:8733–8743  8735\nglasses corresponds to the P–O bending mode as well as\na Si–O–Si bending vibration in this region [23, 24]. The\nSrO mol%\npeak at 750 ­cm−1 is caused by 4 NBO in both silicate and\n15\nphosphate networks [25, 26]. The Si-O stretching vibration\nof three BO in ­SiO4 tetrahedral units is responsible for the\nabsorption beak around 1150 ­cm−1 [25, 27]. Table 2 sum-\nmarizes the assignments for each of the FTIR bands.\n10\nAbsorbance (a.u)\nThe deconvolution of FTIR spectra for two glass samples\nwas shown in Fig. 2(a, b), and the deconvolution parameters",
+        "Table 2  Assignments for different FTIR absorption bands of the studied glass\nReference\nIn this region, the P–O bending mode as well as a Si–O–Si bending vibration occur at 500–600 ­cm−1.  [23, 24]\nThe presence of a Si–O bond with mixed one and two non-bridging oxygen per S  ­ iO4 tetrahedron was suggested by 850–1000 ­cm−1.  [21, 22]\n−1\nThe peak around 750 c­ m is due to 4 NBO both in silicate and phosphate networks.  [25, 26]\nThe absorption beak around 1150 ­cm−1 is assigned to the S-O stretching vibration of three BO in S\n­ iO4 tetrahedral units.  [25, 27]\nFig. 2  a, b: The deconvolu-  Q2\ntion of the FTIR experimental  15 SrO mol%  Q2\nspectra for sample containing  0 SrO mol%\n(a)\n(Sr0 & Sr15)  1\nQ  Q1\n(b)\nA b s o rb a n c e (a .u )\nA b s o r b a n c e ( a .u )\nQ3  Q3\nQo  Q0",
+        "Table 3  Compositions, Wight loss and chemical durability of xSrO-(45-x) S\n­ iO2-24.5CaO-24.5Na2O-6P2O5 with (0 ≤ x ≤ 15; mol%) the quater-\nnary glasses\nGlass samples  Starting Oxide mixtures mol %  The weight fraction of oxide elements in the GIC  Dissolution rate log\n(GIC SrO mol%)  samples  (Dr) (g/cm2 /min)\nBefore immersion  After immersion in distilled\nin distilled water  water at 90° for 20 days\n0 SrO  24.5CaO  24.5NaO2  6P2O5  45SiO2  1.3229  1.005  -0.4977\n3 SrO  24.5CaO  24.5NaO2  6P2O5  42SiO2  1.4231  1.1150  -0.5113\n5 SrO  24.5CaO  24.5NaO2  6P2O5  40 ­SiO2  0.9873  0.8721  -0.9385\n10 SrO  24.5CaO  24.5NaO2  6P2O5  35 ­SiO2  0.8275  0.7257  -0.9923\n15 SrO  24.5CaO  24.5NaO2  6P2O5  30 ­SiO2  1.5155  1.4598  -1.254\nData in bold signify emphasis of table entries\nFig. 12  Dissolution rates (Dr) of\nPhosphosilicate glasse system\nwith increasing SrO content\nafter immersion in distilled\nwater at 90 °C for 20 days\nTable 4  The composition of the glasses in mol% and some characteristics of the quaternary glasses\nGlass samples  Starting Oxide mixtures mol %  The weight fraction of oxide elements in the GIC  Dissolution rate log\n(GIC 15 mol%)  samples  (Dr) (g/cm2 /min)\nBefore immersion  After immersion in distilled\nin distilled water  water at 90° for 20 days\nBase  24.5CaO  24.5NaO2  6P2O5  45SiO2  1.3229  1.005  -0.4977\nCeO2  24.5CaO  24.5NaO2  6P2O5  30 ­SiO2  1.1812  1.1548  -0.1823\nCuO  24.5CaO  24.5NaO2  6P2O5  30 ­SiO2  0.7891  0.62254  -0.7784"
+      ]
+    },
+    "10.1038/369633a0": {
+      "title": "Density-driven liquid–liquid phase separation in the system AI2O3–Y2O3",
+      "canonical_citation": "Aasland & McMillan, Nature 369, 633 (1994) — \"Density-driven liquid–liquid phase separation in the system AI2O3–Y2O3\"",
+      "downloaded_file": "data/vpn_papers/10.1038_369633a0.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {},
+      "extracted_tables": [
+        "TABLE 1  Analysis of quenched Y20 r AI 20 3 sample\nobserved to nucleate and grow within the supercooled high-\nGlassy inclusion phase  Glassy matrix  density liquid matrix to form the observed inclusions, consistent\nY (at%)  AI (at%)  o (at%)  Y (at%) AI (at%)  o (at%)  with a first-order liquid-liquid transformation process. The\ngrowth rate in such processes is strongly dependent on the liquid\n11.65  28.59  59.76  11.43  28.54  60.03\nviscosity. The measured viscosity of molten YAG shows Arrhen-\n11.69  28.59  59.72  11.54  28.30  60.16  30\n11.44  28.73  59.83  11.50  28.62  59.88  ius behaviour . Extrapolation to a glass transition in the neigh-\n11.49  28.66  59.85  11.50  28.32  60.10  bourhood of 1,150 DC gives a viscosity of 10 poise (P), rather\n11.64  28.24  60.12  11.45  28.43  60.12  than the necessary large value near 1013 P at T g , so that the\n11.42  28.51  60.07  11.39  28.37  60.24  viscosity must increase rapidly in the temperature range just\n11.31  28.96  59.74  11.29  27.83  60.88  above T g • It is reasonable that the liquid-liquid transformation\n11.44  28.67  59.89  11.61  28.62  59.77  is arrested if the transition temperature is close to T g , and if\n11.37  28.60  60.04  11.56  28.71  59.73  the system is cooled rapidly through this temperature region.\n11.61  28.11  60.29  11.46  28.26  60.28  Attempts were made to slow the cooling rate sufficiently to allow\n11.49  28.41  60.09\ncomplete transformation from the high-temperature to the low-\n11.46  28.49  60.05\n"
+      ]
+    },
+    "10.1038/382796a0": {
+      "title": "A silicoboron carbonitride ceramic stable to 2,000°C",
+      "canonical_citation": "Riedel et al., Nature 382, 796 (1996) — \"A silicoboron carbonitride ceramic stable to 2,000°C\"",
+      "downloaded_file": "data/vpn_papers/10.1038_382796a0.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {},
+      "extracted_tables": [
+        "TABLE 1  Analysis of heat-treated silicoboron carbonitride\nAnnealing temp. ( °C)  Mass loss*\nholding time (h)  (wt%)  Composition (wt%)  Total  Empirical formulat\n1,000/1  0  45.6  6.0  28.6  15.5  3.8  99.5  Si 3_0B10C._ 3N2 _0\n2,000/2  6  45.0  5.6  30.3  16.3  0.3  97 .6  Si 3 _2 B1 oC 5 _0 N23\n2,100/0.5  39  52.8  7.6  27.6  11.0  0.5  99.5  Si 21 B1.0C33N11\nChemical analysis of Si 3_0B1_0C4_3N2.0, heat-treated at various temperatures under 0.1 MPa Ar. Silicon and boron were determined by optical emission\nspectrometry with inductively coupled plasma excitation (OES-ICP, Perkin Elmer ICP 5500, standard deviation <1% with Cu as internal standard); carbon,\nnitrogen and oxygen were analysed by carrier gas heat extraction (CGHE, LECO C,S-analyzer 244 and N, O-determinatorTC 436, standard deviation <1% for\nC and <2% for N and 0).\n* Mass loss of Si 3 _0B1_0C43 N2 _0 after isothermal annealing at 2,000 and 2,100 'C.\nt Calculated without considering the oxygen contamination.\n(equation (3)) is suppressed in the silicoboron carbonitride up to  D\n2,000 °C. In contrast, boron-free silicon carbonitride 9•10 decom-  •  p-Si N\n3  4\nposes rapidly at temperatures above 1,400 °C (Fig. 2).  D  ~-SiC\nD\nThe thermal stability of the silicoboron carbonitride is related\n•\n-0  D\nto the synthesis procedure. Co-ammonolysis of 1 with (CH3 ) 2SiC12  C:\n0  D\nor reaction of 2 with BH3 • S( CH3) 2 and subsequent thermolysis of  ()\nQl\nU}\nthe corresponding polyborosilazanes obtained resulted in silico-  a;"
+      ]
+    },
+    "10.1038/nature04421": {
+      "title": "Atomic packing and short-to-medium-range order in metallic glasses",
+      "canonical_citation": "Sheng et al., Nature 439, 419 (2006) — \"Atomic packing and short-to-medium-range order in metallic glasses\"",
+      "downloaded_file": "data/vpn_papers/10.1038_nature04421.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "coordination_number": [
+          "icosahedral ordering’, a term often used to describe local topological",
+          "icosahedral order. The icosahedral and the structure factors in sca",
+          "icosahedral ordering of single-solute-centred quasi-equivalent",
+          "Icosahedral short-range order in amorphous alloys. Phys. Rev.",
+          "Icosahedral order and defects in metallic liquids and 44. Kramer, M",
+          "Icosahedral ordering in the Lennard-Jones liquid computational resourc",
+          "icosahedral order on the Author Information Reprints and permission"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1038/nmat1215": {
+      "title": "Understanding the phase-change mechanism of rewritable optical media",
+      "canonical_citation": "Kolobov et al., Nature Mater 3, 703 (2004) — \"Understanding the phase-change mechanism of rewritable optical media\"",
+      "downloaded_file": "data/vpn_papers/10.1038_nmat1215.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "bond_length_A": [
+          "bond length is ±0.01 Å",
+          "Te–Te distances.The lattice parameter of 6.02 Å",
+          "Te–Sb bond length obtained in EXAFS (4.26 ± 0.01 Å",
+          "Ge–Te bond length in the binary GeTe (2.80–2.84 Å",
+          "Te–Sb bonds get shorter (2.61 Å",
+          "bond lengths18. Interestingly, at the same time the 6.02 Å"
+        ],
+        "coordination_number": [
+          "tetrahedral coordination perfectly reproduces all the spectral features.Th",
+          "octahedral coordination on crystallization. We thus",
+          "tetrahedral coordination. Factory, Tsukuba, Japan) and in conversion elect"
+        ]
+      },
+      "extracted_tables": [
+        "Table 1 Comparison of the GST bond lengths determined from EXAFS and XRD\nanalysis for the crystalline and laser-amorphized states.\nBond  Bond length (Å)\nFrom EXAFS  From XRD\nCrystallized state\nGe–Te  2.83 ± 0.01  3.0(1) ± 0.3\nSb–Te  2.91 ± 0.01  3.0(1) ± 0.3\nTe–Te (2nd)  4.26 ± 0.01  4.2(6) ± 0.2\nLaser-amorphized state\nGe–Te  2.61 ± 0.01  2.61*\nSb–Te  2.85 ± 0.01\nFigure 5 Fragments of the local structure of GST around Ge atoms in the crystalline\n(left) and amorphous (right) states.Stronger covalent bonds are shown as thicker lines  *Calculated based on the rocksalt lattice parameter assuming Ge atoms occupy tetrahedrally coordinated sites in\nwhereas weak interblock bonds are shown as thinner lines.Notice that the stronger  the Te f.c.c. sublattice\ncovalent bonds remain intact on the umbrella-flip structural transformation rendering the\nGe sublattice random.It is this nature of the structural change that makes the medium fast\nand stable.\nagreement between the EXAFS,XANES and XRD data provides strong\nsupport for the structural models we propose.\nIn another commercially used phase-change material, namely an\nStructural transformations may thus take place locally without  AgInSbTe alloy, we have observed qualitatively similar behaviour,\nrelaxation of the complete structure.  namely the first-nearest-neighbour peaks became stronger on\nIt should be stressed that the above structural transformation  amorphization. The binary GeTe also clearly exhibited a switch from\ninvolves a change"
+      ]
+    },
+    "10.1038/nmat982": {
+      "title": "Cobalt-based bulk glassy alloy with ultrahigh strength and soft magnetic properties",
+      "canonical_citation": "Inoue et al., Nature Mater 2, 661 (2003) — \"Cobalt-based bulk glassy alloy with ultrahigh strength and soft magnetic properties\"",
+      "downloaded_file": "data/vpn_papers/10.1038_nmat982.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "Tg = 910 K",
+          "Tg) and crystallization temperature (Tx) were 910 K",
+          "Tg and Tx was 72 K"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1038/s41586-020-2375-9": {
+      "title": "Ultralow-dielectric-constant amorphous boron nitride",
+      "canonical_citation": "Hong et al., Nature 582, 511 (2020) — \"Ultralow-dielectric-constant amorphous boron nitride\"",
+      "downloaded_file": "data/vpn_papers/10.1038_s41586-020-2375-9.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "bond_length_A": [
+          "B–N bond length of 1.44 Å"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1063/1.110520": {
+      "title": "A highly processable metallic glass: Zr41.2Ti13.8Cu12.5Ni10.0Be22.5",
+      "canonical_citation": "Peker & Johnson, Applied Physics Letters 63, 2342 (1993) — \"A highly processable metallic glass: Zr41.2Ti13.8Cu12.5Ni10.0Be22.5\"",
+      "downloaded_file": null,
+      "content_status": "abstract_only",
+      "extracted_sro_mro_mentions": {
+        "cooling_rate_or_dmax": [
+          "critical cooling rate to retain the glassy phase is of the order of 10 K/s"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1063/1.1738945": {
+      "title": "Highly processable bulk metallic glass-forming alloys in the Pt–Co–Ni–Cu–P system",
+      "canonical_citation": "Schroers & Johnson, Applied Physics Letters 84, 3666 (2004) — \"Highly processable bulk metallic glass-forming alloys in the Pt–Co–Ni–Cu–P system\"",
+      "downloaded_file": null,
+      "content_status": "abstract_only",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "glass transition temperature of 508 K",
+          "glass transition temperature of 506 K"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1063/1.2008374": {
+      "title": "Gold based bulk metallic glass",
+      "canonical_citation": "Schroers et al., Applied Physics Letters 87, 061912 (2005) — \"Gold based bulk metallic glass\"",
+      "downloaded_file": null,
+      "content_status": "abstract_only",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "glass transition temperature of 401K"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1063/1.3075062": {
+      "title": "Soft ytterbium-based bulk metallic glasses with strong liquid characteristic by design",
+      "canonical_citation": "Wang, Wang & Bai, Applied Physics Letters 94, 041910 (2009) — \"Soft ytterbium-based bulk metallic glasses with strong liquid characteristic by design\"",
+      "downloaded_file": null,
+      "content_status": "abstract_only",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "glass transition temperature (Tg∼347 K"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1063/1.360537": {
+      "title": "Formation of Ti–Zr–Cu–Ni bulk metallic glasses",
+      "canonical_citation": "Lin & Johnson, Journal of Applied Physics 78, 6514 (1995) — \"Formation of Ti–Zr–Cu–Ni bulk metallic glasses\"",
+      "downloaded_file": null,
+      "content_status": "abstract_only",
+      "extracted_sro_mro_mentions": {
+        "cooling_rate_or_dmax": [
+          "critical cooling rate for glass formation is of the order of 250 K/s"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1063/1.4913586": {
+      "title": "Order within disorder: The atomic structure of ion-beam sputtered amorphous tantala (a-Ta2O5)",
+      "canonical_citation": "Bassiri et al., APL Materials 3, 036103 (2015) — \"Order within disorder: The atomic structure of ion-beam sputtered amorphous tantala (a-Ta2O5)\"",
+      "downloaded_file": "data/vpn_papers/10.1063_1.4913586.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "coordination_number": [
+          "coordination number of first-shell oxygens is 4",
+          "coordination numbers than are deduced from the EXAFS results, 6.5"
+        ]
+      },
+      "extracted_tables": [
+        "TABLE I. EXAFS fit parameters for IBS amorphous tantala annealed at 300 ◦C and 600 ◦C.\n300 ◦C  600 ◦C\nPath  r (Å)  σ 2 (Å2)  N S02  N (S02 = 0.8)  r (Å)  σ 2 (Å2)  N S02  N (S02 = 0.8)\nTa-O  1.85(4)  0.0024(27)  1.52(172)  1.90(216)  1.84(8)  0.0021(60)  1.26(350)  1.57(437)\nTa-O  1.99(6)  0.0058(57)  2.48(178)  3.11(223)  1.98(12)  0.0063(122)  2.54(369)  3.18(461)\nTa-Ta  3.14(2)  0.0075(25)  1.14(61)  1.42(76)  3.14(4)  0.0077(52)  1.11(115)  1.39(143)\nTa-O  3.55(2)  0.0024(24)  1.98(57)  2.47(72)  3.55(3)  0.0011(34)  1.82(90)  2.27(113)\nTa-Ta  3.88(3)  0.0066(68)  0.41(58)  0.52(73)  3.89(4)  0.0069(84)  0.65(109)  0.81(137)\ndistance to the neighboring atom; σ 2, the Mean Square Relative Displacement (MSRD); and E0, the\nabsorption energy. Since the value of S02 is typically between 0.8 and 1.0, it is possible to obtain a\nlower and upper bound on N for each distinct scattering path.14\nFits were performed on χ(r) using IFEFFIT15 with three free parameters per path plus an addi-\ntional parameter for the absorption energy. Our fitting range for ∆r and ∆k are 1–4 Å and 3–14 Å−1,\nrespectively. The fitting results for all samples are listed in Table I. It was identified that a 4-shell\nmodel consisting of (in order of increasing distance from Ta) oxygen, tantalum, oxygen, and tantalum\nprovides the best fit to the EXAFS spectra. The EXAFS R-factor was used as a standard least-squares\nmetric for the quality of fits,12 with obtained values 0.004 and 0.011 for the samples annealed at"
+      ]
+    },
+    "10.1063/5.0153282": {
+      "title": "Boron coordination change in barium borate melts and glasses and its contribution to configurational heat capacity, entropy, and fragility",
+      "canonical_citation": "",
+      "downloaded_file": "data/vpn_papers/10.1063_5.0153282.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "bond_length_A": [
+          "Ba–Ba correlations circa 2.77 and 4.63 Å"
+        ],
+        "coordination_number": [
+          "coordination numbers, via the use of the temperature-dependent bond-valence method.48",
+          "4-fold coordination states, RBO(T) = 1.375 + (5.14 x 10-6)T is a temp"
+        ],
+        "thermal_Tg_Tx_K": [
+          "glass transition temperature of Tg = 878 K",
+          "Tg = 878 K27, 44 and Tm = 1183 K",
+          "Tg = 816 K27, 44 and Tm = 1378 K",
+          "Tg ± 100K",
+          "Tg ± 100 K"
+        ]
+      },
+      "extracted_tables": [
+        "Table 1: Results of van’t Hoff analyses for the barium borate materials of the present study, compared\nto analogous results for some light-alkali borate liquids.48, 49 Values for N4, CPconf(T=Tg) and S∞conf are\ncalculated based on equations 13, 15 and 18 respectively. The percentage of CPconf(T=Tg) arising due to\nboron isomerization is given in the penultimate column, calculated by taking the model values and\ndividing by calorimetric totals, where available.\nΔH*  ΔS*  Tg  N4†  CPconf(T=Tg)\nS∞conf  CPconf/\nconf\nFormula  J  (kJ mol-1  (J mol-1  (K)  (T=Tg)  (J mol-1\n(J mol-1  CP (calor.)\nboron)  boron K-1)  ± 7K  (%)  boron K )\nboron K-1)\n-1  (%)\n76  93\nNa2B4O7  0.5  21(2)  21(2) 752  35(5)  10.1(1.3)  31(4)  5.2(6)\n76  93\nNa2B4O7‡  0.5  20(2)  16(2) 752  38(4)  7.4(1.2)  22(4)  4.6(6)\nBaB4O7  0.5  22(3)  19(2) 87827  33(5)  8.5(8)  20(2)24  4.2(7)\n27  24\nBaB2O4  1  16(2)  23(2) 816  41(9)  11.7(9)  23(2)  4.3(1.7)\nLiBO2  1  22(1)  35(1) 69476  41(7)  30(2)  44(3)93  8.9(8)\nLi4B2O5  2  13.2(5)  40(1) 55476  12(2)  7.5(8)  -  1.9(1.2)\n*Re-calculated based on a nominal 1 mol% modifier oxide uncertainty. Original values neglect this\nand therefore vary slightly, see Fig. 7 and original references.48, 49 †Calculated based on equation 13\nPage 30 of 33\nand data in columns 2 to 5. ‡This sample suffered from enhanced mass losses during experiment,\nleading to a lower bound final composition of 30 mol% Na2O, assuming preferential volatilization of\nsoda only.50\nTable 2: Neutron diffraction"
+      ]
+    },
+    "10.1103/physrevb.19.6418": {
+      "title": "Nuclear spin-lattice relaxation in thallium-containing chalcogenide glasses",
+      "canonical_citation": "Jellison & Bishop, Phys. Rev. B 19, 6418 (1979) — \"Nuclear spin-lattice relaxation in thallium-containing chalcogenide glasses\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevb.19.6418.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {},
+      "extracted_tables": [
+        "Table II. The high-temperature region (region III)  applied-field) dependence that goes as v', ( roH').\nis shown in Fig. 3 and in more detail in Fig. 4; in  The data can be fit to the equation\nthis region, T, is characterized by an Arrhenius\n1/T,  \"' = (K„,/(u') exp(- &E„,/kT),  (15)\nwhere Ezzz and &Ezzz are given in Table II, and\n4) = 2FVO.\n400  350  300  Similar results are obtained for Tl, Se(2As, Se, )\nI  0.0  r\nglass. Figure 5 shows the temperature dependence\nof T, in region II. Again, the temperature depen-\nT (K)\nIOO-\n400 350  300  250\nI  I\nIO»\nTI\n{rnse c)\nI.O  I.O-\nT)\n(sec)\n.OI-\nI\nI\n\"I"
+      ]
+    },
+    "10.1103/physrevb.3.1631": {
+      "title": "Magnetic Properties of an Amorphous Mn-P-C Alloy",
+      "canonical_citation": "Hasegawa, Phys. Rev. B 3, 1631 (1971) — \"Magnetic Properties of an Amorphous Mn-P-C Alloy\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevb.3.1631.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {},
+      "extracted_tables": [
+        "TABLE I. X-ray data for the crystalline  Mn-P-C alloy,  Mn5C2  phases (CrE& radiation).\nCrystalline  Mn-P-C alloy  MnsP phase (Ref. 21), or MnsC2 phase* (Ref. 22)\nLine  Visual  6 &degree)  Relative  8 (degree)\nintensity  intensity\"\n26. 76  {301}  25. 16  26. 761\n28. 01  {311}  0. 98  28. 05\n3c  28. 95\n30. 17  {002}  1. 63  30. 081\n31 01  {321}  90. 07\n30, 979\n~\n({231}  65. 56\n32. 04  {330}  40. 00  31. 940\n( {112}  89. 03  32. 096\nVVW  32. 66  {220}  0. 05\n1 37\n~\n32, 60\n32. 68\n33. 44  {021}  5. 71  33. 37\n33. 84  {420}  59. 51\n33. 893\n{240}  1.49\n] 0g  34. 27  {402}  2. 11  34. 17\n{312}  3. 65  34. 53\n34. 82  {411}  34. 14\n34. 887\n{141}  100. 00\nvvw\n36. 50  {000}  0. 50  36. 50\n2. 82  36. 52\n37. 73  {222}  41. 55  37. 798"
+      ]
+    },
+    "10.1103/physrevb.31.1028": {
+      "title": "Extended x-ray absorption fine-structure study of hydrogenated amorphous silicon-germanium alloys",
+      "canonical_citation": "Incoccia et al., Phys. Rev. B 31, 1028 (1985) — \"Extended x-ray absorption fine-structure study of hydrogenated amorphous silicon-germanium alloys\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevb.31.1028.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "bond_length_A": [
+          "Ge-Si distances are, respectively, 2.45 and 2.38 A",
+          "bond length of 8=2.45 A",
+          "Ge-Si distance is 2.38 +0.01 A"
+        ],
+        "coordination_number": [
+          "coordination number N=4",
+          "coordination number was equaal too 4"
+        ]
+      },
+      "extracted_tables": [
+        "TABLE I. Numerical values of the parameters obtained from the fitting procedure. Column 1, Ge\nrelative content as obtained by chemical analysis. Column 2, Ge relative content as obtained by the fit\nof the EXAFS data as discussed in the text. Column 3, bond distance of the Ge-Ge pair. Column 4,\ndifference of the disorder factor of the Ge-Ge pair with respect to the model. Column 5, bond distance\nof the Ge-Si pair. Column 6, difference of the disorder factor of the Ge-Si pair with respect to the\nmodel. For the greatest Ge concentration we do not report the values for the Ge-Si pair, since its con-\ntribution is within the uncertainty of the technique.\n0\n%Geby  RinA\n2  A2\n% Ge  EXAFS  Ge-Ge  Ao. in 10  A  Rsj ~e in A  in 10\n28  26  2.45  —0.21  2.37  —0.03\n.  32  30  2.45  0.42  2.37  —0.20\n62  62  2.45  —0.05  2.37  0. 17\n64  65  2.45  —0.73  2.38  0.74\n77  89  2.45  —,0. 11  2.38  2.7\n89  100  2.45  —0.09\n(a) the bond lengths are constant over the whole concen-  of the distances to their \"molecular\" values.\ntration range;  As mentioned previously, from the knowledge of the\n(b) the relative concentrations of the Ge-Ge and Ge-Si  average composition of the Ge first-nearest-neighbor  shell\npairs are in excellent agreement with. the results of the  it is possible to derive information on the short-range or-\nchemical analysis (compare columns one and two);  der in the alloy. As a matter of fact, different degrees of\n(c) Ao. values obtained are so small that the disorder  composition"
+      ]
+    },
+    "10.1103/physrevb.36.9545": {
+      "title": "Diffusion and thermal stability of amorphous copper zirconium",
+      "canonical_citation": "Stelter & Lazarus, Phys. Rev. B 36, 9545 (1987) — \"Diffusion and thermal stability of amorphous copper zirconium\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevb.36.9545.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {},
+      "extracted_tables": [
+        "TABLE I. Diffusion of Ag in amorphous Cu, OZr, o.\nT  D  D()\n(C)  (min)  (cm /sec)  (cm'/sec)  (e V/atom)\nWheel side diffusion\n317.0  300  1.08 & 10  1.30&&10  \"  0.72\n1.21 ~ 10\n335.7  300  1.98 ~ 10-\"\n1.21 ~ 10\n354.3  60  2.34' 10-\"\n1.58 y, 10\n385.4  25  5.81', 10-\"\n4. 36X10-\"\nTop side diffusion\n317.0  300  3.22 x 10-\"  1.18 ~ 10-\"  0.82\n4.44~ 10-\"\n354.3  60  1.27&10  \"\n1.85 ~ 10-\"\n385.4  25  1.85 X 10\n36  DIFFUSION AND THERMAL STABILITY OF AMORPHOUS. . .  9549\n-15\n0 2U=~i+02+\n2  2 ' ' '\nThe broadening  due to diffusion  alone is given by the\ndifference\n~ -16—\n~D2= A\nCtl\n2\nCU  U2  (3)\nE\nC3",
+        "TABLE II. Diffusion of Au in amorphous Cu, ozrgo.\nT  D  Do\n('C)  (min)  (cm /sec)  (cm /sec)  (eV/atom)\nTop side diffusion\n317.0  300  1.05 X 10-\"  1.70X10 '  1.55\n354.3  60  7.00~ 10-\"\n385.4  25  2.44&& }0-\"\nC. Errors in diffusion measurements  highest  temperatures,  would only introduce  an error  of\n8% in D.\nThe present experiment pushes diffusion measure-  (3) Measurements  of diffusion distance and data\nments close to the limits of resolution of current mi-  fitting: By far the most serious of the possible random\ncroanalytical techniques, and the experimental errors,  and systematic errors in this experiment arise from ma-\naccordingly, are much larger than those involved in con-  jor uncertainties in the actual values of the (extremely\nventional radiotracer diffusion rneasurernents.  Signifi-  small) diffusion penetration distances involved, and, for\ncant errors are unavoidably introduced in calibration of  the Au diffusion measurements, in fitting the raw data to\nthe sputter-time scale (for AES) and energy scale (for  the expected thin-film solutions to the diffusion equation.\nRBS) in terms of absolute distance. It should, however,  In the analysis of the Au diffusion data, the least-\nbe noted that these errors are not of concern in inter-  squares errors of 10—20% indicated by the scatter of the\ncornparison of difFusion measurements made by means of  data points around the straight-line regions, as shown in\nthe same technique, nor in calculation of activation ener-  F",
+        "TABLE IV. DSC measurements  of amorphous Cu-Zr alloys.\nCrystallization  Heating  Activation\ntemperature  rate  energy\nAlloy  (K)  (K/min)  (e V/atom)\nCU4)Z1 5g  732  50  3.87'\n723  50  4.25\nCU48Zrg2  750  50  4 49'\nCugpZl 5p  790  50  4. 1 1c\n790  50  4.21'\n730  20  317\n725  20  3. 10\nCU55Z1 gg  748  20  3.68\"\n770  50  5 30\nFICx. 16. Local free energy f(u) of a cell in the free-volume\nmodel. For u &u„ f(u) can be approximated as quadratic and\n'Reference 9.\nReference 28.\nfor v & v„ linear in its dependence on v, as shown by the  'Reference 29.\ndashed curve (Ref. 22).  Reference 30.\n9556  ERIC C. STELTER AND DAVID LAZARUS  36\ngen. Using this criterion, the most reliable data for  roughly  0.05 eV/atom,  the number  density  is\namorphous Cu50Zr5O are the data of Budhani et al.  2. 856 & 10 formula units per cm, and the melting\nand the present study.  temperature  is approximately  930 'C.  Using these\nvalues and Eqs. (12) and (13), at 400 C, an activation en-\n2. Exothermal  sects preceding crystallization  ergy of nucleation of 2. 3 eV/atom corresponds to a criti-\ncal radius of 12 A.\nThe exothermal plateau in Fig. 11 preceding the cry-  When quenched relatively slowly from the liquid,\nstallization peak is due to the relaxation of the glass and\nCu~pZr5p crystallizes into a metastable bcc CsC1 struc-\ncan be interpreted as resulting from processes with a  in which the Zr atoms are on the corners of the\nture,\nspectrum of activation energies.  The close agree-\nunit cell and a Cu0 ato"
+      ]
+    },
+    "10.1103/physrevb.37.2979": {
+      "title": "X-ray structural study of amorphous Mo-Ge films",
+      "canonical_citation": "Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988) — \"X-ray structural study of amorphous Mo-Ge films\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevb.37.2979.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "bond_length_A": [
+          "first peak is at 2.65 A"
+        ],
+        "coordination_number": [
+          "coordination number at about 23"
+        ]
+      },
+      "extracted_tables": [
+        "TABLE I. RDF results.  be as strong, and is more consistent with mixing of these\ntwo local structures on a 5ne size scale. The same con-\nMo concentration  Density  Position\nclusion would be obtained using the 42 at. oM oS(k}\nPeak area'\n%%u\n(at. %)  (g/cm )  (A)\nto represent the Mo-modi6ed material coexisting with\n0  5.3  2.47  4.0  the tetrahedral Ge in this superposition, because of the\n5.7  2.48  similarity of the S(k)'s at 25 and 42 at. % Mo.\n5.9  2.49  4.8  RDF's and S(k}'s tell much about the average struc-\n8  6.3  2.54  5.2  ture at a given composition and its change with compo-\n14  6.8  2.60  6.0  10.4  sition. They show the replacement of the a-Ge RTN by\n25  7.4  2.67  12.3  a distinct Mo-modified amorphous structure by 25 at. %\n42  7.8  2.67  12.4  Mo signaling the semiconductor-metal transition (region\n65  9.3  2.74  13.5  I). In region II the average structure appears to change\n'Areas represent a compositionally averaged number of atoms  little with composition, and appears to be much like that\nbecause of the normalization used and can be converted into  of the emerging Mo-modified material of region I. In re-\nunits of (electron)~. Areas were measured from 2.0 A. to the  gion III, the average structure shows features typical of\nminimum between the Srst and second peaks. For the left  common metal-metalloid  glasses and other metallic\ncolumn this minimum was about 3.0 A while for the right  glasses often described by DRP models. RDF's do not,\ncolumn it eras about 3.",
+        "TABLE II. Anomalous scattering factors for DAS tech-  tain only Ge-Ge and Ge-Mo correlations while Mo\nnique. Photon energies are measured relative to the K edge of  DDF's contain only Mo-Mo and Mo-Ge correlations al-\nthe species whose edge is being utilized for the DAS effect.  lows us to infer much from Fig. 7 about how the three\nindividual pair correlations contribute to the DDF's.\nEnergy\n{e&)  Mo  f'  Mo  f\"  Ge  f'  Ge  f\"  At 14 at. % Mo (in region I) the average Ge and Mo\nenvironments are very diferent. The Ge environment is\n14-at. %-Mo sample  quite disordered on average, as seen by the poorly\nGe DAS  —0.6  1.6  —3.5  0.5  de6ned Srst shell with many apparent distances between\n—0.6  1.6  —6.1  0.6  the erst and second peaks, and broad, almost featureless\nMo DAS  —3.3  0.5  0.2  1.5  second and higher shells. Some tetrahedral a-Ge is still\n—7.7  1.0  0.2  1.5  present as indicated by slight shoulders at the second\nand third a-Ge peak distances. The disordered part of\n42-at. %-Mo sample  the Ge environment comes from modi5cation by Mo.\nGe DAS  —0.6  1.6  —3.5  0.5  The average first-shell coordination number is still rather\n—0.6  1.6  —7.0  0.7\n—3.5  small, with the increase due largely to increasing coordi-\nMo DAS  0.5  0, 2  1.5\n—7.3  nation at longer distances. The first peak is at 2.65 A,\n1.0  0.2  1.5\nabout 0.2 A longer than the Ge-Ge distance in a-Ge.\n65-at. %-Mo sample  The Mo average environment at 14 at. % Mo has a rela-\nGe DAS  —200  —0.6  1.6  —4.0  0.5  tivel",
+        "TABLE III. DAS results.\n&0—  Mo concentration  Peak position\n(at. %)  (A)  Peak area'\nGe DDF's\n14  2.65  6.5\n42  2.71  9.0  13.7\n65  2.74  9.5  13.0\nMo DDF's\n2.68  8.6  10.5\nFIG. 7. DDF's for a given composition are superimposed  2.69  8.7  12.7\nhere, and di5'erent compositions are plotted on the same scale  2.81  14.3\nbut om'set vertically. Plotted this way, much can be inferred\nabout how the three pair correlations contribute to the average  'Peak areas approximate  a compositionally average number of\nstructure at each composition and how these contributions  atoms and are measured from 2. 1 to 3.1 or 3.8 A for the values\nchange with composition.  found in the 6rst and second columns.\nX-RAY STRUCl%RAL STUDY OF AMORPHOUS Mo-Ge FILMS\nsimilar to that at 42 at. % Mo but the Mo DDF is very  average structure looks much like that of metallic glasses\ndifFerent from that at 42 at. % Mo. The Mo-Ge main  described by DRP models, and Mo-Mo correlations\npeak of the Ge DDF remains constant in size and posi-  predominate  in this appearance.  Similarities  and\ntion between 42 and 65 at. % Mo, as does the disorder  difFerences  between  Mo and Ge DDF's allow\nbetween the 6rst and second peaks. The Mo DDF  identi6cation of how the individual pair correlation func-\nshows that the long Mo-Mo f]trst distance seen at 42  tions contribute to the structure.\nat. % Mo has collapsed to lower r into a very broad first\nV. KXAFS RESULTS\nshell at 65 at. % Mo. Given that the short Mo-Ge dis-\ntances remai",
+        "TABLE IV. Ge EXAFS modeling results (&21 at. % Mo). The Eo used to obtain these results is\nthat used to make k'g(k) for a-Ge give the tetrahedral distance (2.45 A) and is located about 6 eV\nabove the peak of the resonant line near the Ge E absorption edge.\nMo conc.\n(at. 'Fo)\nOne-Ge-shell  results\n0  2.45  2.80  0.0031  0.038\n8  2.45  1.88  0.0039  0.011\n14  2.46  1.07  0.0032  0.035\n21  2.46  0.52  0.0018  0.036\nTwo-shell results\n0  2.45  3.26  0.0036  2.56  0. 17  0.0006  0.036\n8  2.45  1.74  0.0033  2.61  24. 1  0. 105  0.020\n14  2.46  1.20  0.0037  2.61  1.00  0.0167  0.033\n21  2.46  0.60  0.0023  2.62  1.10  0.0169  0.057\nX-RAY STRUCI'URAL STUDY OF AMORPHOUS Mo-Ge FILMS\n21% Mo\nI  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I\n3 4 5 6 7 8 9 1011121314163 4 5 6 7 8 9 191112131416\nk (A')  k (A\")\nFIG. 9. Modeling results of the Ge k'g(k) with compositions g 23 at. % Mo are shown here. (a) shows one-Ge-shell models su-\nperimposed on the data, and (b) shows two-shell models with one Ge and one Mo shell. Models are dashed curves, and data points",
+        "TABLE V. Ge EXAFS modeling results (& 25 at. % Mo). Eo values used for these fjIt results cor-\nrespond to the energy at the midpoint of the Ge edge rise. This Eo was found to yield minimum X\nvalue for the Mo one-shell fit.\nMo conc.  Mo shell  Ge shell\nat. %  N  N\nMo one-shell results\n25  2.59  1.03  0.0071  0.136\n29  2.58  1.16  0.0070  0.157\n42  2.57  1.75  0.0064  0.083\n65  2.60  3.35  0.0063  0.095\nGe one-shell results\n2S  2.68  1.00  0.0064  0.204\n29  2.68  1.14  0.0064  0.212\n42  2.67  1.85  0.0064  0. 179\n65  2.70  3.73  0.0067  0.221\nTwo-sheH  results\n25  2.59  0.64  0.0057  2.69  0.75  0.0140  0. 128\n29  2+57  0.76  0.0052  2.74  0. 19  0.0020  0.145\n42  2.56  0.75  0.0037  2.71  1.21  0.0080  0.056\n65  2.58  1.60  0.0036  2.75  2.77  0.0088  0.042\n37  X-RAY STRUCTURAL STUDY OF AMORPHOUS Mo-Ge FILMS\nbetween major trends occurs between regions I and II, in\nthe Mo EXAFS the division occurs because regions II\nand III identified in the discussion of the scattering re-\nsults. Modeling results for these two composition re-\ngions will be considered in turn.\nIn regions I and II, the Mo EXAFS is dominated by\nGe neighbors at about 2.6 A, as concluded from com-\nbined one- and two-shell modeling results summarized in\nTable VI. One-shell models with both a Ge and a Mo\nshell were investigated. The Ge one-shell fits have Ge at\nabout 2.6 A from the central Mo in a roughly constant",
+        "TABLE VI. Mo EXAFS modeling results (& 42 at. % Mo). The Eo value used for these Ats corre-\nof the Mo E edge jump.\nsponds to the half-height\nMo conc.  Ge shell  Mo shell\n(at. %)  N  N\nGe one-shell results\n4  2.61  4.44  0.0085  0.053\n8  2.60  4.36  0.0087  0.044\n14  2.60  4.56  0.0082  0.023\n21  2.61  4. 16  0.0078  0.061\n25  2.59  3.59  0.0081  0.043\n29  2.59  3.37  0.0079  0.039\n42  2.59  2.93  0.0077  0.047\nMo one-shell results\n8  2.50  4. 11  0.0092  0. 146\n14  2.51  4.21  0.0086  0. 122\n21  2.50  3.97  0.0083  0. 144\n25  2.49  3.26  0.0083  0. 112\n29  2.49  3.18  0.0083  0. 104\n42  2.49  2.71  0.0079  0.091\nTwo-shell results\n8  2.58  3.71  0.0046  2.61  0.87  0.0047  0.040\n14  2.59  4. 18  0.0075  2.59  0.74  0.0065  0.020\n21  2.60  3.87  0.0074  2.58  0.69  0.0072  0.059\n25  2.60  3.97  0.0092  2.47  0.02  —0.0059  0.036\n29  2.58  2.85  0.0068  2.58  0.78  0.0083  0.030\n42  2.59  2.59  0.0106  2.48  0.11  —0.0014  0.030\nJ. 8. KQRTRIGHT AND A. BIENENSTOCK  37\ndiScult by the poor signal-to-noise  level resulting from\nthe decreased amplitude. This decreased amplitude is it-\nself interesting, as a cursory interpretation may lead to\nthe conclusion of decreased Mo coordination, which is",
+        "TABLE VII. Mo EXAFS modeling results (& 65 at. % Mo). The Eo value used for these fits corre-\nof the edge jump.\nsponds to the half-height\nGe shell  Mo she11\n2\nMo conc.  R  (J2\n(at. %)  (A)  (A )  (A )\nGe one-shell results\n2.64  0.88  0.0088  0.18\n2.66  0.073  0.0095  0.21\nMo one-shell results\n2.53  0.56  0.0064  0.25\n2.55  0.49  0.0069  0.26\nTwo-shell  results\n2.63  0.80  0.0082  2.37  —3.58  0. 11\n2.67  1.03  0.014  2.52  0.03  0. 19\nX-RAY STRUCTURAL STUDY OF AMORPHOUS Mo-Ge FILMS\ntechniques applied to the same samples it must be\nremembered that each technique has a characteristic,\nand largely difkrent, range of measurement in reciprocal\nspace. The range of the DAS experiment is roughly\nO. 5 ~ k~„g 10.5-15.0 A ', the upper limit depending\non the x-ray wavelength.  The e8ective k scale of\nEXAFS is twice that of scattering [because of the factor\nof 2 in the argument of the oscillatory term in Eq. (1)],\nso compared to scattering the EXAFS range is roughly\n7.0g2kEx„ps ~27. 0 A '. Scattering measures interfer-\nence oscillations in a range relatively near to the origin\nwhile EXAFS oscillations are not readily analyzed near\nthe origin but rather in a higher region of reciprocal\nspace. These largely difFerent ranges, coupled with the\nlarge amount of average structural disorder about a\ngiven species in these amorphous alloys, result in largely"
+      ]
+    },
+    "10.1103/physrevb.39.10342": {
+      "title": "Chemical order in the glassyAsxS1−xsystem: An x-ray-absorption spectroscopy study",
+      "canonical_citation": "Yang, Paesler & Sayers, Phys. Rev. B 39, 10342 (1989) — \"Chemical order in the glassyAsxS1−xsystem: An x-ray-absorption spectroscopy study\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevb.39.10342.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "bond_length_A": [
+          "bond distances (2. 57+0.02 A"
+        ]
+      },
+      "extracted_tables": [
+        "TABLE I. Structural parameters for g-Asp 2pSp 8Q g ASQ 3QSQ 70 and g-Asp 4pSQ 6p alloys.\nSample  Shell  Bond  R (A)  bo. (10  A  )'\ng A 0. 20 0. 80  As —S  3.0+1  2.27+0. 01\nAs —As  b  3.5+0. 1\nAs —S  b  3.8+0. 1\ng As0. 30S0. 70  As —S  3.0+0. 1  2.27+0. 01  7+2\nAs —As  b  3.5+0. 1  b\nAs —S  b  3.8+0. 1  b\ng-Asp 4pSp 6p  —\nAs S  3.0+0. 1  2.28+0. 01  6+2\nAs —As  b  3.5+0. 1  b\n'Relative structural disorder with respect to c-As2S3.\nIndeterminate.\n10 348  C. Y. YANG, M. A. PAESLER, AND D. E. SAYERS  39\nV)\n10\n5\n5  10  0  1  2  3  4  5\nz(A ')  R (A)\n\\  I  I\n1\nI\n~f  I  I",
+        "TABLE II. Structural parameters for g-Aso 42SO 58 g-Asp 43SO 57 Aso 45Sp 55 aIld Asp 5pSO 5p alloys.\nSample  Shell  Bond  N  R (A)  a~' (10-' A ')\ng-h. so 42SO 58  As —S  2.8+0. 1  2.27+0. 02  4+5\nAs —As  0.2+0. 1  2.56+0.02  —3+5\nAs —As  3.0+0. 5  3.50+0.02  35+10\ng-Aso 43So. 57  As —S  2.7+0. 1  2.27+0. 02  3+5\nAs —As  0.3+0. 1  2.56+0. 02  2+5\nAs —As  3. 1+0.5  3.50+0.02  32+10\nAso. 45SO. 55  As —S  2.5+0. 1  2.26+0. 02  —2+5\nAs —As  0.5+0. 1  2.57+0.02  2+5\nAs —As  3.4+0. 5  3.52+0. 02  59+10\nAs —S  0.9+0.5  3.58+0.02  48+10\nAso. 5oSo. 5o  —\nAs S  2.0+0. 1  2.24+0. 02  —2+5\nAs —As  1.0+0. 1  2.57+0.02  6+5\nAs —As  3.6+0. 5  3.54+0. 02  74+10\nAs —S  1.6+0. 5  3.58+0.02  34+10\nthe first shell with increasing As content. Structural  work formed principally of AsS3 units. The formation of\nchanges associated with composition indicate that a  As4S4 molecular species in a network of AsS3 elements is\nbreakdown of the AsS3 linked network is observed and  therefore reasonable. The above evidence suggests that\n—\nthe formation of As As bonds is evident.  the excess of As in glassy As-rich alloys, which necessari-\nAn important question in the study of the role of As  —\nly results in an increase in As As bond population at the\natoms in As-rich samples is whether the formation of\n—  —\nexpense of As S bonds, leads principally to the forma-\nAs As bonds is due to the presence of wrong bonds in  tion of As4S4 molecules.\n——\nthe network (i.e., As S As linkages being replaced by  It has been s"
+      ]
+    },
+    "10.1103/physrevb.66.134204": {
+      "title": "Atomic structure and chemical order in Ge-As selenide and sulfoselenide glasses: An x-ray absorption fine structure spectroscopic study",
+      "canonical_citation": "Sen & Aitken, Physical Review B 66, 134204 (2002) — \"Atomic structure and chemical order in Ge-As selenide and sulfoselenide glasses: An x-ray absorption fine structure spectroscopic study\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevb.66.134204.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "bond_length_A": [
+          "As-As distance 共2.44 Å",
+          "nearest-neighbor distance for As atoms within each glass se- ⫹Se) ratio which has a slightly longer 共⬃2.38 Å",
+          "nearest-neighbor distances 共2.44 Å"
+        ],
+        "coordination_number": [
+          "coordination numbers of Ge and As atoms are found to be 4",
+          "coordination number of 4.0"
+        ]
+      },
+      "extracted_tables": [
+        "TABLE I. 共a兲 Ge K-edge EXAFS structural parameters for Gex Asy Se1⫺x⫺y (x:y⫽1:1) glasses. 共b兲 As K-edge EXAFS structural\nparameters for Gex Asy Se1⫺x⫺y (x:y⫽1:1) glasses.\n共a兲\nComposition  First coordination shella  %Se in excess of stoichiometry\nN Se  R Se 共Å兲  2 ␴ Se\n2\n共Å2兲  Nx  R x 共Å兲  2 ␴ 2x 共Å2兲\nGe0.150As0.150Se0.700  4.1  2.36共5兲  0.012  0.0  ⫹33.33\nGe0.167As0.167Se0.666  4.0  2.36共5兲  0.012  0.0  ⫹14.29\nGe0.182As0.182Se0.636  4.1  2.36共5兲  0.012  0.0  0.0\nGe0.200As0.200Se0.600  4.1  2.36共5兲  0.012  0.0  ⫺14.29\nGe0.225As0.225Se0.550  4.0  2.36共5兲  0.012  0.0  ⫺30.16\nGe0.250As0.250Se0.500  4.0  2.36共5兲  0.012  0.0  ⫺42.86\nGe0.275As0.275Se0.450  3.5  2.36共5兲  0.012  0.6  2.42共5兲  0.012  ⫺53.25\n共b兲\nComposition  First coordination shell 共Se/Ge/As兲b  %Se in excess of stoichiometry\nN  R 共Å兲  2 ␴ 2 共Å2兲\nGe0.150As0.150Se0.700  3.0  2.41共0兲  0.010  ⫹33.33\nGe0.167As0.167Se0.666  3.0  2.41共7兲  0.010  ⫹14.29\nGe0.182As0.182Se0.636  3.1  2.41共8兲  0.013  0.0\nGe0.200As0.200Se0.600  3.0  2.41共0兲  0.013  ⫺14.29\nGe0.225As0.225Se0.550  3.0  2.42共0兲  0.014  ⫺30.16\nGe0.250As0.250Se0.500  3.0  2.43共0兲  0.014  ⫺42.86\nGe0.275As0.275Se0.450  3.1  2.44共0兲  0.011  ⫺53.25\na\nThe subscripts Se and x denote structural parameters corresponding to Se and Ge/As nearest neighbors, respectively.\nb\nThese structural fit parameters are independent of the nature of the nearest neighbors of As atoms, within the limits of statistical signifi-\ncance.",
+        "TABLE II. 共a兲 Ge K-edge EXAFS structural parameters for Gex Asy Se1⫺x⫺y (x:y⫽1:2) glasses. 共b兲 As K-edge EXAFS structural\nparamaters for Gex Asy Se1⫺x⫺y (x:y⫽1:2) glasses.\n共a兲\nComposition  First coordination shella  %Se in excess of stoichiometry\nN Se  R Se 共Å兲  2 ␴ Se\n2\n共Å2兲  Nx  R x 共Å兲  2 ␴ 2x 共Å2兲\nGe0.100As0.200Se0.700  4.0  2.36共5兲  0.012  0.0  ⫹40.0\nGe0.125As0.250Se0.625  4.1  2.36共5兲  0.012  0.0  0.0\nGe0.138As0.276Se0.586  4.1  2.36共5兲  0.012  0.0  ⫺15.0\nGe0.143As0.286Se0.571  4.0  2.36共5兲  0.012  0.0  ⫺20.0\nGe0.148As0.296Se0.555  4.0  2.36共5兲  0.012  0.0  ⫺25.0\nGe0.154As0.308Se0.538  4.0  2.36共5兲  0.012  0.0  ⫺30.0\nGe0.160As0.320Se0.520  4.1  2.36共5兲  0.012  0.0  ⫺35.0\nGe0.167As0.334Se0.500  4.0  2.36共5兲  0.012  0.0  ⫺40.0\nGe0.182As0.364Se0.454  4.0  2.36共5兲  0.012  0.0  ⫺50.0\nGe0.200As0.400Se0.400  3.6  2.36共5兲  0.012  0.5  2.42共5兲  0.012  ⫺60.0\nGe0.222As0.444Se0.333  2.1  2.36共5兲  0.012  1.9  2.42共5兲  0.012  ⫺70.0\n共b兲\nComposition  First coordination shell 共Se/Ge/As兲b  %Se in excess of stoichiometry\nN  R 共Å兲  2 ␴ 2 共Å兲\nGe0.100As0.200Se0.700  3.0  2.40共4兲  0.010  ⫹40.0\nGe0.125As0.250Se0.625  3.1  2.40共6兲  0.010  0.0\nGe0.138As0.276Se0.586  3.0  2.40共6兲  0.014  ⫺15.0\nGe0.143As0.286Se0.571  3.0  2.40共6兲  0.014  ⫺20.0\nGe0.148As0.296Se0.555  3.0  2.41共2兲  0.014  ⫺25.0\nGe0.154As0.308Se0.538  3.1  2.41共4兲  0.014  ⫺30.0\nGe0.160As0.320Se0.520  3.0  2.41共6兲  0.014  ⫺35.0\nGe0.167As0.334Se0.500  3.0  2.41共8兲  0.014  ⫺40.0\nGe0.182As0.364Se0.454  3.0  2.42共9兲  0.014  ⫺50.0\na\nThe su",
+        "TABLE III. 共a兲 Ge K-edge EXAFS structural parameters for Ge0.154As0.308(S⫹Se) 0.538 glasses. 共b兲 As K-edge EXAFS structural para-\nmaters for Ge0.154As0.308(S⫹Se) 0.538 glasses.\n共a兲\nComposition (Se/Se⫹S) atomic ratio  First coordination shella\nN Se  R Se 共Å兲  2 ␴ Se\n2\n共Å2兲  NS  R S 共Å兲  2 ␴ S2 共Å2兲\n0.8  3.2  2.36共1兲  0.010  0.8  2.20共7兲  0.010\n0.6  2.5  2.36共1兲  0.010  1.5  2.20共7兲  0.010\n0.4  1.5  2.36共7兲  0.010  2.5  2.20共9兲  0.010\n0.2  0.8  2.38共5兲  0.012  3.2  2.21共5兲  0.010\n共b兲\nComposition (Se/Se⫹S) atomic ratio  First coordination shellb\nN Se  R Se 共Å兲  2 ␴ Se\n2\n共Å兲  NS  R S 共Å兲  2 ␴ S2 共Å2兲  Nx  R x 共Å兲  2 ␴ 2x 共Å2兲\n0.8  1.5  2.35共1兲  0.010  1.5  2.44共6兲  0.010\n0.6  1.0  2.35共1兲  0.010  0.5  2.25共0兲  0.010  1.5  2.45共0兲  0.010\n0.4  0.6  2.33共7兲  0.010  1.0  2.24共9兲  0.010  1.5  2.45共1兲  0.010\n0.2  0.3  2.34共5兲  0.012  1.2  2.23共5兲  0.010  1.5  2.45共0兲  0.010\na\nThe subscripts Se and S denote structural parameters corresponding to Se and S nearest neighbors, respectively.\nb\nThe subscripts Se, S, and x denote structural parameters corresponding to Se, S, and Ge/As nearest neighbors, respectively.\nGeSe4 tetrahedra and AsSe3 trigonal pyramids. However, in  Ge coordination tetrahedra in these glasses. The nature and\nglasses with excess Se, the formation of Se-Se bonds may  relative abundance of such intermediate-range structural\nresult in low-dimensional structural units such as chains or  units in chalcogenide glasses may exert an important control\nrings of Se atoms embedded"
+      ]
+    },
+    "10.1103/physrevb.67.054401": {
+      "title": "Magnetic and transport properties of amorphous Tb-Si alloys near the metal-insulator transition",
+      "canonical_citation": "Liu & Hellman, Phys. Rev. B 67, 054401 (2003) — \"Magnetic and transport properties of amorphous Tb-Si alloys near the metal-insulator transition\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevb.67.054401.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "coordination_number": [
+          "coordination number on rare earth con共Curie-Weiss constant ␪ ⬍0.3"
+        ]
+      },
+      "extracted_tables": [
+        "TABLE I. The composition x in a-Tbx Si1⫺x and the number of\nTb atoms/cm3 determined by RBS ( ␪ was less than 0.4 K and was\ntherefore taken to be zero for all compositions兲.\nComposition  n Tb 共Tb atoms/cm3 )\n0.103  4.856⫻1021\n0.123  5.732⫻1021\n0.133  6.164⫻1021\n0.164  7.471⫻1021\n⫺14 at % RE) and drops significantly when samples are\nstrongly insulating or metallic. The values of p e f f for the\nexpected Tb3⫹ and Gd3⫹ are shown with arrows in Fig. 4共b兲.\nFigure 5 shows the freezing temperature T f for\na-Gdx Si1⫺x and a-Tbx Si1⫺x 共defined as the peak in ␹ ac , as\nmeasured at either 135 Hz or 406 Hz; the shifts with mea-\nFIG. 3. ␹ dc vs T for x⫽0.103–0.164 measured at 100 Oe after  surement frequency are small on this scale兲. Although T f for\ncooling to 2 K in zero field. The data below the freezing tempera-\nture are strongly time dependent. Inset: same data on an expanded\nscale.\nperature is not seen in a-Gd-Si.\nFigure 3 shows ␹ dc versus T 共ZFC兲 for four samples of\na-Tb-Si of different composition. All samples show a peak in\nthe susceptibility indicative of some type of magnetic freez-\ning, but below the peak show a strong time dependence,\nincluding the discontinuity at 4.6 K discussed above. The\nfreezing temperature, defined as the peak in the susceptibil-\nity, depends very little on composition. The data above the\nmagnetic freezing temperature are independent of measure-\nment frequency for all samples.\nMost significantly, as found in a-Gd-Si, the susceptibility\nin the paramagnet"
+      ]
+    },
+    "10.1103/physrevb.77.073306": {
+      "title": "Quenched magnetic moment in Mn-doped amorphous Si films",
+      "canonical_citation": "Zeng et al., Phys. Rev. B 77, 073306 (2008) — \"Quenched magnetic moment in Mn-doped amorphous Si films\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevb.77.073306.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {},
+      "extracted_tables": [
+        "TABLE I. Sample atomic concentration, magnetically active\npercentage, effective moment, atomic concentration of magnetic\n3.0  30\ncenters, and effective to atomic moment ratio.\ncm (%)\n2.5  20\npsat, eff\u0001\u0001B\u0002\nmc\n2.0\n10\nc mb  peff  xcmd\n0  x  a\n共%兲  共 ␮ B兲  共⫻10−3兲\n1.5  0.00  0.05  0.10  0.15  0.20\nMn x\n1.0  0.005  35.2  5.2  1.76\npeff  0.040  5.6  5.5  2.24\n0.5\npsat  0.080  2.8  5.4  2.24\n0.0\n0.120  1.2  4.1  1.44\n0.00  0.05  0.10  0.15\nMn x  0.135  0.8  5.8  1.08\n0.175  0.6  4.0  1.05\nFIG. 3. 共Color online兲 peff 共from A = nMnpeff\n2\n␮2B / 3kBT兲 and psat\n关from M共H = 60 kOe兲 = nMnpsat兴 with different nMn for each x. Lines  a\nMn doping concentration from RBS: a-MnxSi1−x.\nare guides to the eye. Inset shows the percentage 共cm兲 of magnetic  bMagnetically active percentage from Eq. 共1兲 for J = 5 / 2.\ncenters as a function of x.  Effective moment from Eq. 共2兲 for J = 5 / 2."
+      ]
+    },
+    "10.1103/physrevb.78.064207": {
+      "title": "Structure of Cu–As–Se glasses investigated by neutron diffraction with copper isotope substitution",
+      "canonical_citation": "Xin, Liu & Salmon, Phys. Rev. B 78, 064207 (2008) — \"Structure of Cu–As–Se glasses investigated by neutron diffraction with copper isotope substitution\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevb.78.064207.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "bond_length_A": [
+          "As-As distance of 2.44 Å",
+          "As-Se distance of 2.42 Å"
+        ],
+        "coordination_number": [
+          "coordination number is ⯝3",
+          "coordination number is 1",
+          "coordination number of atoms of type ␤, con- 共As2Se3兲 inner diameter and 1",
+          "coordination number corresponds 共As2Se3兲 and wall thickness of 0.1",
+          "coordination numbers obtained from the application of dif- for x = 0.25",
+          "coordination numbers obtained from the 8",
+          "coordination numbers obtained “8"
+        ]
+      },
+      "extracted_tables": [
+        "TABLE I. The mean-coordination numbers obtained from the  8\nfirst peak in ⌬GCu共r兲 for glassy Cu5As46.25Se48.75 共x = 0.0513兲 by\n[∆G(r) - ∆G(0)]/B  (Cu5As46.25Se48.75)\nusing different analysis scenarios and Eq. 共5兲. The real-space func-\ntion was obtained from ⌬FCu共k兲 by using either the cosine window  [∆G(r) - ∆G(0)]/B  (Cu5As46.25Se48.75)\n6\nfunction 共W兲 or MIN 共M兲 method 共see the text兲 and the overall  [∆Gµµ′(r) - ∆Gµµ′(0)]/B (Cu2As3Se4)\nReal space function\nmean Cu coordination number n̄Cu = n̄Cu  As  Se\nCu + n̄Cu + n̄Cu.  [G(r) - G(0)]/B  (AsSe)\nn̄Cu\nCu  n̄As\nCu  n̄Se\nCu  n̄Cu  4\n4.0共2兲W or 3.7共2兲 M  3.9共2兲\n1  3.2共2兲W or 2.9共2兲 M  4.1共2兲  2\n2  2.3共2兲W or 2.0共2兲 M  4.2共2兲\n4.8共2兲W or 4.5共2兲 M  4.7共2兲\n1  3.0共2兲W or 2.7共2兲 M  3.9共2兲  0\n2  4  6  8  10\nDistance r (Å)\n⌬G共r兲 is shown in Fig. 5 and was generated by Fourier trans-\nforming ⌬F共k兲 and by using the MIN method. The first peak  FIG. 5. 共Color online兲 Comparison of the measured difference\nin ⌬G共r兲 at 2.43共2兲 Å covers the range 2.21ⱕ r共Å兲 ⱕ 2.70  functions for glassy 共Cu2Se兲x共AsSe兲1−x, where 关⌬G共r兲 − ⌬G共0兲兴 / B\nand is likely to have contributions from both As-As and  is shown for x = 0.0513 共Cu5As46.25Se48.75兲 and 关⌬G␮␮⬘共r兲\nAs-Se correlations. For example, arsenic has one As nearest  − ⌬G␮␮⬘共0兲兴 / B is shown for x = 0.25 共Cu2As3Se4兲, with the mea-\nneighbor at 2.56– 2.58 Å and two Se nearest neighbors at  sured total pair-distribution function 关G共r兲 − G共0兲兴 / B for glassy\nAsSe. The coefficient B = 2cAscSebAsbSe so that in these",
+        "TABLE III. Parameters describing the first peak in 共i兲 G共r兲 for the network glasses AsSe and As2Se3, 共ii兲\n⌬G共r兲 for glassy Cu5As46.25Se48.75 共x = 0.0513兲, and 共iii兲 ⌬G␮␮⬘共r兲 for glassy Cu2As3Se4 共x = 0.25兲, where\n⌬G␮␮⬘共r兲 is given by Eq. 共3兲 after F⬙ is set to zero and the S␣␤共k兲 are replaced by the corresponding g␣␤共r兲\n␮\nfunctions. The mean-coordination number of matrix atoms ␮ 共As or Se兲 around As is given by n̄As  As\n= n̄As\nSe\n+ n̄As.\n␮\nSystem  Measured function  Peak position 共Å兲  As\nn̄As  Se\nn̄As  n̄As\nAsSe  G共r兲  2.42共2兲  2.4共2兲  2.4共2兲\n1  2.0共2兲  3.0共2兲\nCu5As46.25Se48.75  ⌬G共r兲  2.43共2兲  2.4共2兲  2.4共2兲\n1  2.0共2兲  3.0共2兲\nCu2As3Se4  ⌬G␮␮⬘共r兲  2.42共2兲  2.8共2兲  2.8共2兲\n0.5  2.6共2兲  3.1共2兲\n1  2.4共2兲  3.4共2兲\nAs2Se3  G共r兲  2.42共2兲  3.0共2兲  3.0共2兲\nreal-space functions ⌬GCu共r兲 are compared in Fig. 3. In the  the structure of Cu–As–Se and other M-A-X glasses.4,5,38,40\ncase of the x = 0.25 glass, the gCuCu共r兲 function has been mea-  The model assumes that only s and p electrons are involved\nsured and the Cu coordination environment is described by  in the bonding, such that the “8-N” rule holds for each\n␮\nCu\nn̄Cu = 1.0共3兲 at 2.70共4兲 Å and n̄Cu  ⯝ 3 at a mean distance of  atomic species, and gives n̄Se = 3cCu / cSe + 2 for the case when\n2.42共2兲 Å. For example, if n̄Cu = 0 then maxn̄Cu\nAs  Se\n= 2.9共2兲 and  n̄Cu = 4 and n̄As = 3, whereupon n̄Se = 2.3 for the x = 0.0513\nEq. 共5兲 is valid so that n̄Cu values of 2.1共2兲 and 1.2共2兲 are\nSe\ncomposition. In the case of the x = 0.25 compositio",
+        "Table III show that there must be an increase in the number  work on Cu2Se-AsSe glasses, which 共like Cu-As2Se3\nof As-Se bonds and an accompanying decrease in the number  glasses兲 lie on the As rich side of the Cu2Se-As2Se3 pseudo-\nof As-As bonds relative to glassy AsSe if arsenic is to remain  binary tie line. Early investigations focused on vitreous\nthreefold coordinated by matrix atoms.  Cuy共As2Se3兲1−y 共0 ⱕ y ⱕ 1兲 and a model was developed\nTo further investigate the possible structural units, it is  wherein n̄Cu = 4 for all compositions.41,42 For this tie line,\nuseful to consider the overall mean matrix atom coordination  NQR experiments show that the fraction of arsenic atoms\nnumbers n̄As and n̄Se = n̄Se  Se  As\n+ n̄Se  Cu\n+ n̄Se , where n̄Se  As\ninvolved in As-As homopolar bonds increases with y 共Ref.\n= 共cAs / cSe兲n̄As, n̄Se = 共cCu / cSe兲n̄Cu, and we have assumed that\nSe  Cu  Se\n38兲 while x-ray photoelectron and emission spectroscopy\nSe\nn̄Se = 0 since the glasses lie on the As rich side of the  studies of the electronic structure indicate that Cu is bonded\nCu2Se-As2Se3 pseudobinary tie line. For the x = 0.0153 glass,  to both As and Se atoms.43 An extended x-ray absorption fine\nthe results in Sec. IV demonstrate that threefold coordinated  structure 共EXAFS兲 spectroscopy experiment on the y\narsenic requires the presence of As-As bonds and Table II  = 0.468 75 共Cu15As34Se51兲 glass44 gave n̄Cu = 4, n̄As = 3.44,\nshows that if n̄As As\n= 1, then n̄AsSe\n= 2.0共2兲. Also, from Tabl"
+      ]
+    },
+    "10.1103/physrevb.81.092203": {
+      "title": "Kinetics of volume and enthalpy relaxation inPt60Ni15P25bulk metallic glass",
+      "canonical_citation": "Kohda et al., Phys. Rev. B 81, 092203 (2010) — \"Kinetics of volume and enthalpy relaxation inPt60Ni15P25bulk metallic glass\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevb.81.092203.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "Tg = 476 K"
+        ]
+      },
+      "extracted_tables": [
+        "TABLE I. Fitting parameters calculated by Eq. 共2兲.\n⌬vobs 共cm3 / g兲  ⌬vc 共cm3 / g兲  ⌬vd 共cm3 / g兲  ␤c  ␤d  ␶c 共s兲  ␶d 共s兲\nAs quenched  3.7⫻ 10−5  −7.9⫻ 10−4  1.1⫻ 10−3  0.90  0.68  7494  9409\nPreannealed  4.4⫻ 10−5  −1.0⫻ 10−4  1.4⫻ 10−3  0.62  0.52  704  902\n092203-3\nBRIEF REPORTS  PHYSICAL REVIEW B 81, 092203 共2010兲\nnation as defects in semiconductors. Since there is no trans-  cated in Table I. As a consequence, the formation energy of\nlational invariance in glasses, the defects can relax locally by  free volume is reduced to 12.6/ 6 ⬇ 2.1 eV/ atom and it is of\nemitting long-range stress fields. Our results show that a  the similar magnitude with the formation energy of a single\nsmall change in the fictive temperature results in large dif-  vacancy in the crystal. Whereas the kinematical behavior of\nference in the kinetics. We note that the Pt60Ni15P25 BMG is  enthalpy during relaxation in Fig. 2共b兲 may appear to be\na fragile glass with the fragility m = 67.2,7 so that a small  describable by a single-component model rather than the\nchange in the fictive temperature can produce large changes  two-components model, this result is also compatible with\nin the density of defects.  the two-components model because the change in enthalpy\nIn Ref. 11, we reported that the kinetics of structural re-  due to annihilation of both the n- and the p-type defects\nlaxation in a bulk Pd40Ni40P20 glass with annealing up to  results in positive heat release. As a result, the net relaxation\n6 "
+      ]
+    },
+    "10.1103/physrevlett.102.245501": {
+      "title": "Atomic Level Structure in Multicomponent Bulk Metallic Glass",
+      "canonical_citation": "Cheng, Ma & Sheng, Phys. Rev. Lett. 102, 245501 (2009) — \"Atomic Level Structure in Multicomponent Bulk Metallic Glass\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevlett.102.245501.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "coordination_number": [
+          "icosahedral clusters are identified as the basic local structural moti",
+          "icosahedral order on the other hand, can overcome these problems",
+          "icosahedral order (inset in Fig. 1) was obtained using the EAM pote",
+          "coordination number (CN) near 12",
+          "icosahedral ordering found here exceeds",
+          "icosahedral ordering in two ways.",
+          "icosahedral clusters, but also by their improved",
+          "icosahedral order have",
+          "icosahedral ordering (especially the FI with [26] K. Ahn et al., Phys."
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1103/physrevlett.92.245503": {
+      "title": "Structural Amorphous Steels",
+      "canonical_citation": "Lu et al., Phys. Rev. Lett. 92, 245503 (2004) — \"Structural Amorphous Steels\"",
+      "downloaded_file": "data/vpn_papers/10.1103_physrevlett.92.245503.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {},
+      "extracted_tables": [
+        "TABLE I. Thermal properties and mechanical properties for two representative bulk amorphous steels.\nSteel  Maximum  Tg (K)  Tm (K)  Tl (K)  Density  Vickers  Compression  Young’s  Nanoindentation\nno.  size (mm)  (g=cm3 )  hardness (HV)  strength (MPa)  modulus (GPa)  hardness (GPa)\nA  <7  1341.2  1491.5\nB  12  804.0  1344.3  1411.4  7.89  1224  50  \u00013000  257:1  16:6  14:8  1:2\nC  12  835.5  1368.9  1439.8  7.83  1287  45\n4.75 GPa, respectively [10]. As shown in Table I, the  carbides (see the XRD results in Fig. 2) while the large\nYoung’s modulus of the new glassy steels is more than  peak is ascribed to the solidification of the eutectic. The\ndouble, while the nanoindentation hardness values are  cooling curve of steel B is essentially a single peak, and\nalmost triple, that of bulk Pd40 Cu30 Ni10 P20 metallic glass.  the small, high-temperature peak corresponding to the\nIn addition, all the new BASs are paramagnetic at room  formation of Fe carbides in steel A is completely sup-\ntemperature and become ferromagnetic at cryogenic tem-  pressed. All of these indicate that steel B is very close to\nperatures. The magnetization M\u0006H\u0007 of steel B at various  the eutectic and steel A has an off-eutectic composition.\ntemperatures, together with the magnetic susceptibility in  During heating, steel A displays a wide endothermic peak\nlow fields, indicate that the Curie temperature Tc of this  at an onset temperature of 1341.2 K, followed by a small\nalloy lies near 55 K [11]. Nonferromag"
+      ]
+    },
+    "10.1109/jeds.2019.2919424": {
+      "title": "High-Performance Amorphous Zinc–Tin–Oxide Thin-Film Transistors With Low Tin Concentration",
+      "canonical_citation": "Weng et al., IEEE J. Electron Devices Soc. 7, 632 (2019) — \"High-Performance Amorphous Zinc–Tin–Oxide Thin-Film Transistors With Low Tin Concentration\"",
+      "downloaded_file": "data/vpn_papers/10.1109_jeds.2019.2919424.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {},
+      "extracted_tables": [
+        "TABLE 1.  Comparisons between our TFTs and reported ZTO TFTs in the\nliterature.\nFIGURE 7. Evolution of the transfer characteristics (at Vds = 20 V) of the\noptimal ZTO TFTs as a function of the NBS time.\nTheir transfer and output curves are presented in Fig. 8(a)\nand (b), respectively. The arrow in the middle of Fig. 8 (b)\nindicates the variations of Ids -Vds curves for increasing Vgs .\nIt is found the TFTs can exhibit good electrical charac-  where q and KB refer to the electron charge and Boltzmann’s\nteristics, even with a Sn concentration of only 11.95%.  constant, respectively, and T is the absolute temperature [30].\nThe extracted µfe and Ion/off ratio are 8.71 cm2 /V·s and  As shown in the output characteristics, the clear pinch-off\n1.93 × 108 , respectively, when the Von is −0.4 V. Moreover,  and saturation region reflect that the channels can be avail-\nthe SS is low to 0.17 V/decade. It means that the N total is  ably controlled by the gate and drain electrode, giving them\n6.6 × 1011 cm−2 eV−1 , as the N total can be calculated by  the potential to drive AMOLED displays. Finally, compar-\nthe following equation:  isons of our ZTO TFTs with that of others are shown in\nqKB TNtotal  Table 1 below. Even with a low-doped Sn (11.95%), the\nSS =  ,  (2)\nCOX log (e)  presented ZTO TFTs in our work displayed good electrical\n636  VOLUME 7, 2019\nWENG et al.: HIGH-PERFORMANCE AMORPHOUS ZTO TFTs WITH LOW TIN CONCENTRATION\nperformances, especially showing a SS low to 0.17 V/decade  [12"
+      ]
+    },
+    "10.1111/jace.17993": {
+      "title": "The structure of sodium silicate glass from neutron diffraction and modeling of oxygen‐oxygen correlations",
+      "canonical_citation": "Hannon et al., J Am Ceram Soc. 104, 6155 (2021) — \"The structure of sodium silicate glass from neutron diffraction and modeling of oxygen‐oxygen correlations\"",
+      "downloaded_file": null,
+      "content_status": "abstract_only",
+      "extracted_sro_mro_mentions": {
+        "bond_length_A": [
+          "bond length of 2.45 Å"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1557/jmr.2003.0207": {
+      "title": "Fabrication of ternary Mg–Cu–Gd bulk metallic glass with high glass-forming ability under air atmosphere",
+      "canonical_citation": "Men & Kim, J. Mater. Res. 18, 1502 (2003) — \"Fabrication of ternary Mg–Cu–Gd bulk metallic glass with high glass-forming ability under air atmosphere\"",
+      "downloaded_file": "data/vpn_papers/10.1557_jmr.2003.0207.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "Tx (⌬Tx ⳱ Tx − Tg), from 60 K"
+        ],
+        "cooling_rate_or_dmax": [
+          "critical cooling rates top, and 6 mm"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.1557/jmr.2012.214": {
+      "title": "Formation and properties of strontium-based bulk metallic glasses with ultralow glass transition temperature",
+      "canonical_citation": "Zhao et al., J. Mater. Res. 27, 2593 (2012) — \"Formation and properties of strontium-based bulk metallic glasses with ultralow glass transition temperature\"",
+      "downloaded_file": "data/vpn_papers/10.1557_jmr.2012.214.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "glass transition temperature (26 °C",
+          "Tg is 336 K",
+          "Tg 5 357 K"
+        ]
+      },
+      "extracted_tables": [
+        "TABLE I. Heat of mixing, atomic size and eutectic temperature of  B. Composition range\nhttps://doi.org/10.1557/jmr.2012.214 Published online by Cambridge University Press\nelements with strontium.\nMinor addition provides a powerful tool for the BMG-\nHeat of mixing  Atomic size  Eutectic temperature  forming alloys development and design.19 The GFA and\nElements  (kJ/mol)  (pm)  (°C)  properties of the BMGs are quite sensitive to the compo-\nSr  ...  215.1  ...  sition, and the addition technique has already played an\nBe  \u000310  111.3  ...\nNa  \u00032  185.8  ...\nMg  \u00034  160  426\nAl  \u000318  143.1  590\nNi  \u00031  124.6  660\nCu  \u00039  127.8  507\nZn  \u000321  133.2  369\nGa  \u000327  122.1  503\nPd  \u000384  137.6  ...\nAg  \u000329  144.4  436\nSn  \u000346  140.5  745\nPt  \u000383  137.6  670\nAu  \u000374  144.4  520\nBi  \u000361  154.7  658  FIG. 1. (a) XRD pattern of the as-cast Sr60Mg18Zn22 BMG. (",
+        "TABLE III. Thermodynamic parameters of Sr-based BMGs.\nComposition  Tg (°C)  Tx (°C)  Tm (°C)  Tl (°C)  Trg\nSr60Mg18Zn22  58  101  291  353  0.53\nSr60Li11Mg9Zn20  26  50  236  276  0.54\nSr60Li5Mg15Zn20  42  63  255  300  0.55\nSr60Mg20Zn15Cu5  62  101  293  332  0.55\nSr40Yb20Mg20Zn15Cu5  63  105  327  360  0.53\nSr20Yb20Ca20Mg20Zn20  80  116  285  357  0.56\nSr20Yb20Ca20Mg20Zn10Cu10  78  118  288  369  0.55\nSr20Yb20Ca20Li11Mg9Zn20  46  71  247  286  0.57\nFIG. 5. SEM image of square array on the surface of Sr-based"
+      ]
+    },
+    "10.2109/jcersj2.116.915": {
+      "title": "Compositional dependence of properties of SnO-P2O5 glasses",
+      "canonical_citation": "CHA et al., J. Ceram. Soc. Japan 116, 915 (2008) — \"Compositional dependence of properties of SnO-P2O5 glasses\"",
+      "downloaded_file": "data/vpn_papers/10.2109_jcersj2.116.915.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "glass transition temperatures (< 280°C"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.2320/matertrans.43.1913": {
+      "title": "Direct Comparison between Critical Cooling Rate and Some Quantitative Parameters for Evaluation of Glass-Forming Ability in Pd-Cu-Ni-P Alloys",
+      "canonical_citation": "Nishiyama & Inoue, Mater. Trans. 43, 1913 (2002) — \"Direct Comparison between Critical Cooling Rate and Some Quantitative Parameters for Evaluation of Glass-Forming Ability in Pd-Cu-Ni-P Al...\"",
+      "downloaded_file": "data/vpn_papers/10.2320_matertrans.43.1913.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "Tx (= 87 K"
+        ],
+        "cooling_rate_or_dmax": [
+          "cooling rates ranging from 0.150 to 0.017 K/s",
+          "cooling rates present study, characteristic temperatures, calculated quantibelow 0.050 K/s",
+          "cooling rates from 0.100 to 0.017 K/s"
+        ]
+      },
+      "extracted_tables": [
+        "Table 1 Thermal characteristic temperatures, quantitative parameters for estimation of glass-forming ability and measured Rc for a series\nof glassy Pd–Cu–Ni–P alloys with different compositions and the same eutectic melting.\nNo.  Composition (at%)  Tg (K)  Tx (K)  ∆Tx (K)  Te (K)  Tl (K)  Tg /Te  Tg /Tl  Rc (K/s)\n0  Pd40 Cu30 Ni10 P20  570  657  87  795  848  0.717  0.672  0.100\n1  Pd40 Cu32.5 Ni7.5 P20  568  654  86  799  932  0.711  0.609  0.133\n2  Pd40 Cu35 Ni5 P20  556  636  80  800  857  0.696  0.649  >0.150\n3  Pd40 Cu27.5 Ni12.5 P20  583  665  82  801  897  0.728  0.649  >0.150\n4  Pd40 Cu25 Ni15 P20  596  668  72  803  910  0.742  0.654  0.150\n5  Pd42.5 Cu27.5 Ni10 P20  584  665  81  804  871  0.727  0.671  0.083\n6  Pd45 Cu25 Ni10 P20  595  675  80  805  884  0.739  0.673  0.100\n7  Pd42.5 Cu30 Ni7.5 P20  576  658  82  803  834  0.718  0.691  0.067\n8  Pd45 Cu30 Ni5 P20  577  659  82  804  861  0.718  0.670  0.083\n9  Pd37.5 Cu32.5 Ni10 P20  572  647  75  800  929  0.715  0.615  0.013\n10  Pd35 Cu35 Ni10 P20  564  641  77  801  876  0.704  0.643  >0.150\n11  Pd37.5 Cu30 Ni12.5 P20  573  658  85  801  905  0.715  0.633  >0.150\n12  Pd35 Cu30 Ni15 P20  577  659  82  798  947  0.723  0.609  >0.150\n13  Pd45 Cu27.5 Ni7.5 P20  592  662  70  805  890  0.735  0.665  >0.150\nFig. 3 Cross sectional optical micrographs of Pd42.5 Cu30 Ni7.5 P20 alloys\nprepared at cooling rates from 0.100 to 0.017 K/s.\nwith just eutectic composition can be more easily vitrified in\nthe multi-component metal"
+      ]
+    },
+    "10.2320/matertrans.43.2357": {
+      "title": "Fabrication of Bulk Glassy Hf&lt;SUB&gt;50&lt;/SUB&gt;Cu&lt;SUB&gt;30&lt;/SUB&gt;Ni&lt;SUB&gt;10&lt;/SUB&gt;Al&lt;SUB&gt;10&lt;/SUB&gt; Alloy by Copper Mold Casting",
+      "canonical_citation": "Zhang, Inoue & Chen, Materials Transactions 43, 2357 (2002) — \"Formation and Mechanical Properties of Hf-Cu-Ni-Al Bulk Glassy Alloys\"",
+      "downloaded_file": "data/vpn_papers/10.2320_matertrans.43.2357.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "glass transition temperature (Tg ) and Tg /Tl of the glassy alloy rod were 780 K"
+        ],
+        "cooling_rate_or_dmax": [
+          "cooling rates. The high glass-forming ability en- was 3 mm"
+        ]
+      },
+      "extracted_tables": [
+        "Table 1 Thermal stability and mechanical properties of three bulk glassy alloys.\nAlloy (at%)  Tg  Tx  Tl  ∆Tx  Tg /Tl  σf  E  Hv  ρ\n(K)  (K)  (K)  (K)  (Mpa)  (GPa)  (kg/m3 )\nHf50 Cu30 Ni10 Al10  780  860  1277  80  0.61  2420  118  590  11.0 × 103\nCu60 Zr30 Ti10  713  750  1153  37  0.62  2150  114  660  7.4 × 103\nZr55 Cu30 Ni5 Al10  690  775  1113  85  0.62  1700  87  490  6.7 × 103\nREFERENCES\n1) A. Inoue, T. Zhang and T. Masumoto: Mater. Trans., JIM 30 (1989)\n965–972.\n2) A. Inoue, A. Kato, T. Zhang, S. G. Kim and T. Masumoto: Mater. Trans.,\nJIM 32 (1991) 609–616.\n3) A. Inoue, T. Zhang and T. Masumoto: Mater. Trans., JIM 31 (1990)\n177–183.\n4) A. Peker and W. L. Johnson: Appl. Phys. Lett. 63 (1993) 2342–2344.\n5) A. Inoue, T. Zhang, N. Nishiyama, K. Ohba and T. Masumoto: Mater.\nLett. 19 (1994) 131–135.\n6) A. Inoue and G. S. Gook: Mater. Trans., JIM 36 (1995) 1180–1182.\n7) A. Inoue, N. Nishiyama and T. Matsuda: Mater. Trans., JIM 37 (1996)\n181–184.\n8) X. M. Wang and A. Inoue: Mater. Trans., JIM 41 (2000) 539–542.\n9) T. Itoi and A. Inoue: Mater. Trans., JIM 41 (2000) 1256–1262.\n10) A. Inoue, W. Zhang, T. Zhang and K. Kurosaka: Mater. Trans. 42 (2001)\n1149–1151.\n11) K. Amiya and A. Inoue: Mater. Trans. 43 (2002) 81–84.\n12) A. Inoue, W. Zhang, T. Zhang and K. Kurosaka: Acta Mater. 49 (2001)\n2645–2652.\n13) L. Ma, T. Zhang and A. Inoue: Mater. Trans. 43 (2002) 277–280.\n14) T. Zhang, A. Inoue and T. Masumoto: Mater. Lett. 15 (1993) 379–382.\nFig. 6 Fracture surface of the 3 mm Hf50 C"
+      ]
+    },
+    "10.2320/matertrans.43.277": {
+      "title": "Bulk Glass Formation of Ti-Zr-Hf-Cu-M (M=Fe, Co, Ni) Alloys",
+      "canonical_citation": "Ma et al., Mater. Trans. 43, 277 (2002) — \"Bulk Glass Formation of Ti-Zr-Hf-Cu-M (M=Fe, Co, Ni) Alloys\"",
+      "downloaded_file": "data/vpn_papers/10.2320_matertrans.43.277.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "Tx and Tg /Tm .11) 0.67 K",
+          "Tg , Tx , ∆Tx , Tm and Tg /Tm are 658 K",
+          "Tx and Tg was 53 K"
+        ]
+      },
+      "extracted_tables": [
+        "Table 1 Heats of mixing (KJ/mol) among the elements in the\nTi20 Zr20 Hf20 Cu20 M20 (M=Fe, Co, Ni) system.\nTi  Zr  Hf  Cu  Fe  Co  Ni\nTi  0  0  −9  −17  −28  −35\nZr  0  0  −23  −25  −41  −49\nHf  0  0  −17  −24  −35  −42\nCu  −9  −23  −17  13  6  4\nFe  −17  −25  −24  13\nCo  −28  −41  −35  6\nNi  −35  −49  −42  4\ndescribed three empirical rules. The present alloy system has\nequal concentration of constituent elements and does not in-\nclude any main host component. All the heats of mixing in\nthis system are listed in Table 1. All elements of Fe, Co and\nNi have negative heats of mixing against Ti, Zr and Hf and\ntheir absolute values for Ni with Ti, Zr and Hf are larger than\nthose for Fe or Co with Ti, Zr and Hf. On the other hand,\nthe heats of mixing between M and Cu are positive and their\nvalues are smaller for Ni–Cu pair than for Co–Cu and Fe–Cu\npairs. Table 2 has summarizes the atomic size ratios among\nFig. 6 DSC curves of cast Ti20 Zr20 Hf20 Cu20 Ni20 rod samples.  the elements in the present system. The atomic size ratios\namong Ti, Zr and Hf are less than 10%. The atomic size ra-\ntios for Fe, Co and Ni with Ti, Zr or Hf are larger than 12%.\nis 1920 MPa and the Young’s modulus (E) is 104 GPa. The  The atomic size ratios for Fe, Co and Ni with Cu are much\nfracture surface consisted of a developed vein pattern. The  smaller than 12%. Therefore, the larger negative heats of mix-\nfracture occurred along the maximum share plane which was  ing for Ni with Ti, Zr and Hf should be the m",
+        "Table 2 Atomic size ratios (%) among the  elements  in  the  alloy rod with a diameter of 1.5 mm. The difference between\nTi20 Zr20 Hf20 Cu20 M20 (M=Fe, Co, Ni) system.  Tx and Tg was 53 K and Tg /Tm was 0.57. The compressive\nTi  Zr  Hf  Cu  Fe  Co  Ni\nfracture strength was 1920 MPa and Vickers hardness was\n495. The present glassy system without distinct host com-\nTi  10  9  15  19  18  18\nponent may provide a new alloy design method of bulk glassy\nZr  10  1  27  31  30  30\nalloys.\nHf  9  1  25  29  28  28\nCu  15  27  25  3  2  2\nFe  19  31  29  3\nAcknowledgments\nCo  18  30  28  2\nNi  18  30  28  2  One of the authors (Liqun Ma) gratefully acknowledges the\nJapanese Society for the Promotion of Science (JSPS) for pro-\nviding financial support to carry out the present work.\nloys.14) The long-range rearrangement of Al atoms around  REFERENCES\nZr atoms is necessary in the crystallization process of the\nglassy Zr–Al–TM alloys. No bulk glassy phase has been  1) A. Inoue, T. Zhang and T. Masumoto: Mater. Trans., JIM 30 (1989)\nobtained for the Zr60 Cu20 Ni20 alloy. However, the use of  965–972.\n2) A. Inoue, K. Ohtera, K. Kita and T. Masumoto: Jpn. J. Appl. Phys. 27\nTi20 Zr20 Hf20 Cu20 Ni20 alloy can produce a bulk glassy rod\n(1988) L2248–L2251.\nwith a diameter of 1.5 mm in the absence of Al addition. It  3) A. Inoue, T. Zhang and T. Masumoto: Mater. Trans., JIM 31 (1990)\nis again confirmed from this result that more multicompo-  177–183.\nnent glassy systems can exhibit higher glass-fo"
+      ]
+    },
+    "10.2320/matertrans.46.48": {
+      "title": "Tungsten-Based Metallic Glasses with High Crystallization Temperature, High Modulus and High Hardness",
+      "canonical_citation": "Ohtsuki et al., Mater. Trans. 46, 48 (2005) — \"Tungsten-Based Metallic Glasses with High Crystallization Temperature, High Modulus and High Hardness\"",
+      "downloaded_file": "data/vpn_papers/10.2320_matertrans.46.48.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "Tg=1149K",
+          "Tg=1278K",
+          "Tg=1254K",
+          "Tg=1025K",
+          "Tx \u0006 750 K",
+          "crystallization temperature higher than 1000 K",
+          "Tx ¼ 1310\u00011456 K",
+          "Tx ¼ 1049\u00011298 K"
+        ]
+      },
+      "extracted_tables": [
+        "Table 1. Crystallization temperatures are not much changed\ncompared with the ternary W46 Ru37 B17 alloy. Since the glass\ntransition temperature was not well recognized, it is diﬃcult\nto judge whether or not the glass forming ability is increased\nby Si or Hf addition.\nEPMA analysis of the melt-spun ribbon samples of W-Ru-\nB-Hf alloys indicated that the compositions of both W and Ru\nwere less than the nominal compositions by 0\u00015 at% and  Fig. 4 DSC curves for four as-quenched samples corresponding to those in\ninstead the composition of B was larger than the nominal  Fig. 3.\nTungsten-Based Metallic Glasses  51\ncomposition by several at%. However, considering a rather\nlarge scatter of the data, only the nominal compositions are  998K\nshown in this paper. The observed decrease of the average\nconcentrations by a few at% of W and Ru might be due to\nevaporation as oxides of W and Ru by oxidation during melt-\nIntensity (arb. units)\nspinning process. Contamination by Si from quartz nozzle\nduring melt-spinning process was found to be about 0.5 at%.  1073K\nIn the melt-spun sample of W45 Ru36 B17 Hf2 , it was found that\nHf rich crystalline particles of a diameter of a few tens mm are\ndispersed in the matrix and the sharp diﬀraction peaks\nindicated by arrows in Fig. 3 are from the Hf rich crystalline\nphase.\n1123K\nThe changes of X-ray diﬀraction spectrum after heating\nthe samples of melt-spun W46 Ru37 B17 alloy up to three\ndiﬀerent temperatures, 873 K (well below Tx1 ), 1198 K\n(between Tx1 ",
+        "Table 2 Young’s modulus E, Vickers hardness value HV at room temper-\nIn the in-situ X-ray measurement during annealing the as-\nature and their ratio for W-based metallic glasses.\nquenched W-Ru-B alloy, no change was recognized in the\nshape of the main halo peak below 923 K. However, as shown  Alloy  E (1010 Pa)  HV (109 Pa)  HV =E (%)\nin Fig. 6, at 998 K a slight change of the halo peak is  W46 Ru37 B17  31:2 \u0005 2  16:8 \u0005 1  5:4 \u0005 0:6\nobserved and at 1073 K some irregularities in the halo peak  W46 Ru37 B15 Si2  24:4 \u0005 2  14:4 \u0005 1  5:9 \u0005 0:8\nclearly appear, indicating structural change of the amorphous  W46 Ru37 B12 Si5  22:9 \u0005 2  13:2 \u0005 1  5:8 \u0005 0:8\nstructure possibly due to partial crystallization. At 1123 K  W45 Ru36 B17 Hf2  26:2 \u0005 2  16:5 \u0005 1  6:2 \u0005 0:8\nobvious splitting of the halo peak occurs. This result indicates  W45 Re23 Ru15 B17  —  17:3 \u0005 1  —\nthat local crystallization begins by about 100 K below the\ncrystallization temperature determined by the DSC measure-\nment.\nHeated to 873K\n3.2 Mechanical properties\nMeasured Young’s moduli for four samples are tabulated\nin Table 2. Since Young’s moduli of pure tungsten, ruthe-\nnium and boron are 410 GPa, 470 GPa and 450 GPa,\nrespectively, Young’s moduli of the present W-based me-\nIntensity (arb. units)\ntallic glasses are about 30% lower than the weighted mean of\nHeated to 1198K  : WB\n?  : WRuB2  Young’s moduli of constituent elements, but they are the\n?  ? : unknown  largest values among the reported Young’s moduli of\n?\nmeta",
+        "Table 3 Refractory metal-based metallic glasses having crystallization\n20  W46Ru37B17  temperature higher than 1000 K. TM: transition metal.\nW45Re23Ru15B17  Alloy  Tx (K)  Ref. No.\nHardness, Hv /GPa\n15  (Ta,W)80 Si10 B10  1310\u00011456  7)\n(Hf,Ta)80 Si10 B10  940\u00011220  7)\nTx  (Ta,Nb,V)80 Si10 B10  930\u00011210  7)\n10  (Nb,Mo)80 Si10 B10  1020\u00011120  7)\n(Cr,TM)82 C18  800\u00011035  8)\n(Nb,Ta)55 (Rh,Ir)45  951\u00011338  9)\n5\nNb70 W10 Si20  1027  10)\nTx  Nb60 Mo10 Si20  1008  10)\n0  W70 Si20 B10  1033  11)\n500  1000  1500\nMo48 ,TM32 P12 B8  1078\u00011151  12)\nTemperature, T /K  (Mo,Cr,Fe)80 (P,B,C,Si)20  1104\u00011186  12)\nFig. 7 Temperature dependence of Vickers hardness values for  (Mo0:6 Ru0:4 )78-86 B22-14  1020\u00011090  13)\nW46 Ru37 B17 and W45 Re23 Ru15 B17 metallic glasses.\nfor W46 Ru37 B17 and W45 Re23 Ru15 B17 metallic glasses is  glass forming ability the melting point should be lower, and\nshown in Fig. 7. Due to the thin thickness of the samples, the  hence the high crystallization temperature and the high glass\ndata at high temperatures where the size of the indentation  forming ability are in a trade-oﬀ relation and diﬃcult to be\nmarks becomes as large as the thickness are not reliable and  reconciled.\nthe true values may be larger than those measured. In both\nmetallic glasses, the hardness keeps high values over 15 GPa  4.3 Mechanical properties\nup to 700 K and over 10 GPa up to 900 K, but then decreases  No Young’s modulus data are available for refractory\nrapidly at high temperatures toward"
+      ]
+    },
+    "10.2320/matertrans.m2009228": {
+      "title": "Formation of Metastable Phases and Their Effect on the Glass-Forming Ability of Cu-Hf Binary Alloys",
+      "canonical_citation": "Xia et al., Mater. Trans. 51, 68 (2010) — \"Formation of Metastable Phases and Their Effect on the Glass-Forming Ability of Cu-Hf Binary Alloys\"",
+      "downloaded_file": "data/vpn_papers/10.2320_matertrans.m2009228.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "cooling_rate_or_dmax": [
+          "cooling rate and the Rods of 2 mm"
+        ]
+      },
+      "extracted_tables": [
+        "Table 1 Composition of the bright phases detected by EDS in Area I and\nArea II.\nFig. 2 XRD patterns of as-cast Cu100\u0002x Hfx (x ¼ 50, 37, 35 and 34) rods\nwith a diameter of 2 mm.  Composition detected by EDS  Average\nElement\n1 (at%)  2 (at%)  3 (at%)  (at%)\nthe \u0001 \u0001 values were obtained from Hf22 Cu78 to Hf62 Cu38 based  Area I\nCu  36.11  35.31  34.24  35.22\non the criterion \u0001H amor. < \u0001H S.S. ,25,26) as shown in Fig. 1.\nHf  63.89  64.69  65.76  64.78\nThe ﬁgure predicts that Cu50 Hf50 is the best glass former.\nHowever, according to our recent preliminary experimental  Composition detected by EDS  Average\nElement\nresults the critical diameter of the Cu50 Hf50 binary alloy is  4 (at%)  5 (at%)  6 (at%)  (at%)\nArea II\nless than 1 mm, and the best glass former from Cu10 Hf7 to  Cu  41.84  42.26  41.94  42.01\nCuHf2 is Cu55 Hf45 , which has a critical diameter of about  Hf  58.16  57.74  58.06  57.99\n1.5 mm.27) This illustrates that the parameter \u0001 \u0001 is not so\naccurate for evaluating the GFA of Cu-Hf binary alloys.\nIt is noted that, similar to the situation with Nd-Fe binary  rod also appears in the XRD patterns of Cu61:4 Hf38:6 ,\nalloys,28) the compositional diﬀerence between the two stable  Cu60 Hf40 , Cu62 Hf38 , and Cu63 Hf37 , and is likely to be an\ncrystalline phases of the Cu50 Hf50 binary alloy is suﬃciently  Cu10 Hf7 intermetallic compound.15) The Bragg peaks in the\nlarge for the formation of metastable phases upon rapid  CuHf2 phase are marked  in Fig. 2. The remaining Bragg"
+      ]
+    },
+    "10.2320/matertrans.mbw200833": {
+      "title": "Crystallization Behavior and Structural Stability of Zr<SUB>50</SUB>Cu<SUB>40</SUB>Al<SUB>10</SUB> Bulk Metallic Glass",
+      "canonical_citation": "Zhang et al., Mater. Trans. 50, 1340 (2009) — \"Crystallization Behavior and Structural Stability of Zr<SUB>50</SUB>Cu<SUB>40</SUB>Al<SUB>10</SUB> Bulk Metallic Glass\"",
+      "downloaded_file": "data/vpn_papers/10.2320_matertrans.mbw200833.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "bond_length_A": [
+          "Zr-Cu distance in Zr50 Cu40 Al10 is B2 or C11b structure of the lattice parameters measured by X0.286 nm"
+        ],
+        "coordination_number": [
+          "coordination numbers exceeding 11"
+        ],
+        "thermal_Tg_Tx_K": [
+          "Tg , Tx , was measured during 20K"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.2320/matertrans.mrp2007198": {
+      "title": "FeSiBP Bulk Metallic Glasses with Unusual Combination of High Magnetization and High Glass-Forming Ability",
+      "canonical_citation": "Makino, Kubota, Chang, Makabe & Inoue, Materials Transactions 48, 3024 (2007) — \"FeSiBP Bulk Metallic Glasses with Unusual Combination of High Magnetization and High Glass-Forming Ability\"",
+      "downloaded_file": "data/vpn_papers/10.2320_matertrans.mrp2007198.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "thermal_Tg_Tx_K": [
+          "glass transition temperature of 780 K"
+        ],
+        "cooling_rate_or_dmax": [
+          "cooling rate of 0.17 K/s"
+        ]
+      },
+      "extracted_tables": [
+        "Table 1 The glass transition temperature (T g ), the crystallization temperature (T x ), the critical diameter (Dcr ), the parameters (\u0001T x ,\nT g =T l and ), and magnetic properties (J s , H c ) for the Fe76 Si9 B10 P5 and the typical Fe-based ferromagnetic BMGs previously reported.\ncomposition  T g (K)  T x (K)  \u0001T x (K)  T g =T l  \u0001  J s (T)  Hc (A/m)  Dcr (mm)\nFe76 Si9 B10 P5  780  832  52  0.62  0.41  1.51  0.8  2.5\n(Fe0:75 Si0:1 B0:15 )96 Nb4  835  885  50  0.61  0.40  1.40  2.9  1.5\nFe74 Al4 Ga2 P12 B4 Si4  733  782  49  —  —  1.14  6.4  —\nFe73 Al5 Ga2 P11 C5 B4  732  785  53  —  —  1.29  6.3  1\nFe72 Al5 Ga2 P10 C6 B4 Si1  732  785  53  —  —  1.14  2.8  2\nFe76 Mo2 Ga2 P10 C4 B4 Si2  736  788  52  0.59  0.40  1.32  2.9  2\nFe30 Co30 Ni15 Si8 B17  780  834  54  —  —  0.92  3.4  1.2\nFe74 Nb6 Y3 B17  831  789  48  —  —  0.81  15  2\nquaternary alloy exhibit the glass transition were reported.  Metallic Glasses’’, from the Ministry of Education, Science,\nHowever, bulk glassy rod specimen with over 0.5 mm of a  Sports and Culture of Japan.\ndiameter have been not yet found, even though \u0001T x of 36 K\nwas obtained for Fe80 P12 B4 Si4 .2) Therefore, we can say that\nthis discovery is the ﬁrst achievement for simultaneous  REFERENCES\nrealization of high J s and high GFA in Fe-based BMGs. In\naddition, the BMG is composed of 89.17 mass%Fe and small  1) A. Inoue and B. L. Shen: Mater. Sci. Eng. A375–377 (2004) 302–306.\namounts of metalloid elements of Si, B and P. The elements,  2) A. In"
+      ]
+    },
+    "10.3389/fmats.2019.00038": {
+      "title": "The Structure of Amorphous and Deeply Supercooled Liquid Alumina",
+      "canonical_citation": "Shi et al., Front. Mater. 6, 38 (2019) — \"The Structure of Amorphous and Deeply Supercooled Liquid Alumina\"",
+      "downloaded_file": "data/vpn_papers/10.3389_fmats.2019.00038.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "coordination_number": [
+          "6-fold coordinated Al sites undergoing rapid exchange, the Compton s",
+          "coordination number 4.5",
+          "coordination number from EPSR is 4.40",
+          "coordination numbers, and OAly species (where y = 2",
+          "coordination number of 4.2",
+          "coordination number of EPSR sample 1",
+          "coordination number of 4.62",
+          "3-fold coordinated oxygens; namely"
+        ],
+        "thermal_Tg_Tx_K": [
+          "Tg ≃ 1,395 K",
+          "glass transition temperature Tg = 1,395 K",
+          "Tg > 1,100 K",
+          "glass transition temperature by MD. alumina from EPSR models at 300 K",
+          "glass transition temperature, Tg = 1,395 K"
+        ]
+      },
+      "extracted_tables": []
+    },
+    "10.3389/fmats.2019.00133": {
+      "title": "Structure of the Intermediate Phase Glasses GeSe3 and GeSe4: The Deployment of Neutron Diffraction With Isotope Substitution",
+      "canonical_citation": "Rowlands, Zeidler, Fischer & Salmon, Frontiers in Materials 6, 133 (2019) — \"Structure of the intermediate phase glasses GeSe3 and GeSe4: The deployment of neutron diffraction with isotope substitution\"",
+      "downloaded_file": "data/vpn_papers/10.3389_fmats.2019.00133.pdf",
+      "content_status": "fulltext_pdf_extracted",
+      "extracted_sro_mro_mentions": {
+        "bond_length_A": [
+          "Ge- Ge bond distances of 2.33–2.42 Å",
+          "Ge-Ge distance of 5.06 Å"
+        ],
+        "coordination_number": [
+          "coordination number n̄ = 2.4",
+          "coordination numbers of n̄Ge Ge = 0.33",
+          "coordination numbers were obtained from Equation (6",
+          "coordination numbers are compared to the measured Massobrio, 2012"
+        ]
+      },
+      "extracted_tables": []
+    }
+  }
+}

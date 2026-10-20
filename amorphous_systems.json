@@ -2432,17 +2432,21 @@
       "material_class": "Oxide",
       "synthesis_regime": "bulk_melt_quenched",
       "synthesis_regime_label": "Bulk Melt-Quenched Glass",
-      "verification_method": "Diffuse XRD halo; Raman spectroscopy; DSC Tg=433 K",
-      "reference_doi": "10.1103/physrevb.19.4292",
-      "source_reference": "Galeener, Phys. Rev. B 19, 4292 (1979) \u2014 \"Band limits and the vibrational spectra of tetrahedral glasses\"",
-      "paper_title": "Band limits and the vibrational spectra of tetrahedral glasses",
-      "journal": "Phys. Rev. B",
-      "publication_year": 1979,
+      "verification_method": "Diffuse XRD halo; neutron diffraction; Raman spectroscopy; DSC Tg=433 K",
+      "reference_doi": "10.1016/0022-3093(89)90274-3",
+      "source_reference": "Clare, Wright, Sinclair, Galeener & Geissberger, Journal of Non-Crystalline Solids 111, 123 (1989) \u2014 \"A neutron diffraction investigation of the structure of vitreous As2O3\"",
+      "paper_title": "A neutron diffraction investigation of the structure of vitreous As2O3",
+      "journal": "Journal of Non-Crystalline Solids",
+      "publication_year": 1989,
       "authors": [
-        "Galeener"
+        "Alexis G. Clare",
+        "Adrian C. Wright",
+        "Roger N. Sinclair",
+        "Frank L. Galeener",
+        "Arthur E. Geissberger"
       ],
-      "openalex_id": "https://openalex.org/W2013053623",
-      "abstract_snippet": "The primary features of the Raman and infrared spectra of $A{X}_{2}$ tetrahedral glasses are associated with the edges of the vibrational bands calculated by Sen and Thorpe. The dominant Raman peak is assigned to a singular matrix element rather than a peak in the density of vibrational states. Simple expressions are developed which yield useful values of the vibrational force constants and intertetrahedral angles for vitreous Si${\\mathrm{O}}_{2}$, Ge${\\mathrm{O}}_{2}$, and Be${\\mathrm{F}}_{2}$.",
+      "openalex_id": "",
+      "abstract_snippet": "",
       "system_tetrahedral_flag": 0,
       "tetrahedral_former_elements": [],
       "crystalline_conversion_note": "Single-component arsenite glass former with corner-sharing pyramidal units.",
@@ -2457,7 +2461,7 @@
           "total_pair_count": 2
         },
         "diffraction_sq": {
-          "probe": "Diffuse XRD halo; Raman spectroscopy; DSC Tg=433 K",
+          "probe": "Diffuse XRD halo; neutron diffraction; Raman spectroscopy; DSC Tg=433 K",
           "fsdp_q1_inv_A": 1.78,
           "q1_inv_A": 1.78,
           "principal_peak_q2_inv_A": 2.88,
@@ -13629,17 +13633,17 @@
       "synthesis_regime": "bulk_melt_quenched",
       "synthesis_regime_label": "Bulk Melt-Quenched Glass",
       "verification_method": "Diffuse XRD halo; 27Al/29Si MAS NMR; DSC Tg=1145 K",
-      "reference_doi": "10.1007/s10717-019-00130-5",
-      "source_reference": "Alekseev, Savinkov & Sigaev, Glass Ceram 76, 45 (2019) \u2014 \"Investigation of Glass Formation and the Properties of Lanthanum-Aluminum-Borosilicate Glasses with High Lanthanum Oxide Content\"",
-      "paper_title": "Investigation of Glass Formation and the Properties of Lanthanum-Aluminum-Borosilicate Glasses with High Lanthanum Oxide Content",
-      "journal": "Glass Ceram",
-      "publication_year": 2019,
+      "reference_doi": "10.1016/j.jnoncrysol.2010.01.017",
+      "source_reference": "Iftekhar, Grins & Ed\u00e9n, Journal of Non-Crystalline Solids 356, 1043 (2010) \u2014 \"Composition\u2013property relationships of the La2O3\u2013Al2O3\u2013SiO2 glass system\"",
+      "paper_title": "Composition\u2013property relationships of the La2O3\u2013Al2O3\u2013SiO2 glass system",
+      "journal": "Journal of Non-Crystalline Solids",
+      "publication_year": 2010,
       "authors": [
-        "Alekseev",
-        "Savinkov",
-        "Sigaev"
+        "Shahriar Iftekhar",
+        "Jekabs Grins",
+        "Mattias Ed\u00e9n"
       ],
-      "openalex_id": "https://openalex.org/W2947707108",
+      "openalex_id": "",
       "abstract_snippet": "",
       "system_tetrahedral_flag": 1,
       "tetrahedral_former_elements": [
@@ -17404,17 +17408,20 @@
       "material_class": "Oxide",
       "synthesis_regime": "bulk_melt_quenched",
       "synthesis_regime_label": "Bulk Melt-Quenched Glass",
-      "verification_method": "Diffuse XRD halo; 11B NMR; DSC Tg=868 K",
-      "reference_doi": "10.1103/slv2-dtwz",
-      "source_reference": "Alderman, Phys. Rev. Materials 9, 105603 (2025) \u2014 \"Tracking boron coordination change with temperature in a barium borosilicate glass melt by neutron diffraction\"",
-      "paper_title": "Tracking boron coordination change with temperature in a barium borosilicate glass melt by neutron diffraction",
-      "journal": "Phys. Rev. Materials",
-      "publication_year": 2025,
+      "verification_method": "Diffuse XRD halo; 11B NMR; high-energy X-ray diffraction; DSC Tg=868 K",
+      "reference_doi": "10.1063/5.0153282",
+      "source_reference": "Alderman, Benmore, Holland & Weber, The Journal of Chemical Physics 158, 224501 (2023) \u2014 \"Boron coordination change in barium borate melts and glasses and its contribution to configurational heat capacity, entropy, and fragility\"",
+      "paper_title": "Boron coordination change in barium borate melts and glasses and its contribution to configurational heat capacity, entropy, and fragility",
+      "journal": "The Journal of Chemical Physics",
+      "publication_year": 2023,
       "authors": [
-        "Alderman"
+        "O. L. G. Alderman",
+        "C. J. Benmore",
+        "D. Holland",
+        "J. K. R. Weber"
       ],
-      "openalex_id": "https://openalex.org/W4415156671",
-      "abstract_snippet": "Pulsed neutron diffraction measurements on a barium borosilicate glass and its supercooled liquid reveal clear, quantitative evidence for a tetrahedral to trigonal boron transition above the glass transition temperature, T g . In particular the tetrahedral boron fraction, N 4 ( T ), is about 50(1)% in a 28 BaO \u00b7 48 B 2 O 3 \u00b7 24 Si O 2 (BBS352) glass, independent of temperature, but falls continuously above T g = 901 K to 36(1)% at 1200 K. The data are interpreted in terms of simplified chemical ",
+      "openalex_id": "",
+      "abstract_snippet": "",
       "system_tetrahedral_flag": 1,
       "tetrahedral_former_elements": [
         "B"
@@ -17431,7 +17438,7 @@
           "total_pair_count": 3
         },
         "diffraction_sq": {
-          "probe": "Diffuse XRD halo; 11B NMR; DSC Tg=868 K",
+          "probe": "Diffuse XRD halo; 11B NMR; high-energy X-ray diffraction; DSC Tg=868 K",
           "fsdp_q1_inv_A": 1.69,
           "q1_inv_A": 1.69,
           "principal_peak_q2_inv_A": 2.83,
@@ -22944,17 +22951,17 @@
       "material_class": "Oxide",
       "synthesis_regime": "bulk_melt_quenched",
       "synthesis_regime_label": "Bulk Melt-Quenched Glass",
-      "verification_method": "Diffuse XRD halo; Ga K-edge EXAFS & 71Ga NMR; DSC Tg=1025 K",
-      "reference_doi": "10.1016/0022-3093(89)90182-8",
-      "source_reference": "Fukumi & Sakka, Journal of Non-Crystalline Solids 110, 61 (1989) \u2014 \"Structure of alkali or alkaline earth niobium gallate glasses\"",
-      "paper_title": "Structure of alkali or alkaline earth niobium gallate glasses",
+      "verification_method": "Diffuse XRD halo; Raman spectroscopy; Ga K-edge EXAFS & 71Ga NMR; DSC Tg=1025 K",
+      "reference_doi": "10.1016/s0022-3093(87)80110-2",
+      "source_reference": "Fukumi & Sakka, Journal of Non-Crystalline Solids 95-96, 193 (1987) \u2014 \"Structure of alkali or alkaline earth metal gallate glasses\"",
+      "paper_title": "Structure of alkali or alkaline earth metal gallate glasses",
       "journal": "Journal of Non-Crystalline Solids",
-      "publication_year": 1989,
+      "publication_year": 1987,
       "authors": [
-        "Fukumi",
-        "Sakka"
+        "Kohei Fukumi",
+        "Sumio Sakka"
       ],
-      "openalex_id": "https://openalex.org/W2015894988",
+      "openalex_id": "",
       "abstract_snippet": "",
       "system_tetrahedral_flag": 1,
       "tetrahedral_former_elements": [
@@ -22972,7 +22979,7 @@
           "total_pair_count": 3
         },
         "diffraction_sq": {
-          "probe": "Diffuse XRD halo; Ga K-edge EXAFS & 71Ga NMR; DSC Tg=1025 K",
+          "probe": "Diffuse XRD halo; Raman spectroscopy; Ga K-edge EXAFS & 71Ga NMR; DSC Tg=1025 K",
           "fsdp_q1_inv_A": 1.9,
           "q1_inv_A": 1.9,
           "principal_peak_q2_inv_A": 2.84,
@@ -27941,18 +27948,26 @@
       "material_class": "Oxide",
       "synthesis_regime": "bulk_melt_quenched",
       "synthesis_regime_label": "Bulk Melt-Quenched Glass",
-      "verification_method": "Diffuse XRD halo; 11B NMR; DSC Tg=960 K",
-      "reference_doi": "10.1007/bf00551969",
-      "source_reference": "White, Res & Bednarik, J Mater Sci 18, 1021 (1983) \u2014 \"A lanthanum-tantalum (Al) oxide porous glass ceramic\"",
-      "paper_title": "A lanthanum-tantalum (Al) oxide porous glass ceramic",
-      "journal": "J Mater Sci",
-      "publication_year": 1983,
+      "verification_method": "Diffuse XRD halo; Ta L3-edge XAFS & 11B NMR; DSC Tg=960 K",
+      "reference_doi": "10.1016/j.jallcom.2025.178622",
+      "source_reference": "Alekseev et al., Journal of Alloys and Compounds 1014, 178622 (2025) \u2014 \"Tantalum and niobium \u2013 same row, different connectivity. A XAFS study of La2O3-Nb2O5-B2O3 and La2O3-Ta2O5-B2O3 glasses\"",
+      "paper_title": "Tantalum and niobium \u2013 same row, different connectivity. A XAFS study of La2O3-Nb2O5-B2O3 and La2O3-Ta2O5-B2O3 glasses",
+      "journal": "Journal of Alloys and Compounds",
+      "publication_year": 2025,
       "authors": [
-        "White",
-        "Res",
-        "Bednarik"
+        "R.O. Alekseev",
+        "L.A. Avakyan",
+        "E.A. Tretiakov",
+        "G. Yu. Shakhgildyan",
+        "A.A. Veligzhanin",
+        "G.N. Vishnyakov",
+        "G.B. Sukharina",
+        "A.M. Ermakova",
+        "V.I. Savinkov",
+        "L.A. Bugaev",
+        "V.N. Sigaev"
       ],
-      "openalex_id": "https://openalex.org/W2050034165",
+      "openalex_id": "",
       "abstract_snippet": "",
       "system_tetrahedral_flag": 1,
       "tetrahedral_former_elements": [
@@ -27970,7 +27985,7 @@
           "total_pair_count": 4
         },
         "diffraction_sq": {
-          "probe": "Diffuse XRD halo; 11B NMR; DSC Tg=960 K",
+          "probe": "Diffuse XRD halo; Ta L3-edge XAFS & 11B NMR; DSC Tg=960 K",
           "fsdp_q1_inv_A": 1.76,
           "q1_inv_A": 1.76,
           "principal_peak_q2_inv_A": 2.87,
@@ -28569,20 +28584,24 @@
       "material_class": "Oxide",
       "synthesis_regime": "bulk_melt_quenched",
       "synthesis_regime_label": "Bulk Melt-Quenched Glass",
-      "verification_method": "Diffuse XRD halo; neutron diffraction; DSC Tg=985 K",
-      "reference_doi": "10.1088/0022-3719/13/19/012",
-      "source_reference": "Ferre et al., J. Phys. C: Solid State Phys. 13, 3697 (1980) \u2014 \"Magnetic properties of an amorphous insulating spin glass: manganese aluminosilicate\"",
-      "paper_title": "Magnetic properties of an amorphous insulating spin glass: manganese aluminosilicate",
-      "journal": "J. Phys. C: Solid State Phys.",
-      "publication_year": 1980,
+      "verification_method": "Diffuse XRD halo; HRTEM/SAED; XPS; DSC Tg=985 K",
+      "reference_doi": "10.1016/j.jallcom.2019.07.012",
+      "source_reference": "Wang et al., Journal of Alloys and Compounds 804, 243 (2019) \u2014 \"Amorphous MnSiO3 confined in graphene sheets for superior lithium-ion batteries\"",
+      "paper_title": "Amorphous MnSiO3 confined in graphene sheets for superior lithium-ion batteries",
+      "journal": "Journal of Alloys and Compounds",
+      "publication_year": 2019,
       "authors": [
-        "Ferre",
-        "Pommier",
-        "Renard",
-        "Knorr"
+        "Lei Wang",
+        "Minjie Shi",
+        "Cheng Yang",
+        "Yongchao Liu",
+        "Jintian Jiang",
+        "Kun Dai",
+        "Zhanhu Guo",
+        "Chao Yan"
       ],
-      "openalex_id": "https://openalex.org/W2015527949",
-      "abstract_snippet": "The authors report on susceptibility and magnetisation measurements of amorphous manganese aluminosilicate and demonstrate that they can be considered as insulating spin glasses with large antiferromagnetic interactions. In particular, the cusp of chi (T) at T f is easily rounded under weak static magnetic fields. The in-field magnetisation curves for H<5 kOe and the field and time dependence of the remanent magnetisation have a similar behaviour to classical metallic spin glass alloys. The spin",
+      "openalex_id": "",
+      "abstract_snippet": "",
       "system_tetrahedral_flag": 1,
       "tetrahedral_former_elements": [
         "Si"
@@ -28599,7 +28618,7 @@
           "total_pair_count": 3
         },
         "diffraction_sq": {
-          "probe": "Diffuse XRD halo; neutron diffraction; DSC Tg=985 K",
+          "probe": "Diffuse XRD halo; HRTEM/SAED; XPS; DSC Tg=985 K",
           "fsdp_q1_inv_A": 1.7,
           "q1_inv_A": 1.7,
           "principal_peak_q2_inv_A": 2.92,
@@ -29803,20 +29822,18 @@
       "synthesis_regime": "bulk_melt_quenched",
       "synthesis_regime_label": "Bulk Melt-Quenched Glass",
       "verification_method": "Diffuse XRD halo; 113Cd & 31P MAS NMR; DSC Tg=680 K",
-      "reference_doi": "10.3363/prb1992.10.0_509",
-      "source_reference": "DONZE et al., Phosphorus Research Bulletin 10, 509 (1999) \u2014 \"XPS AND NMR ANALYSES OF LEAD CADMIUM PHOSPHATE GLASSES\"",
-      "paper_title": "XPS AND NMR ANALYSES OF LEAD CADMIUM PHOSPHATE GLASSES",
-      "journal": "Phosphorus Research Bulletin",
-      "publication_year": 1999,
+      "reference_doi": "10.1016/s0022-3093(01)01049-3",
+      "source_reference": "Hussin, Holland & Dupree, Journal of Non-Crystalline Solids 298, 32 (2002) \u2014 \"A MAS NMR structural study of cadmium phosphate glasses\"",
+      "paper_title": "A MAS NMR structural study of cadmium phosphate glasses",
+      "journal": "Journal of Non-Crystalline Solids",
+      "publication_year": 2002,
       "authors": [
-        "DONZE",
-        "MONTAGNE",
-        "GRIMBLOT",
-        "GENGEMBRE",
-        "PALAVIT"
+        "R Hussin",
+        "D Holland",
+        "R Dupree"
       ],
-      "openalex_id": "https://openalex.org/W1981812786",
-      "abstract_snippet": "Two lead-cadmium phosphate glasses were prepared by reaction of PbCl2 and CdCl2 with NH4H2PO4. 31P MAS-NMR shows that the glass network reticulation depends on the batch composition. The XPS O1s photopeak is decomposed into components associated with brindging and non-bridging oxygens. Moreover, a third component is attributed to O involved in Pb-O-P bonds which contribute to the network reticulation. The decomposition of the O1s core level is in agreement with the analytical glass compositions.",
+      "openalex_id": "",
+      "abstract_snippet": "",
       "system_tetrahedral_flag": 1,
       "tetrahedral_former_elements": [
         "P"
@@ -32841,8 +32858,8 @@
           "is_direct_experimental_benchmark": true,
           "overall_type": "direct_experimental_benchmark",
           "overall_badge": "\ud83d\udd2c Experimental / RMC Benchmark Peaks + Parameterized Curve Profiles",
-          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Wright, Yarker & Johnson, J. Non-Cryst. Solids 76, 43 (1985); continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
-          "benchmark_reference": "Wright, Yarker & Johnson, J. Non-Cryst. Solids 76, 43 (1985)",
+          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Yang, Paesler & Sayers, Phys. Rev. B 39, 10342 (1989) [DOI: 10.1103/physrevb.39.10342]; Wright et al., JNCS 76, 43 (1985); continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
+          "benchmark_reference": "Yang, Paesler & Sayers, Phys. Rev. B 39, 10342 (1989) [DOI: 10.1103/physrevb.39.10342]; Wright et al., JNCS 76, 43 (1985)",
           "experimental_pair_count": 2,
           "total_pair_count": 2
         },
@@ -33010,7 +33027,7 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Peaks (Q\u2081, Q\u2082) + Parameterized S(Q) Curve",
-          "source_detail": "Scalar peak positions Q\u2081 = 1.24 \u00c5\u207b\u00b9, Q\u2082 = 2.35 \u00c5\u207b\u00b9 anchored to published diffraction (Wright, Yarker & Johnson, J. Non-Cryst. Solids 76, 43 (1985)); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
+          "source_detail": "Scalar peak positions Q\u2081 = 1.24 \u00c5\u207b\u00b9, Q\u2082 = 2.35 \u00c5\u207b\u00b9 anchored to published diffraction (Yang, Paesler & Sayers, Phys. Rev. B 39, 10342 (1989) [DOI: 10.1103/physrevb.39.10342]; Wright et al., JNCS 76, 43 (1985)); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
           "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 1.24 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 5.07 \u00c5, coherence length L \u2248 15.7 \u00c5) without crystalline Bragg peaks."
         },
         "rdf_gr": {
@@ -33190,7 +33207,7 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Shells (r\u2081, r\u2082; 2/2 pairs) + Parameterized g(r) Curve",
-          "source_detail": "First/second shells r\u2081 = 2.28 \u00c5, r\u2082 = 3.52 \u00c5 & partial pair lengths from Wright, Yarker & Johnson, J. Non-Cryst. Solids 76, 43 (1985); continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
+          "source_detail": "First/second shells r\u2081 = 2.28 \u00c5, r\u2082 = 3.52 \u00c5 & partial pair lengths from Yang, Paesler & Sayers, Phys. Rev. B 39, 10342 (1989) [DOI: 10.1103/physrevb.39.10342]; Wright et al., JNCS 76, 43 (1985); continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
           "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 2.28 \u00c5 followed by broadened second shell at r\u2082 = 3.52 \u00c5 (r\u2082/r\u2081 = 1.54), decaying to g(r) \u2192 1 at long range."
         },
         "bond_angle_distribution": {
@@ -33344,7 +33361,7 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Angles (\u03b8\u2081, \u03b8\u2082) + Parameterized P(\u03b8) Curve",
-          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 99.0\u00b0, \u03b8\u2082 = 100.5\u00b0 from Wright, Yarker & Johnson, J. Non-Cryst. Solids 76, 43 (1985); continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
+          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 99.0\u00b0, \u03b8\u2082 = 100.5\u00b0 from Yang, Paesler & Sayers, Phys. Rev. B 39, 10342 (1989) [DOI: 10.1103/physrevb.39.10342]; Wright et al., JNCS 76, 43 (1985); continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
           "physical_interpretation": "Primary bond-angle peak at \u03b8\u2081 = 99.0\u00b0 (FWHM \u2248 6.5\u00b0) paired with inter-unit / second-shell angle \u03b8\u2082 = 100.5\u00b0 provides the topological flexibility required for non-crystalline packing."
         },
         "ring_or_voronoi_distribution": {
@@ -33391,7 +33408,7 @@
           ],
           "source_type": "composition_weighted_reconstruction",
           "source_badge": "\u2696\ufe0f Archetype-Guided Composition-Weighted Topology",
-          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of As2S3 (guided by Wright, Yarker & Johnson, J. Non-Cryst. Solids 76, 43 (1985)).",
+          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of As2S3 (guided by Yang, Paesler & Sayers, Phys. Rev. B 39, 10342 (1989) [DOI: 10.1103/physrevb.39.10342]; Wright et al., JNCS 76, 43 (1985)).",
           "physical_interpretation": "Broad distribution of 6-ring (Corner-sharing) + 2-ring (Edge-sharing) breaks 3D translational symmetry and frustrates crystallization in As2S3."
         }
       },
@@ -33439,8 +33456,8 @@
           "is_direct_experimental_benchmark": true,
           "overall_type": "direct_experimental_benchmark",
           "overall_badge": "\ud83d\udd2c Experimental / RMC Benchmark Peaks + Parameterized Curve Profiles",
-          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Hosokawa et al., Phys. Rev. B 84, 014201 (2011); continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
-          "benchmark_reference": "Hosokawa et al., Phys. Rev. B 84, 014201 (2011)",
+          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Xin, Liu & Salmon, Phys. Rev. B 78, 064207 (2008) [DOI: 10.1103/physrevb.78.064207]; Hosokawa et al., PRB 84, 014201 (2011); continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
+          "benchmark_reference": "Xin, Liu & Salmon, Phys. Rev. B 78, 064207 (2008) [DOI: 10.1103/physrevb.78.064207]; Hosokawa et al., PRB 84, 014201 (2011)",
           "experimental_pair_count": 2,
           "total_pair_count": 2
         },
@@ -33608,15 +33625,15 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Peaks (Q\u2081, Q\u2082) + Parameterized S(Q) Curve",
-          "source_detail": "Scalar peak positions Q\u2081 = 1.22 \u00c5\u207b\u00b9, Q\u2082 = 2.24 \u00c5\u207b\u00b9 anchored to published diffraction (Hosokawa et al., Phys. Rev. B 84, 014201 (2011)); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
+          "source_detail": "Scalar peak positions Q\u2081 = 1.22 \u00c5\u207b\u00b9, Q\u2082 = 2.24 \u00c5\u207b\u00b9 anchored to published diffraction (Xin, Liu & Salmon, Phys. Rev. B 78, 064207 (2008) [DOI: 10.1103/physrevb.78.064207]; Hosokawa et al., PRB 84, 014201 (2011)); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
           "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 1.22 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 5.15 \u00c5, coherence length L \u2248 16.0 \u00c5) without crystalline Bragg peaks."
         },
         "rdf_gr": {
-          "r1_A": 2.41,
-          "r1_bond_length_A": 2.41,
+          "r1_A": 2.42,
+          "r1_bond_length_A": 2.42,
           "r2_A": 3.68,
           "r2_second_shell_A": 3.68,
-          "r2_r1_ratio": 1.53,
+          "r2_r1_ratio": 1.52,
           "first_shell_cn": 3.0,
           "partial_pairs": [
             {
@@ -33675,39 +33692,39 @@
             ],
             [
               2.32,
-              0.501
+              0.499
             ],
             [
               2.49,
-              0.741
+              0.736
             ],
             [
               2.65,
-              0.075
+              0.069
             ],
             [
               2.82,
-              0.252
+              0.244
             ],
             [
               2.98,
-              0.44
+              0.433
             ],
             [
               3.15,
-              0.641
+              0.636
             ],
             [
               3.31,
-              0.903
+              0.9
             ],
             [
               3.48,
-              1.387
+              1.386
             ],
             [
               3.64,
-              1.808
+              1.807
             ],
             [
               3.81,
@@ -33715,7 +33732,7 @@
             ],
             [
               3.97,
-              1.901
+              1.9
             ],
             [
               4.13,
@@ -33788,8 +33805,8 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Shells (r\u2081, r\u2082; 2/2 pairs) + Parameterized g(r) Curve",
-          "source_detail": "First/second shells r\u2081 = 2.41 \u00c5, r\u2082 = 3.68 \u00c5 & partial pair lengths from Hosokawa et al., Phys. Rev. B 84, 014201 (2011); continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
-          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 2.41 \u00c5 followed by broadened second shell at r\u2082 = 3.68 \u00c5 (r\u2082/r\u2081 = 1.53), decaying to g(r) \u2192 1 at long range."
+          "source_detail": "First/second shells r\u2081 = 2.42 \u00c5, r\u2082 = 3.68 \u00c5 & partial pair lengths from Xin, Liu & Salmon, Phys. Rev. B 78, 064207 (2008) [DOI: 10.1103/physrevb.78.064207]; Hosokawa et al., PRB 84, 014201 (2011); continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
+          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 2.42 \u00c5 followed by broadened second shell at r\u2082 = 3.68 \u00c5 (r\u2082/r\u2081 = 1.52), decaying to g(r) \u2192 1 at long range."
         },
         "bond_angle_distribution": {
           "mean_angle_deg": 98.5,
@@ -33942,7 +33959,7 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Angles (\u03b8\u2081, \u03b8\u2082) + Parameterized P(\u03b8) Curve",
-          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 98.5\u00b0, \u03b8\u2082 = 101.0\u00b0 from Hosokawa et al., Phys. Rev. B 84, 014201 (2011); continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
+          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 98.5\u00b0, \u03b8\u2082 = 101.0\u00b0 from Xin, Liu & Salmon, Phys. Rev. B 78, 064207 (2008) [DOI: 10.1103/physrevb.78.064207]; Hosokawa et al., PRB 84, 014201 (2011); continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
           "physical_interpretation": "Primary bond-angle peak at \u03b8\u2081 = 98.5\u00b0 (FWHM \u2248 6.5\u00b0) paired with inter-unit / second-shell angle \u03b8\u2082 = 101.0\u00b0 provides the topological flexibility required for non-crystalline packing."
         },
         "ring_or_voronoi_distribution": {
@@ -33989,7 +34006,7 @@
           ],
           "source_type": "composition_weighted_reconstruction",
           "source_badge": "\u2696\ufe0f Archetype-Guided Composition-Weighted Topology",
-          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of As2Se3 (guided by Hosokawa et al., Phys. Rev. B 84, 014201 (2011)).",
+          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of As2Se3 (guided by Xin, Liu & Salmon, Phys. Rev. B 78, 064207 (2008) [DOI: 10.1103/physrevb.78.064207]; Hosokawa et al., PRB 84, 014201 (2011)).",
           "physical_interpretation": "Broad distribution of 6-ring (Corner-sharing) + 2-ring (Edge-sharing) breaks 3D translational symmetry and frustrates crystallization in As2Se3."
         }
       },
@@ -83952,11 +83969,11 @@
         },
         "diffraction_sq": {
           "probe": "Diffuse XRD halo; HRTEM/SAED; EELS sp2/sp3 mixed coordination",
-          "fsdp_q1_inv_A": 3.12,
-          "q1_inv_A": 3.12,
-          "principal_peak_q2_inv_A": 5.68,
-          "second_peak_q2_inv_A": 5.68,
-          "real_space_periodicity_A": 2.01,
+          "fsdp_q1_inv_A": 3.16,
+          "q1_inv_A": 3.16,
+          "principal_peak_q2_inv_A": 5.76,
+          "second_peak_q2_inv_A": 5.76,
+          "real_space_periodicity_A": 1.99,
           "correlation_length_L_A": 6.2,
           "curve_points": [
             [
@@ -83989,145 +84006,145 @@
             ],
             [
               2.35,
-              0.178
+              0.141
             ],
             [
               2.6,
-              0.367
+              0.318
             ],
             [
               2.85,
-              0.998
+              0.834
             ],
             [
               3.1,
-              1.926
+              1.864
             ],
             [
               3.35,
-              1.23
+              1.416
             ],
             [
               3.6,
-              0.535
+              0.6
             ],
             [
               3.85,
-              0.397
+              0.425
             ],
             [
               4.1,
-              0.324
+              0.349
             ],
             [
               4.35,
-              0.261
+              0.28
             ],
             [
               4.6,
-              0.226
+              0.234
             ],
             [
               4.85,
-              0.259
+              0.237
             ],
             [
               5.1,
-              0.475
+              0.375
             ],
             [
               5.35,
-              0.998
+              0.803
             ],
             [
               5.6,
-              1.532
+              1.4
             ],
             [
               5.85,
-              1.509
+              1.588
             ],
             [
               6.1,
-              1.068
+              1.215
             ],
             [
               6.35,
-              0.755
+              0.826
             ],
             [
               6.6,
-              0.654
+              0.673
             ],
             [
               6.85,
-              0.61
+              0.624
             ],
             [
               7.1,
-              0.556
+              0.574
             ],
             [
               7.35,
-              0.495
+              0.512
             ],
             [
               7.6,
-              0.453
+              0.456
             ],
             [
               7.85,
-              0.466
+              0.439
             ],
             [
               8.1,
-              0.555
+              0.493
             ],
             [
               8.35,
-              0.688
+              0.616
             ],
             [
               8.6,
-              0.779
+              0.746
             ],
             [
               8.85,
-              0.768
+              0.795
             ],
             [
               9.1,
-              0.682
+              0.741
             ],
             [
               9.35,
-              0.598
+              0.647
             ],
             [
               9.6,
-              0.558
+              0.581
             ],
             [
               9.85,
-              0.551
+              0.558
             ]
           ],
           "source_type": "composition_weighted_reconstruction",
           "source_badge": "\u2696\ufe0f Composition-Weighted Parameterized S(Q) Reconstruction",
-          "source_detail": "Q\u2081 = 3.12 \u00c5\u207b\u00b9 and Q\u2082 = 5.68 \u00c5\u207b\u00b9 computed from stoichiometric atomic fractions c_i of BN and Ehrenfest / network-former scaling; continuous S(Q) curve is a parameterized Lorentzian/Gaussian profile.",
-          "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 3.12 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 2.01 \u00c5, coherence length L \u2248 6.2 \u00c5) without crystalline Bragg peaks."
+          "source_detail": "Q\u2081 = 3.16 \u00c5\u207b\u00b9 and Q\u2082 = 5.76 \u00c5\u207b\u00b9 computed from stoichiometric atomic fractions c_i of BN and Ehrenfest / network-former scaling; continuous S(Q) curve is a parameterized Lorentzian/Gaussian profile.",
+          "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 3.16 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 1.99 \u00c5, coherence length L \u2248 6.2 \u00c5) without crystalline Bragg peaks."
         },
         "rdf_gr": {
-          "r1_A": 1.46,
-          "r1_bond_length_A": 1.46,
-          "r2_A": 2.38,
-          "r2_second_shell_A": 2.38,
+          "r1_A": 1.44,
+          "r1_bond_length_A": 1.44,
+          "r2_A": 2.35,
+          "r2_second_shell_A": 2.35,
           "r2_r1_ratio": 1.63,
           "first_shell_cn": 3.5,
           "partial_pairs": [
             {
               "pair": "B\u2013N",
-              "r_ij_A": 1.46,
+              "r_ij_A": 1.44,
               "sigma_r_A": 0.06,
               "cn_ij": 3.5,
               "coordination_number": "CN = 3.5",
@@ -84147,55 +84164,55 @@
             ],
             [
               1.33,
-              0.135
+              0.38
             ],
             [
               1.5,
-              2.248
+              1.679
             ],
             [
               1.66,
-              0.158
+              0.178
             ],
             [
               1.83,
-              0.355
+              0.392
             ],
             [
               1.99,
-              0.655
+              0.725
             ],
             [
               2.16,
-              1.192
+              1.295
             ],
             [
               2.32,
-              1.682
+              1.722
             ],
             [
               2.49,
-              1.629
+              1.555
             ],
             [
               2.65,
-              1.188
+              1.111
             ],
             [
               2.82,
-              0.874
+              0.848
             ],
             [
               2.98,
-              0.796
+              0.798
             ],
             [
               3.15,
-              0.817
+              0.832
             ],
             [
               3.31,
-              0.872
+              0.886
             ],
             [
               3.48,
@@ -84203,89 +84220,89 @@
             ],
             [
               3.64,
-              0.882
+              0.867
             ],
             [
               3.81,
-              0.805
-            ],
-            [
-              3.97,
-              0.74
-            ],
-            [
-              4.13,
-              0.712
-            ],
-            [
-              4.3,
-              0.721
-            ],
-            [
-              4.46,
-              0.743
-            ],
-            [
-              4.63,
-              0.766
-            ],
-            [
-              4.79,
-              0.78
-            ],
-            [
-              4.96,
               0.785
             ],
             [
-              5.12,
-              0.779
+              3.97,
+              0.727
             ],
             [
-              5.29,
-              0.764
+              4.13,
+              0.71
             ],
             [
-              5.46,
-              0.744
-            ],
-            [
-              5.62,
+              4.3,
               0.724
             ],
             [
+              4.46,
+              0.748
+            ],
+            [
+              4.63,
+              0.77
+            ],
+            [
+              4.79,
+              0.782
+            ],
+            [
+              4.96,
+              0.784
+            ],
+            [
+              5.12,
+              0.777
+            ],
+            [
+              5.29,
+              0.761
+            ],
+            [
+              5.46,
+              0.74
+            ],
+            [
+              5.62,
+              0.72
+            ],
+            [
               5.79,
-              0.704
+              0.701
             ],
             [
               5.95,
-              0.69
+              0.688
             ],
             [
               6.12,
-              0.681
+              0.68
             ],
             [
               6.28,
-              0.679
+              0.68
             ],
             [
               6.45,
-              0.684
+              0.685
             ],
             [
               6.61,
-              0.693
+              0.695
             ],
             [
               6.78,
-              0.706
+              0.708
             ]
           ],
           "source_type": "experimental_pairs_composition_weighted",
           "source_badge": "\ud83d\udd2c Experimental Pair Lengths (1/1) + \u2696\ufe0f Parameterized g(r) Curve",
-          "source_detail": "1/1 partial pair bond lengths r_\u03b1\u03b2 from published EXAFS/PDF benchmarks; mean r\u2081 = 1.46 \u00c5 and continuous g(r) profile reconstructed from Gaussian shells weighted by stoichiometric fractions c_\u03b1 c_\u03b2 of BN.",
-          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 1.46 \u00c5 followed by broadened second shell at r\u2082 = 2.38 \u00c5 (r\u2082/r\u2081 = 1.63), decaying to g(r) \u2192 1 at long range."
+          "source_detail": "1/1 partial pair bond lengths r_\u03b1\u03b2 from published EXAFS/PDF benchmarks; mean r\u2081 = 1.44 \u00c5 and continuous g(r) profile reconstructed from Gaussian shells weighted by stoichiometric fractions c_\u03b1 c_\u03b2 of BN.",
+          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 1.44 \u00c5 followed by broadened second shell at r\u2082 = 2.35 \u00c5 (r\u2082/r\u2081 = 1.63), decaying to g(r) \u2192 1 at long range."
         },
         "bond_angle_distribution": {
           "mean_angle_deg": 118.5,
@@ -84722,7 +84739,7 @@
             },
             {
               "pair": "B\u2013N",
-              "r_ij_A": 1.46,
+              "r_ij_A": 1.44,
               "sigma_r_A": 0.06,
               "cn_ij": 3.5,
               "coordination_number": "CN = 3.5",
@@ -84752,15 +84769,15 @@
             ],
             [
               1.33,
-              0.723
+              0.769
             ],
             [
               1.5,
-              0.896
+              0.778
             ],
             [
               1.66,
-              0.669
+              0.668
             ],
             [
               1.83,
@@ -85152,11 +85169,11 @@
         },
         "diffraction_sq": {
           "probe": "Diffuse XRD halo up to 1773 K; 29Si/11B/13C MAS NMR",
-          "fsdp_q1_inv_A": 2.81,
-          "q1_inv_A": 2.81,
-          "principal_peak_q2_inv_A": 5.12,
-          "second_peak_q2_inv_A": 5.12,
-          "real_space_periodicity_A": 2.24,
+          "fsdp_q1_inv_A": 2.83,
+          "q1_inv_A": 2.83,
+          "principal_peak_q2_inv_A": 5.16,
+          "second_peak_q2_inv_A": 5.16,
+          "real_space_periodicity_A": 2.22,
           "correlation_length_L_A": 6.9,
           "curve_points": [
             [
@@ -85181,39 +85198,39 @@
             ],
             [
               1.85,
-              0.113
+              0.096
             ],
             [
               2.1,
-              0.263
+              0.249
             ],
             [
               2.35,
-              0.467
+              0.439
             ],
             [
               2.6,
-              1.257
+              1.169
             ],
             [
               2.85,
-              1.864
+              1.891
             ],
             [
               3.1,
-              0.91
+              0.996
             ],
             [
               3.35,
-              0.393
+              0.417
             ],
             [
               3.6,
-              0.295
+              0.307
             ],
             [
               3.85,
-              0.242
+              0.25
             ],
             [
               4.1,
@@ -85221,107 +85238,107 @@
             ],
             [
               4.35,
-              0.285
+              0.265
             ],
             [
               4.6,
-              0.573
+              0.505
             ],
             [
               4.85,
-              1.149
+              1.048
             ],
             [
               5.1,
-              1.588
+              1.555
             ],
             [
               5.35,
-              1.418
+              1.481
             ],
             [
               5.6,
-              0.969
+              1.033
             ],
             [
               5.85,
-              0.717
+              0.741
             ],
             [
               6.1,
-              0.643
+              0.65
             ],
             [
               6.35,
-              0.601
+              0.608
             ],
             [
               6.6,
-              0.555
+              0.561
             ],
             [
               6.85,
-              0.526
+              0.524
             ],
             [
               7.1,
-              0.552
+              0.534
             ],
             [
               7.35,
-              0.639
+              0.61
             ],
             [
               7.6,
-              0.736
+              0.714
             ],
             [
               7.85,
-              0.761
+              0.764
             ],
             [
               8.1,
-              0.69
+              0.716
             ],
             [
               8.35,
-              0.586
+              0.613
             ],
             [
               8.6,
-              0.519
+              0.534
             ],
             [
               8.85,
-              0.507
+              0.51
             ],
             [
               9.1,
-              0.525
+              0.523
             ],
             [
               9.35,
-              0.544
+              0.542
             ],
             [
               9.6,
-              0.548
+              0.549
             ],
             [
               9.85,
-              0.536
+              0.539
             ]
           ],
           "source_type": "composition_weighted_reconstruction",
           "source_badge": "\u2696\ufe0f Composition-Weighted Parameterized S(Q) Reconstruction",
-          "source_detail": "Q\u2081 = 2.81 \u00c5\u207b\u00b9 and Q\u2082 = 5.12 \u00c5\u207b\u00b9 computed from stoichiometric atomic fractions c_i of BSi2CN3 and Ehrenfest / network-former scaling; continuous S(Q) curve is a parameterized Lorentzian/Gaussian profile.",
-          "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 2.81 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 2.24 \u00c5, coherence length L \u2248 6.9 \u00c5) without crystalline Bragg peaks."
+          "source_detail": "Q\u2081 = 2.83 \u00c5\u207b\u00b9 and Q\u2082 = 5.16 \u00c5\u207b\u00b9 computed from stoichiometric atomic fractions c_i of BSi2CN3 and Ehrenfest / network-former scaling; continuous S(Q) curve is a parameterized Lorentzian/Gaussian profile.",
+          "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 2.83 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 2.22 \u00c5, coherence length L \u2248 6.9 \u00c5) without crystalline Bragg peaks."
         },
         "rdf_gr": {
-          "r1_A": 1.62,
-          "r1_bond_length_A": 1.62,
-          "r2_A": 2.64,
-          "r2_second_shell_A": 2.64,
+          "r1_A": 1.61,
+          "r1_bond_length_A": 1.61,
+          "r2_A": 2.62,
+          "r2_second_shell_A": 2.62,
           "r2_r1_ratio": 1.63,
           "first_shell_cn": 3.7,
           "partial_pairs": [
@@ -85357,7 +85374,7 @@
             },
             {
               "pair": "B\u2013N",
-              "r_ij_A": 1.46,
+              "r_ij_A": 1.44,
               "sigma_r_A": 0.06,
               "cn_ij": 3.0,
               "coordination_number": "CN = 3.0",
@@ -85387,95 +85404,95 @@
             ],
             [
               1.33,
-              0.293
+              0.341
             ],
             [
               1.5,
-              0.466
+              0.354
             ],
             [
               1.66,
-              0.616
+              0.625
             ],
             [
               1.83,
-              0.63
+              0.644
             ],
             [
               1.99,
-              0.361
+              0.379
             ],
             [
               2.16,
-              0.548
+              0.576
             ],
             [
               2.32,
-              0.915
+              0.97
             ],
             [
               2.49,
-              1.484
+              1.543
             ],
             [
               2.65,
-              1.773
+              1.764
             ],
             [
               2.82,
-              1.457
+              1.397
             ],
             [
               2.98,
-              1.024
+              0.984
             ],
             [
               3.15,
-              0.805
+              0.794
             ],
             [
               3.31,
-              0.753
+              0.755
             ],
             [
               3.48,
-              0.768
+              0.779
             ],
             [
               3.64,
-              0.826
+              0.841
             ],
             [
               3.81,
-              0.891
+              0.898
             ],
             [
               3.97,
-              0.901
+              0.895
             ],
             [
               4.13,
-              0.852
+              0.838
             ],
             [
               4.3,
-              0.782
+              0.77
             ],
             [
               4.46,
-              0.743
+              0.738
             ],
             [
               4.63,
-              0.74
+              0.741
             ],
             [
               4.79,
-              0.756
+              0.758
             ],
             [
               4.96,
-              0.774
+              0.776
             ],
             [
               5.12,
@@ -85483,31 +85500,31 @@
             ],
             [
               5.29,
-              0.783
+              0.782
             ],
             [
               5.46,
-              0.773
+              0.771
             ],
             [
               5.62,
-              0.756
+              0.754
             ],
             [
               5.79,
-              0.735
+              0.733
             ],
             [
               5.95,
-              0.715
+              0.713
             ],
             [
               6.12,
-              0.697
+              0.696
             ],
             [
               6.28,
-              0.685
+              0.684
             ],
             [
               6.45,
@@ -85515,17 +85532,17 @@
             ],
             [
               6.61,
-              0.68
+              0.681
             ],
             [
               6.78,
-              0.687
+              0.688
             ]
           ],
           "source_type": "experimental_pairs_composition_weighted",
           "source_badge": "\ud83d\udd2c Experimental Pair Lengths (5/5) + \u2696\ufe0f Parameterized g(r) Curve",
-          "source_detail": "5/5 partial pair bond lengths r_\u03b1\u03b2 from published EXAFS/PDF benchmarks; mean r\u2081 = 1.62 \u00c5 and continuous g(r) profile reconstructed from Gaussian shells weighted by stoichiometric fractions c_\u03b1 c_\u03b2 of BSi2CN3.",
-          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 1.62 \u00c5 followed by broadened second shell at r\u2082 = 2.64 \u00c5 (r\u2082/r\u2081 = 1.63), decaying to g(r) \u2192 1 at long range."
+          "source_detail": "5/5 partial pair bond lengths r_\u03b1\u03b2 from published EXAFS/PDF benchmarks; mean r\u2081 = 1.61 \u00c5 and continuous g(r) profile reconstructed from Gaussian shells weighted by stoichiometric fractions c_\u03b1 c_\u03b2 of BSi2CN3.",
+          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 1.61 \u00c5 followed by broadened second shell at r\u2082 = 2.62 \u00c5 (r\u2082/r\u2081 = 1.63), decaying to g(r) \u2192 1 at long range."
         },
         "bond_angle_distribution": {
           "mean_angle_deg": 110.7,
@@ -91823,8 +91840,8 @@
           "probe": "Diffuse XRD halo; Raman Si-Si, Si-Ge, Ge-Ge tetrahedral modes; EXAFS",
           "fsdp_q1_inv_A": 1.9,
           "q1_inv_A": 1.9,
-          "principal_peak_q2_inv_A": 3.46,
-          "second_peak_q2_inv_A": 3.46,
+          "principal_peak_q2_inv_A": 3.47,
+          "second_peak_q2_inv_A": 3.47,
           "real_space_periodicity_A": 3.31,
           "correlation_length_L_A": 10.3,
           "curve_points": [
@@ -91838,67 +91855,67 @@
             ],
             [
               1.1,
-              0.11
+              0.112
             ],
             [
               1.35,
-              0.189
+              0.192
             ],
             [
               1.6,
-              0.642
+              0.645
             ],
             [
               1.85,
-              1.589
+              1.593
             ],
             [
               2.1,
-              1.05
+              1.052
             ],
             [
               2.35,
-              0.291
+              0.292
             ],
             [
               2.6,
-              0.229
+              0.227
             ],
             [
               2.85,
-              0.425
+              0.412
             ],
             [
               3.1,
-              0.92
+              0.896
             ],
             [
               3.35,
-              1.489
+              1.473
             ],
             [
               3.6,
-              1.546
+              1.556
             ],
             [
               3.85,
-              1.126
+              1.144
             ],
             [
               4.1,
-              0.797
+              0.805
             ],
             [
               4.35,
-              0.724
+              0.723
             ],
             [
               4.6,
-              0.776
+              0.772
             ],
             [
               4.85,
-              0.864
+              0.861
             ],
             [
               5.1,
@@ -91906,19 +91923,19 @@
             ],
             [
               5.35,
-              0.866
+              0.87
             ],
             [
               5.6,
-              0.707
+              0.715
             ],
             [
               5.85,
-              0.524
+              0.531
             ],
             [
               6.1,
-              0.399
+              0.402
             ],
             [
               6.35,
@@ -91926,23 +91943,23 @@
             ],
             [
               6.6,
-              0.368
+              0.367
             ],
             [
               6.85,
-              0.41
+              0.408
             ],
             [
               7.1,
-              0.46
+              0.458
             ],
             [
               7.35,
-              0.505
+              0.503
             ],
             [
               7.6,
-              0.536
+              0.535
             ],
             [
               7.85,
@@ -91950,53 +91967,53 @@
             ],
             [
               8.1,
-              0.542
+              0.543
             ],
             [
               8.35,
-              0.52
+              0.521
             ],
             [
               8.6,
-              0.486
+              0.488
             ],
             [
               8.85,
-              0.449
+              0.451
             ],
             [
               9.1,
-              0.416
+              0.417
             ],
             [
               9.35,
-              0.391
+              0.392
             ],
             [
               9.6,
-              0.379
+              0.38
             ],
             [
               9.85,
-              0.382
+              0.381
             ]
           ],
           "source_type": "composition_weighted_reconstruction",
           "source_badge": "\u2696\ufe0f Composition-Weighted Parameterized S(Q) Reconstruction",
-          "source_detail": "Q\u2081 = 1.90 \u00c5\u207b\u00b9 and Q\u2082 = 3.46 \u00c5\u207b\u00b9 computed from stoichiometric atomic fractions c_i of GeSi and Ehrenfest / network-former scaling; continuous S(Q) curve is a parameterized Lorentzian/Gaussian profile.",
+          "source_detail": "Q\u2081 = 1.90 \u00c5\u207b\u00b9 and Q\u2082 = 3.47 \u00c5\u207b\u00b9 computed from stoichiometric atomic fractions c_i of GeSi and Ehrenfest / network-former scaling; continuous S(Q) curve is a parameterized Lorentzian/Gaussian profile.",
           "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 1.90 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 3.31 \u00c5, coherence length L \u2248 10.3 \u00c5) without crystalline Bragg peaks."
         },
         "rdf_gr": {
-          "r1_A": 2.4,
-          "r1_bond_length_A": 2.4,
-          "r2_A": 3.91,
-          "r2_second_shell_A": 3.91,
+          "r1_A": 2.39,
+          "r1_bond_length_A": 2.39,
+          "r2_A": 3.9,
+          "r2_second_shell_A": 3.9,
           "r2_r1_ratio": 1.63,
           "first_shell_cn": 4.0,
           "partial_pairs": [
             {
               "pair": "Si\u2013Ge",
-              "r_ij_A": 2.4,
+              "r_ij_A": 2.38,
               "sigma_r_A": 0.05,
               "cn_ij": 4.0,
               "coordination_number": "CN = 4.0",
@@ -92060,67 +92077,67 @@
             ],
             [
               2.32,
-              1.128
+              1.416
             ],
             [
               2.49,
-              0.953
+              0.77
             ],
             [
               2.65,
-              0.049
+              0.057
             ],
             [
               2.82,
-              0.197
+              0.207
             ],
             [
               2.98,
-              0.365
+              0.376
             ],
             [
               3.15,
-              0.534
+              0.543
             ],
             [
               3.31,
-              0.671
+              0.68
             ],
             [
               3.48,
-              0.852
+              0.867
             ],
             [
               3.64,
-              1.2
+              1.229
             ],
             [
               3.81,
-              1.696
+              1.718
             ],
             [
               3.97,
-              1.771
+              1.755
             ],
             [
               4.13,
-              1.354
+              1.324
             ],
             [
               4.3,
-              0.937
+              0.921
             ],
             [
               4.46,
-              0.772
+              0.766
             ],
             [
               4.63,
-              0.702
+              0.699
             ],
             [
               4.79,
-              0.66
+              0.658
             ],
             [
               4.96,
@@ -92128,53 +92145,53 @@
             ],
             [
               5.12,
-              0.641
+              0.644
             ],
             [
               5.29,
-              0.692
+              0.701
             ],
             [
               5.46,
-              0.797
+              0.81
             ],
             [
               5.62,
-              0.914
+              0.925
             ],
             [
               5.79,
-              0.991
+              0.992
             ],
             [
               5.95,
-              0.983
+              0.975
             ],
             [
               6.12,
-              0.916
+              0.906
             ],
             [
               6.28,
-              0.852
+              0.844
             ],
             [
               6.45,
-              0.809
+              0.806
             ],
             [
               6.61,
-              0.787
+              0.786
             ],
             [
               6.78,
-              0.769
+              0.768
             ]
           ],
           "source_type": "experimental_pairs_composition_weighted",
           "source_badge": "\ud83d\udd2c Experimental Pair Lengths (3/3) + \u2696\ufe0f Parameterized g(r) Curve",
-          "source_detail": "3/3 partial pair bond lengths r_\u03b1\u03b2 from published EXAFS/PDF benchmarks; mean r\u2081 = 2.40 \u00c5 and continuous g(r) profile reconstructed from Gaussian shells weighted by stoichiometric fractions c_\u03b1 c_\u03b2 of GeSi.",
-          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 2.40 \u00c5 followed by broadened second shell at r\u2082 = 3.91 \u00c5 (r\u2082/r\u2081 = 1.63), decaying to g(r) \u2192 1 at long range."
+          "source_detail": "3/3 partial pair bond lengths r_\u03b1\u03b2 from published EXAFS/PDF benchmarks; mean r\u2081 = 2.39 \u00c5 and continuous g(r) profile reconstructed from Gaussian shells weighted by stoichiometric fractions c_\u03b1 c_\u03b2 of GeSi.",
+          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 2.39 \u00c5 followed by broadened second shell at r\u2082 = 3.90 \u00c5 (r\u2082/r\u2081 = 1.63), decaying to g(r) \u2192 1 at long range."
         },
         "bond_angle_distribution": {
           "mean_angle_deg": 109.5,
@@ -93588,22 +93605,22 @@
       "crystalline_conversion_note": "Wide-bandgap amorphous gallium nitride built from corner-shared GaN4 tetrahedra.",
       "structural_characterization": {
         "provenance": {
-          "is_direct_experimental_benchmark": false,
-          "overall_type": "composition_weighted_reconstruction",
-          "overall_badge": "\u2696\ufe0f Experimental Pair Lengths + Composition-Weighted Parameterized Profiles",
-          "composition_weighting_note": "Partial pair bond lengths (1/1 from EXAFS/PDF benchmarks) and peak positions weighted by stoichiometric atomic fractions c_i of GaN; continuous curves are parameterized analytical profiles.",
-          "benchmark_reference": "Composition-weighted from canonical EXAFS/PDF pair lengths & stoichiometric atomic fractions c_i",
+          "is_direct_experimental_benchmark": true,
+          "overall_type": "direct_experimental_benchmark",
+          "overall_badge": "\ud83d\udd2c Experimental / RMC Benchmark Peaks + Parameterized Curve Profiles",
+          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Stumm & Drabold, Phys. Rev. Lett. 79, 677 (1997) [DOI: 10.1103/physrevlett.79.677]; continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
+          "benchmark_reference": "Stumm & Drabold, Phys. Rev. Lett. 79, 677 (1997) [DOI: 10.1103/physrevlett.79.677]",
           "experimental_pair_count": 1,
           "total_pair_count": 1
         },
         "diffraction_sq": {
           "probe": "Diffuse XRD halo; TEM SAED; NEXAFS; reactive sputtered a-GaN",
-          "fsdp_q1_inv_A": 2.33,
-          "q1_inv_A": 2.33,
-          "principal_peak_q2_inv_A": 4.26,
-          "second_peak_q2_inv_A": 4.26,
-          "real_space_periodicity_A": 2.7,
-          "correlation_length_L_A": 8.4,
+          "fsdp_q1_inv_A": 2.18,
+          "q1_inv_A": 2.18,
+          "principal_peak_q2_inv_A": 3.76,
+          "second_peak_q2_inv_A": 3.76,
+          "real_space_periodicity_A": 2.88,
+          "correlation_length_L_A": 8.9,
           "curve_points": [
             [
               0.6,
@@ -93615,153 +93632,153 @@
             ],
             [
               1.1,
-              0.05
+              0.084
             ],
             [
               1.35,
-              0.131
+              0.155
             ],
             [
               1.6,
-              0.243
+              0.215
             ],
             [
               1.85,
-              0.387
+              0.567
             ],
             [
               2.1,
-              1.073
+              1.533
             ],
             [
               2.35,
-              1.764
+              1.183
             ],
             [
               2.6,
-              0.856
+              0.325
             ],
             [
               2.85,
-              0.288
+              0.207
             ],
             [
               3.1,
-              0.213
+              0.358
             ],
             [
               3.35,
-              0.226
+              0.794
             ],
             [
               3.6,
-              0.371
+              1.397
             ],
             [
               3.85,
-              0.801
+              1.587
             ],
             [
               4.1,
-              1.4
+              1.216
             ],
             [
               4.35,
-              1.588
+              0.831
             ],
             [
               4.6,
-              1.215
+              0.696
             ],
             [
               4.85,
-              0.827
+              0.699
             ],
             [
               5.1,
-              0.678
+              0.755
             ],
             [
               5.35,
-              0.646
+              0.834
             ],
             [
               5.6,
-              0.646
+              0.873
             ],
             [
               5.85,
-              0.684
-            ],
-            [
-              6.1,
-              0.757
-            ],
-            [
-              6.35,
               0.808
             ],
             [
+              6.1,
+              0.652
+            ],
+            [
+              6.35,
+              0.49
+            ],
+            [
               6.6,
-              0.767
+              0.394
             ],
             [
               6.85,
-              0.64
+              0.375
             ],
             [
               7.1,
-              0.504
+              0.404
             ],
             [
               7.35,
-              0.428
+              0.451
             ],
             [
               7.6,
-              0.422
+              0.497
             ],
             [
               7.85,
-              0.455
-            ],
-            [
-              8.1,
-              0.498
-            ],
-            [
-              8.35,
               0.531
             ],
             [
-              8.6,
+              8.1,
               0.547
             ],
             [
-              8.85,
+              8.35,
               0.545
             ],
             [
-              9.1,
+              8.6,
               0.525
             ],
             [
-              9.35,
+              8.85,
               0.494
             ],
             [
-              9.6,
+              9.1,
               0.457
             ],
             [
-              9.85,
+              9.35,
               0.422
+            ],
+            [
+              9.6,
+              0.395
+            ],
+            [
+              9.85,
+              0.381
             ]
           ],
-          "source_type": "composition_weighted_reconstruction",
-          "source_badge": "\u2696\ufe0f Composition-Weighted Parameterized S(Q) Reconstruction",
-          "source_detail": "Q\u2081 = 2.33 \u00c5\u207b\u00b9 and Q\u2082 = 4.26 \u00c5\u207b\u00b9 computed from stoichiometric atomic fractions c_i of GaN and Ehrenfest / network-former scaling; continuous S(Q) curve is a parameterized Lorentzian/Gaussian profile.",
-          "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 2.33 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 2.70 \u00c5, coherence length L \u2248 8.4 \u00c5) without crystalline Bragg peaks."
+          "source_type": "experimental_benchmark",
+          "source_badge": "\ud83d\udd2c Benchmark Peaks (Q\u2081, Q\u2082) + Parameterized S(Q) Curve",
+          "source_detail": "Scalar peak positions Q\u2081 = 2.18 \u00c5\u207b\u00b9, Q\u2082 = 3.76 \u00c5\u207b\u00b9 anchored to published diffraction (Stumm & Drabold, Phys. Rev. Lett. 79, 677 (1997) [DOI: 10.1103/physrevlett.79.677]); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
+          "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 2.18 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 2.88 \u00c5, coherence length L \u2248 8.9 \u00c5) without crystalline Bragg peaks."
         },
         "rdf_gr": {
           "r1_A": 1.95,
@@ -93928,9 +93945,9 @@
               0.688
             ]
           ],
-          "source_type": "experimental_pairs_composition_weighted",
-          "source_badge": "\ud83d\udd2c Experimental Pair Lengths (1/1) + \u2696\ufe0f Parameterized g(r) Curve",
-          "source_detail": "1/1 partial pair bond lengths r_\u03b1\u03b2 from published EXAFS/PDF benchmarks; mean r\u2081 = 1.95 \u00c5 and continuous g(r) profile reconstructed from Gaussian shells weighted by stoichiometric fractions c_\u03b1 c_\u03b2 of GaN.",
+          "source_type": "experimental_benchmark",
+          "source_badge": "\ud83d\udd2c Benchmark Shells (r\u2081, r\u2082; 1/1 pairs) + Parameterized g(r) Curve",
+          "source_detail": "First/second shells r\u2081 = 1.95 \u00c5, r\u2082 = 3.18 \u00c5 & partial pair lengths from Stumm & Drabold, Phys. Rev. Lett. 79, 677 (1997) [DOI: 10.1103/physrevlett.79.677]; continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
           "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 1.95 \u00c5 followed by broadened second shell at r\u2082 = 3.18 \u00c5 (r\u2082/r\u2081 = 1.63), decaying to g(r) \u2192 1 at long range."
         },
         "bond_angle_distribution": {
@@ -93940,8 +93957,8 @@
           "intra_polyhedral_fwhm_deg": 9.2,
           "intra_polyhedral_label": "T\u2013T\u2013T (Tetrahedral sp3 Continuous Random Network Bond Angle)",
           "motif_geometry": "T\u2013T\u2013T (Tetrahedral sp3 Continuous Random Network Bond Angle)",
-          "secondary_angle_deg": 138.0,
-          "inter_polyhedral_bridge_angle_deg": 138.0,
+          "secondary_angle_deg": 118.0,
+          "inter_polyhedral_bridge_angle_deg": 118.0,
           "inter_polyhedral_fwhm_deg": 17.5,
           "inter_polyhedral_label": "Bridge / Second-Shell Dihedral Peak",
           "curve_points": [
@@ -93991,83 +94008,83 @@
             ],
             [
               92.3,
-              0.0
+              0.002
             ],
             [
               96.2,
-              0.003
+              0.011
             ],
             [
               100.1,
-              0.055
+              0.087
             ],
             [
               103.9,
-              0.358
+              0.454
             ],
             [
               107.8,
-              0.91
+              1.136
             ],
             [
               111.6,
-              0.867
+              1.266
             ],
             [
               115.5,
-              0.313
+              0.856
             ],
             [
               119.3,
-              0.067
+              0.614
             ],
             [
               123.2,
-              0.082
+              0.456
             ],
             [
               127.0,
-              0.194
+              0.279
             ],
             [
               130.9,
-              0.367
+              0.129
             ],
             [
               134.7,
-              0.526
+              0.046
             ],
             [
               138.6,
-              0.578
+              0.012
             ],
             [
               142.4,
-              0.487
+              0.003
             ],
             [
               146.2,
-              0.316
+              0.0
             ],
             [
               150.1,
-              0.154
+              0.0
             ],
             [
               153.9,
-              0.059
+              0.0
             ],
             [
               157.8,
-              0.017
+              0.0
             ],
             [
               161.7,
-              0.004
+              0.0
             ],
             [
               165.5,
-              0.001
+              0.0
             ],
             [
               169.4,
@@ -94082,10 +94099,10 @@
               0.0
             ]
           ],
-          "source_type": "composition_weighted_reconstruction",
-          "source_badge": "\u2696\ufe0f Composition-Weighted Parameterized P(\u03b8) Reconstruction",
-          "source_detail": "Peak angles \u03b8\u2081 = 109.5\u00b0, \u03b8\u2082 = 138.0\u00b0 and widths weighted by stoichiometric cation/solute fractions c_i in GaN; continuous P(\u03b8) curve is a parameterized Gaussian profile.",
-          "physical_interpretation": "Primary bond-angle peak at \u03b8\u2081 = 109.5\u00b0 (FWHM \u2248 9.2\u00b0) paired with inter-unit / second-shell angle \u03b8\u2082 = 138.0\u00b0 provides the topological flexibility required for non-crystalline packing."
+          "source_type": "experimental_benchmark",
+          "source_badge": "\ud83d\udd2c Benchmark Angles (\u03b8\u2081, \u03b8\u2082) + Parameterized P(\u03b8) Curve",
+          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 109.5\u00b0, \u03b8\u2082 = 118.0\u00b0 from Stumm & Drabold, Phys. Rev. Lett. 79, 677 (1997) [DOI: 10.1103/physrevlett.79.677]; continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
+          "physical_interpretation": "Primary bond-angle peak at \u03b8\u2081 = 109.5\u00b0 (FWHM \u2248 9.2\u00b0) paired with inter-unit / second-shell angle \u03b8\u2082 = 118.0\u00b0 provides the topological flexibility required for non-crystalline packing."
         },
         "ring_or_voronoi_distribution": {
           "distribution_type": "Composition-Weighted Tetrahedral CRN Ring Statistics",
@@ -94124,8 +94141,8 @@
             }
           ],
           "source_type": "composition_weighted_reconstruction",
-          "source_badge": "\u2696\ufe0f Composition-Weighted Topological Reconstruction",
-          "source_detail": "Ring / Voronoi polyhedron fractions computed continuously from stoichiometric atomic fractions c_i and size variance of GaN.",
+          "source_badge": "\u2696\ufe0f Archetype-Guided Composition-Weighted Topology",
+          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of GaN (guided by Stumm & Drabold, Phys. Rev. Lett. 79, 677 (1997) [DOI: 10.1103/physrevlett.79.677]).",
           "physical_interpretation": "Broad distribution of 6-ring & 5-ring (sp3 CRN, x_tet=1.00) breaks 3D translational symmetry and frustrates crystallization in GaN."
         }
       },
@@ -107663,18 +107680,19 @@
       "material_class": "Oxide",
       "synthesis_regime": "bulk_melt_quenched",
       "synthesis_regime_label": "Bulk Melt-Quenched Glass",
-      "verification_method": "Diffuse XRD halo; 27Al/31P MAS NMR; DSC Tg=1025 K",
-      "reference_doi": "10.2478/v10168-012-0043-2",
-      "source_reference": "Saddeek & Abo-Naf, Archives of Acoustics 37 (2012) \u2014 \"Influence of MoO3 on the Structure of Lithium Aluminum Phosphate Glasses\"",
-      "paper_title": "Influence of MoO3 on the Structure of Lithium Aluminum Phosphate Glasses",
-      "journal": "Archives of Acoustics",
-      "publication_year": 2012,
+      "verification_method": "Diffuse XRD halo; DTA/DSC; 27Al/31P MAS NMR; DSC Tg=1025 K",
+      "reference_doi": "10.1007/bf01197650",
+      "source_reference": "Langlet, Saltzberg & Shannon, Journal of Materials Science 27, 972 (1992) \u2014 \"Aluminium metaphosphate glass-ceramics\"",
+      "paper_title": "Aluminium metaphosphate glass-ceramics",
+      "journal": "Journal of Materials Science",
+      "publication_year": 1992,
       "authors": [
-        "Saddeek",
-        "Abo-Naf"
+        "M. Langlet",
+        "M. Saltzberg",
+        "R. D. Shannon"
       ],
-      "openalex_id": "https://openalex.org/W2116054101",
-      "abstract_snippet": "IR spectroscopy, density and ultrasonic velocity measurements have been carried out for aluminum lithium phosphate glasses with and without MoO3.The observed changes in the FTIR spectra of the glasses were related to the modifier/former role of molybdenum ions.The results revealed that the density increases with increasing MoO3 content, which was attributed to the increase in the compactness and packing of the glass network.The ultrasonic data were analyzed in terms of creation of new bonds of M",
+      "openalex_id": "",
+      "abstract_snippet": "",
       "system_tetrahedral_flag": 1,
       "tetrahedral_former_elements": [
         "Al",
@@ -107692,7 +107710,7 @@
           "total_pair_count": 3
         },
         "diffraction_sq": {
-          "probe": "Diffuse XRD halo; 27Al/31P MAS NMR; DSC Tg=1025 K",
+          "probe": "Diffuse XRD halo; DTA/DSC; 27Al/31P MAS NMR; DSC Tg=1025 K",
           "fsdp_q1_inv_A": 1.52,
           "q1_inv_A": 1.52,
           "principal_peak_q2_inv_A": 2.73,
@@ -133402,19 +133420,19 @@
           "is_direct_experimental_benchmark": true,
           "overall_type": "direct_experimental_benchmark",
           "overall_badge": "\ud83d\udd2c Experimental / RMC Benchmark Peaks + Parameterized Curve Profiles",
-          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Bouzid, Le Roux, Ori, Boero & Massobrio, Front. Mater. 6, 133 (2019); continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
-          "benchmark_reference": "Bouzid, Le Roux, Ori, Boero & Massobrio, Front. Mater. 6, 133 (2019)",
+          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Rowlands, Zeidler, Fischer & Salmon, Front. Mater. 6, 133 (2019) [DOI: 10.3389/fmats.2019.00133]; continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
+          "benchmark_reference": "Rowlands, Zeidler, Fischer & Salmon, Front. Mater. 6, 133 (2019) [DOI: 10.3389/fmats.2019.00133]",
           "experimental_pair_count": 2,
           "total_pair_count": 2
         },
         "diffraction_sq": {
           "probe": "Neutron diffraction with isotope substitution (FSDP + partial g_ab(r)); high-energy X-ray diffraction; Raman spectroscopy (bulk melt-quenched GeSe3 glass)",
-          "fsdp_q1_inv_A": 1.04,
-          "q1_inv_A": 1.04,
-          "principal_peak_q2_inv_A": 2.05,
-          "second_peak_q2_inv_A": 2.05,
-          "real_space_periodicity_A": 6.04,
-          "correlation_length_L_A": 18.7,
+          "fsdp_q1_inv_A": 1.06,
+          "q1_inv_A": 1.06,
+          "principal_peak_q2_inv_A": 2.03,
+          "second_peak_q2_inv_A": 2.03,
+          "real_space_periodicity_A": 5.93,
+          "correlation_length_L_A": 18.4,
           "curve_points": [
             [
               0.6,
@@ -133422,23 +133440,23 @@
             ],
             [
               0.85,
-              0.862
+              0.757
             ],
             [
               1.1,
-              1.485
+              1.512
             ],
             [
               1.35,
-              0.722
+              0.804
             ],
             [
               1.6,
-              0.733
+              0.784
             ],
             [
               1.85,
-              1.326
+              1.371
             ],
             [
               2.1,
@@ -133446,71 +133464,71 @@
             ],
             [
               2.35,
-              1.402
+              1.377
             ],
             [
               2.6,
-              1.109
+              1.103
             ],
             [
               2.85,
-              1.065
+              1.072
             ],
             [
               3.1,
-              1.08
+              1.077
             ],
             [
               3.35,
-              0.98
+              0.962
             ],
             [
               3.6,
-              0.78
+              0.757
             ],
             [
               3.85,
-              0.576
+              0.558
             ],
             [
               4.1,
-              0.431
+              0.42
             ],
             [
               4.35,
-              0.35
+              0.345
             ],
             [
               4.6,
-              0.318
+              0.317
             ],
             [
               4.85,
-              0.32
+              0.321
             ],
             [
               5.1,
-              0.347
+              0.35
             ],
             [
               5.35,
-              0.391
+              0.395
             ],
             [
               5.6,
-              0.442
+              0.446
             ],
             [
               5.85,
-              0.49
+              0.493
             ],
             [
               6.1,
-              0.526
+              0.529
             ],
             [
               6.35,
-              0.546
+              0.547
             ],
             [
               6.6,
@@ -133518,51 +133536,51 @@
             ],
             [
               6.85,
-              0.529
+              0.527
             ],
             [
               7.1,
-              0.499
+              0.496
             ],
             [
               7.35,
-              0.463
+              0.46
             ],
             [
               7.6,
-              0.427
+              0.424
             ],
             [
               7.85,
-              0.399
+              0.397
             ],
             [
               8.1,
-              0.382
+              0.381
             ],
             [
               8.35,
-              0.379
+              0.38
             ],
             [
               8.6,
-              0.39
+              0.391
             ],
             [
               8.85,
-              0.41
+              0.412
             ],
             [
               9.1,
-              0.436
+              0.438
             ],
             [
               9.35,
-              0.462
+              0.464
             ],
             [
               9.6,
-              0.484
+              0.485
             ],
             [
               9.85,
@@ -133571,15 +133589,15 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Peaks (Q\u2081, Q\u2082) + Parameterized S(Q) Curve",
-          "source_detail": "Scalar peak positions Q\u2081 = 1.04 \u00c5\u207b\u00b9, Q\u2082 = 2.05 \u00c5\u207b\u00b9 anchored to published diffraction (Bouzid, Le Roux, Ori, Boero & Massobrio, Front. Mater. 6, 133 (2019)); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
-          "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 1.04 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 6.04 \u00c5, coherence length L \u2248 18.7 \u00c5) without crystalline Bragg peaks."
+          "source_detail": "Scalar peak positions Q\u2081 = 1.06 \u00c5\u207b\u00b9, Q\u2082 = 2.03 \u00c5\u207b\u00b9 anchored to published diffraction (Rowlands, Zeidler, Fischer & Salmon, Front. Mater. 6, 133 (2019) [DOI: 10.3389/fmats.2019.00133]); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
+          "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 1.06 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 5.93 \u00c5, coherence length L \u2248 18.4 \u00c5) without crystalline Bragg peaks."
         },
         "rdf_gr": {
-          "r1_A": 2.36,
-          "r1_bond_length_A": 2.36,
+          "r1_A": 2.37,
+          "r1_bond_length_A": 2.37,
           "r2_A": 3.85,
           "r2_second_shell_A": 3.85,
-          "r2_r1_ratio": 1.63,
+          "r2_r1_ratio": 1.62,
           "first_shell_cn": 4.0,
           "partial_pairs": [
             {
@@ -133638,39 +133656,39 @@
             ],
             [
               2.32,
-              1.207
+              1.204
             ],
             [
               2.49,
-              0.101
+              0.096
             ],
             [
               2.65,
-              0.08
+              0.073
             ],
             [
               2.82,
-              0.243
+              0.235
             ],
             [
               2.98,
-              0.414
+              0.406
             ],
             [
               3.15,
-              0.578
+              0.573
             ],
             [
               3.31,
-              0.719
+              0.716
             ],
             [
               3.48,
-              0.959
+              0.958
             ],
             [
               3.64,
-              1.609
+              1.608
             ],
             [
               3.81,
@@ -133751,18 +133769,18 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Shells (r\u2081, r\u2082; 2/2 pairs) + Parameterized g(r) Curve",
-          "source_detail": "First/second shells r\u2081 = 2.36 \u00c5, r\u2082 = 3.85 \u00c5 & partial pair lengths from Bouzid, Le Roux, Ori, Boero & Massobrio, Front. Mater. 6, 133 (2019); continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
-          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 2.36 \u00c5 followed by broadened second shell at r\u2082 = 3.85 \u00c5 (r\u2082/r\u2081 = 1.63), decaying to g(r) \u2192 1 at long range."
+          "source_detail": "First/second shells r\u2081 = 2.37 \u00c5, r\u2082 = 3.85 \u00c5 & partial pair lengths from Rowlands, Zeidler, Fischer & Salmon, Front. Mater. 6, 133 (2019) [DOI: 10.3389/fmats.2019.00133]; continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
+          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 2.37 \u00c5 followed by broadened second shell at r\u2082 = 3.85 \u00c5 (r\u2082/r\u2081 = 1.62), decaying to g(r) \u2192 1 at long range."
         },
         "bond_angle_distribution": {
-          "mean_angle_deg": 108.5,
-          "intra_polyhedral_angle_deg": 108.5,
+          "mean_angle_deg": 109.0,
+          "intra_polyhedral_angle_deg": 109.0,
           "sigma_angle_deg": 2.8,
           "intra_polyhedral_fwhm_deg": 6.5,
           "intra_polyhedral_label": "X\u2013T\u2013X (Intra-Tetrahedral Angle)",
           "motif_geometry": "X\u2013T\u2013X (Intra-Tetrahedral Angle)",
-          "secondary_angle_deg": 101.5,
-          "inter_polyhedral_bridge_angle_deg": 101.5,
+          "secondary_angle_deg": 98.0,
+          "inter_polyhedral_bridge_angle_deg": 98.0,
           "inter_polyhedral_fwhm_deg": 13.5,
           "inter_polyhedral_label": "T\u2013X\u2013T (Corner/Edge-Sharing Chalcogen Bridge)",
           "curve_points": [
@@ -133796,51 +133814,51 @@
             ],
             [
               77.0,
-              0.0
-            ],
-            [
-              80.8,
               0.001
             ],
             [
+              80.8,
+              0.006
+            ],
+            [
               84.7,
-              0.008
+              0.039
             ],
             [
               88.5,
-              0.044
+              0.147
             ],
             [
               92.3,
-              0.16
+              0.354
             ],
             [
               96.2,
-              0.378
+              0.552
             ],
             [
               100.1,
-              0.573
+              0.548
             ],
             [
               103.9,
-              0.781
+              0.523
             ],
             [
               107.8,
-              1.285
+              1.044
             ],
             [
               111.6,
-              0.655
+              0.676
             ],
             [
               115.5,
-              0.07
+              0.068
             ],
             [
               119.3,
-              0.005
+              0.002
             ],
             [
               123.2,
@@ -133905,8 +133923,8 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Angles (\u03b8\u2081, \u03b8\u2082) + Parameterized P(\u03b8) Curve",
-          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 108.5\u00b0, \u03b8\u2082 = 101.5\u00b0 from Bouzid, Le Roux, Ori, Boero & Massobrio, Front. Mater. 6, 133 (2019); continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
-          "physical_interpretation": "Primary bond-angle peak at \u03b8\u2081 = 108.5\u00b0 (FWHM \u2248 6.5\u00b0) paired with inter-unit / second-shell angle \u03b8\u2082 = 101.5\u00b0 provides the topological flexibility required for non-crystalline packing."
+          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 109.0\u00b0, \u03b8\u2082 = 98.0\u00b0 from Rowlands, Zeidler, Fischer & Salmon, Front. Mater. 6, 133 (2019) [DOI: 10.3389/fmats.2019.00133]; continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
+          "physical_interpretation": "Primary bond-angle peak at \u03b8\u2081 = 109.0\u00b0 (FWHM \u2248 6.5\u00b0) paired with inter-unit / second-shell angle \u03b8\u2082 = 98.0\u00b0 provides the topological flexibility required for non-crystalline packing."
         },
         "ring_or_voronoi_distribution": {
           "distribution_type": "Composition-Weighted Ring Distribution (<r> \u2248 2.50)",
@@ -133952,7 +133970,7 @@
           ],
           "source_type": "composition_weighted_reconstruction",
           "source_badge": "\u2696\ufe0f Archetype-Guided Composition-Weighted Topology",
-          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of GeSe3 (guided by Bouzid, Le Roux, Ori, Boero & Massobrio, Front. Mater. 6, 133 (2019)).",
+          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of GeSe3 (guided by Rowlands, Zeidler, Fischer & Salmon, Front. Mater. 6, 133 (2019) [DOI: 10.3389/fmats.2019.00133]).",
           "physical_interpretation": "Broad distribution of 6-ring (Corner-sharing) + 2-ring (Edge-sharing) breaks 3D translational symmetry and frustrates crystallization in GeSe3."
         }
       },
@@ -134008,19 +134026,19 @@
           "is_direct_experimental_benchmark": true,
           "overall_type": "direct_experimental_benchmark",
           "overall_badge": "\ud83d\udd2c Experimental / RMC Benchmark Peaks + Parameterized Curve Profiles",
-          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Shi, Alderman, Berman, Weber & Benmore, Front. Mater. 6, 38 (2019); continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
-          "benchmark_reference": "Shi, Alderman, Berman, Weber & Benmore, Front. Mater. 6, 38 (2019)",
+          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Shi, Alderman, Berman, Weber, You & Benmore, Front. Mater. 6, 38 (2019) [DOI: 10.3389/fmats.2019.00038]; continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
+          "benchmark_reference": "Shi, Alderman, Berman, Weber, You & Benmore, Front. Mater. 6, 38 (2019) [DOI: 10.3389/fmats.2019.00038]",
           "experimental_pair_count": 2,
           "total_pair_count": 2
         },
         "diffraction_sq": {
           "probe": "High-energy synchrotron X-ray & neutron diffraction PDF; XRD diffuse halo; 27Al MAS NMR (aerodynamic levitation & sputtered a-Al2O3)",
-          "fsdp_q1_inv_A": 1.96,
-          "q1_inv_A": 1.96,
-          "principal_peak_q2_inv_A": 2.76,
-          "second_peak_q2_inv_A": 2.76,
-          "real_space_periodicity_A": 3.21,
-          "correlation_length_L_A": 10.0,
+          "fsdp_q1_inv_A": 2.11,
+          "q1_inv_A": 2.11,
+          "principal_peak_q2_inv_A": 2.9,
+          "second_peak_q2_inv_A": 2.9,
+          "real_space_periodicity_A": 2.98,
+          "correlation_length_L_A": 9.2,
           "curve_points": [
             [
               0.6,
@@ -134040,152 +134058,152 @@
             ],
             [
               1.6,
-              0.217
+              0.05
             ],
             [
               1.85,
-              1.276
+              0.589
             ],
             [
               2.1,
-              1.375
+              1.549
             ],
             [
               2.35,
-              0.936
+              1.108
             ],
             [
               2.6,
-              1.369
+              1.077
             ],
             [
               2.85,
-              1.574
+              1.532
             ],
             [
               3.1,
-              1.232
+              1.455
             ],
             [
               3.35,
-              0.904
+              1.039
             ],
             [
               3.6,
-              0.864
+              0.826
             ],
             [
               3.85,
-              0.96
+              0.861
             ],
             [
               4.1,
-              1.013
+              0.962
             ],
             [
               4.35,
-              0.935
+              0.992
             ],
             [
               4.6,
-              0.746
+              0.89
             ],
             [
               4.85,
-              0.541
+              0.693
             ],
             [
               5.1,
-              0.398
+              0.499
             ],
             [
               5.35,
-              0.334
+              0.377
             ],
             [
               5.6,
-              0.327
+              0.33
             ],
             [
               5.85,
-              0.354
+              0.337
             ],
             [
               6.1,
-              0.399
+              0.372
             ],
             [
               6.35,
-              0.45
+              0.421
             ],
             [
               6.6,
-              0.497
+              0.472
             ],
             [
               6.85,
-              0.531
+              0.514
             ],
             [
               7.1,
-              0.547
+              0.54
             ],
             [
               7.35,
-              0.545
+              0.549
             ],
             [
               7.6,
-              0.525
+              0.538
             ],
             [
               7.85,
-              0.494
+              0.512
             ],
             [
               8.1,
-              0.457
+              0.478
             ],
             [
               8.35,
-              0.422
+              0.441
             ],
             [
               8.6,
-              0.395
+              0.409
             ],
             [
               8.85,
-              0.381
+              0.387
             ],
             [
               9.1,
-              0.38
+              0.379
             ],
             [
               9.35,
-              0.392
+              0.384
             ],
             [
               9.6,
-              0.414
+              0.401
             ],
             [
               9.85,
-              0.44
+              0.425
             ]
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Peaks (Q\u2081, Q\u2082) + Parameterized S(Q) Curve",
-          "source_detail": "Scalar peak positions Q\u2081 = 1.96 \u00c5\u207b\u00b9, Q\u2082 = 2.76 \u00c5\u207b\u00b9 anchored to published diffraction (Shi, Alderman, Berman, Weber & Benmore, Front. Mater. 6, 38 (2019)); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
-          "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 1.96 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 3.21 \u00c5, coherence length L \u2248 10.0 \u00c5) without crystalline Bragg peaks."
+          "source_detail": "Scalar peak positions Q\u2081 = 2.11 \u00c5\u207b\u00b9, Q\u2082 = 2.90 \u00c5\u207b\u00b9 anchored to published diffraction (Shi, Alderman, Berman, Weber, You & Benmore, Front. Mater. 6, 38 (2019) [DOI: 10.3389/fmats.2019.00038]); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
+          "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 2.11 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 2.98 \u00c5, coherence length L \u2248 9.2 \u00c5) without crystalline Bragg peaks."
         },
         "rdf_gr": {
           "r1_A": 1.8,
           "r1_bond_length_A": 1.8,
-          "r2_A": 2.82,
-          "r2_second_shell_A": 2.82,
-          "r2_r1_ratio": 1.57,
+          "r2_A": 2.9,
+          "r2_second_shell_A": 2.9,
+          "r2_r1_ratio": 1.61,
           "first_shell_cn": 4.5,
           "partial_pairs": [
             {
@@ -134228,137 +134246,137 @@
             ],
             [
               1.66,
-              1.251
+              1.243
             ],
             [
               1.83,
-              1.685
+              1.666
             ],
             [
               1.99,
-              0.297
+              0.271
             ],
             [
               2.16,
-              0.29
+              0.257
             ],
             [
               2.32,
-              0.514
+              0.458
             ],
             [
               2.49,
-              0.886
-            ],
-            [
-              2.65,
-              1.445
-            ],
-            [
-              2.82,
-              2.379
-            ],
-            [
-              2.98,
-              1.832
-            ],
-            [
-              3.15,
-              1.048
-            ],
-            [
-              3.31,
-              0.814
-            ],
-            [
-              3.48,
-              0.739
-            ],
-            [
-              3.64,
-              0.731
-            ],
-            [
-              3.81,
-              0.776
-            ],
-            [
-              3.97,
-              0.85
-            ],
-            [
-              4.13,
-              0.904
-            ],
-            [
-              4.3,
-              0.894
-            ],
-            [
-              4.46,
-              0.835
-            ],
-            [
-              4.63,
-              0.776
-            ],
-            [
-              4.79,
-              0.754
-            ],
-            [
-              4.96,
-              0.759
-            ],
-            [
-              5.12,
-              0.773
-            ],
-            [
-              5.29,
-              0.783
-            ],
-            [
-              5.46,
-              0.783
-            ],
-            [
-              5.62,
-              0.774
-            ],
-            [
-              5.79,
-              0.758
-            ],
-            [
-              5.95,
               0.738
             ],
             [
+              2.65,
+              1.203
+            ],
+            [
+              2.82,
+              2.302
+            ],
+            [
+              2.98,
+              2.033
+            ],
+            [
+              3.15,
+              1.258
+            ],
+            [
+              3.31,
+              0.903
+            ],
+            [
+              3.48,
+              0.76
+            ],
+            [
+              3.64,
+              0.721
+            ],
+            [
+              3.81,
+              0.73
+            ],
+            [
+              3.97,
+              0.788
+            ],
+            [
+              4.13,
+              0.866
+            ],
+            [
+              4.3,
+              0.912
+            ],
+            [
+              4.46,
+              0.888
+            ],
+            [
+              4.63,
+              0.823
+            ],
+            [
+              4.79,
+              0.775
+            ],
+            [
+              4.96,
+              0.76
+            ],
+            [
+              5.12,
+              0.768
+            ],
+            [
+              5.29,
+              0.78
+            ],
+            [
+              5.46,
+              0.785
+            ],
+            [
+              5.62,
+              0.78
+            ],
+            [
+              5.79,
+              0.766
+            ],
+            [
+              5.95,
+              0.748
+            ],
+            [
               6.12,
-              0.717
+              0.727
             ],
             [
               6.28,
-              0.699
+              0.707
             ],
             [
               6.45,
-              0.686
+              0.691
             ],
             [
               6.61,
-              0.68
+              0.682
             ],
             [
               6.78,
-              0.68
+              0.679
             ]
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Shells (r\u2081, r\u2082; 2/2 pairs) + Parameterized g(r) Curve",
-          "source_detail": "First/second shells r\u2081 = 1.80 \u00c5, r\u2082 = 2.82 \u00c5 & partial pair lengths from Shi, Alderman, Berman, Weber & Benmore, Front. Mater. 6, 38 (2019); continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
-          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 1.80 \u00c5 followed by broadened second shell at r\u2082 = 2.82 \u00c5 (r\u2082/r\u2081 = 1.57), decaying to g(r) \u2192 1 at long range."
+          "source_detail": "First/second shells r\u2081 = 1.80 \u00c5, r\u2082 = 2.90 \u00c5 & partial pair lengths from Shi, Alderman, Berman, Weber, You & Benmore, Front. Mater. 6, 38 (2019) [DOI: 10.3389/fmats.2019.00038]; continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
+          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 1.80 \u00c5 followed by broadened second shell at r\u2082 = 2.90 \u00c5 (r\u2082/r\u2081 = 1.61), decaying to g(r) \u2192 1 at long range."
         },
         "bond_angle_distribution": {
           "mean_angle_deg": 106.0,
@@ -134511,7 +134529,7 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Angles (\u03b8\u2081, \u03b8\u2082) + Parameterized P(\u03b8) Curve",
-          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 106.0\u00b0, \u03b8\u2082 = 124.0\u00b0 from Shi, Alderman, Berman, Weber & Benmore, Front. Mater. 6, 38 (2019); continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
+          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 106.0\u00b0, \u03b8\u2082 = 124.0\u00b0 from Shi, Alderman, Berman, Weber, You & Benmore, Front. Mater. 6, 38 (2019) [DOI: 10.3389/fmats.2019.00038]; continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
           "physical_interpretation": "Primary bond-angle peak at \u03b8\u2081 = 106.0\u00b0 (FWHM \u2248 5.2\u00b0) paired with inter-unit / second-shell angle \u03b8\u2082 = 124.0\u00b0 provides the topological flexibility required for non-crystalline packing."
         },
         "ring_or_voronoi_distribution": {
@@ -134558,7 +134576,7 @@
           ],
           "source_type": "composition_weighted_reconstruction",
           "source_badge": "\u2696\ufe0f Archetype-Guided Composition-Weighted Topology",
-          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of Al2O3 (guided by Shi, Alderman, Berman, Weber & Benmore, Front. Mater. 6, 38 (2019)).",
+          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of Al2O3 (guided by Shi, Alderman, Berman, Weber, You & Benmore, Front. Mater. 6, 38 (2019) [DOI: 10.3389/fmats.2019.00038]).",
           "physical_interpretation": "Broad distribution of 6-ring & 5/7-ring network (x_mod=0.00) breaks 3D translational symmetry and frustrates crystallization in Al2O3."
         }
       },
@@ -135219,8 +135237,8 @@
           "is_direct_experimental_benchmark": true,
           "overall_type": "direct_experimental_benchmark",
           "overall_badge": "\ud83d\udd2c Experimental / RMC Benchmark Peaks + Parameterized Curve Profiles",
-          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Bassiri et al., APL Materials 3, 036103 (2015); continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
-          "benchmark_reference": "Bassiri et al., APL Materials 3, 036103 (2015)",
+          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Alderman, Benmore et al., JPCM 27, 455104 (2015); Bassiri et al., APL Materials 3, 036103 (2015) [DOI: 10.1063/1.4913586]; continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
+          "benchmark_reference": "Alderman, Benmore et al., JPCM 27, 455104 (2015); Bassiri et al., APL Materials 3, 036103 (2015) [DOI: 10.1063/1.4913586]",
           "experimental_pair_count": 2,
           "total_pair_count": 2
         },
@@ -135388,7 +135406,7 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Peaks (Q\u2081, Q\u2082) + Parameterized S(Q) Curve",
-          "source_detail": "Scalar peak positions Q\u2081 = 2.04 \u00c5\u207b\u00b9, Q\u2082 = 3.05 \u00c5\u207b\u00b9 anchored to published diffraction (Bassiri et al., APL Materials 3, 036103 (2015)); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
+          "source_detail": "Scalar peak positions Q\u2081 = 2.04 \u00c5\u207b\u00b9, Q\u2082 = 3.05 \u00c5\u207b\u00b9 anchored to published diffraction (Alderman, Benmore et al., JPCM 27, 455104 (2015); Bassiri et al., APL Materials 3, 036103 (2015) [DOI: 10.1063/1.4913586]); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
           "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 2.04 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 3.08 \u00c5, coherence length L \u2248 9.5 \u00c5) without crystalline Bragg peaks."
         },
         "rdf_gr": {
@@ -135568,7 +135586,7 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Shells (r\u2081, r\u2082; 2/2 pairs) + Parameterized g(r) Curve",
-          "source_detail": "First/second shells r\u2081 = 1.97 \u00c5, r\u2082 = 3.74 \u00c5 & partial pair lengths from Bassiri et al., APL Materials 3, 036103 (2015); continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
+          "source_detail": "First/second shells r\u2081 = 1.97 \u00c5, r\u2082 = 3.74 \u00c5 & partial pair lengths from Alderman, Benmore et al., JPCM 27, 455104 (2015); Bassiri et al., APL Materials 3, 036103 (2015) [DOI: 10.1063/1.4913586]; continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
           "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 1.97 \u00c5 followed by broadened second shell at r\u2082 = 3.74 \u00c5 (r\u2082/r\u2081 = 1.90), decaying to g(r) \u2192 1 at long range."
         },
         "bond_angle_distribution": {
@@ -135722,7 +135740,7 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Angles (\u03b8\u2081, \u03b8\u2082) + Parameterized P(\u03b8) Curve",
-          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 90.0\u00b0, \u03b8\u2082 = 136.0\u00b0 from Bassiri et al., APL Materials 3, 036103 (2015); continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
+          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 90.0\u00b0, \u03b8\u2082 = 136.0\u00b0 from Alderman, Benmore et al., JPCM 27, 455104 (2015); Bassiri et al., APL Materials 3, 036103 (2015) [DOI: 10.1063/1.4913586]; continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
           "physical_interpretation": "Primary bond-angle peak at \u03b8\u2081 = 90.0\u00b0 (FWHM \u2248 9.7\u00b0) paired with inter-unit / second-shell angle \u03b8\u2082 = 136.0\u00b0 provides the topological flexibility required for non-crystalline packing."
         },
         "ring_or_voronoi_distribution": {
@@ -135769,7 +135787,7 @@
           ],
           "source_type": "composition_weighted_reconstruction",
           "source_badge": "\u2696\ufe0f Archetype-Guided Composition-Weighted Topology",
-          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of Ta2O5 (guided by Bassiri et al., APL Materials 3, 036103 (2015)).",
+          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of Ta2O5 (guided by Alderman, Benmore et al., JPCM 27, 455104 (2015); Bassiri et al., APL Materials 3, 036103 (2015) [DOI: 10.1063/1.4913586]).",
           "physical_interpretation": "Broad distribution of 6-ring & 5/7-ring network (x_mod=0.00) breaks 3D translational symmetry and frustrates crystallization in Ta2O5."
         }
       },
@@ -139437,8 +139455,8 @@
           "is_direct_experimental_benchmark": true,
           "overall_type": "direct_experimental_benchmark",
           "overall_badge": "\ud83d\udd2c Experimental / RMC Benchmark Peaks + Parameterized Curve Profiles",
-          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988); continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
-          "benchmark_reference": "Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988)",
+          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988) [DOI: 10.1103/physrevb.37.2979]; continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
+          "benchmark_reference": "Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988) [DOI: 10.1103/physrevb.37.2979]",
           "experimental_pair_count": 3,
           "total_pair_count": 3
         },
@@ -139606,20 +139624,20 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Peaks (Q\u2081, Q\u2082) + Parameterized S(Q) Curve",
-          "source_detail": "Scalar peak positions Q\u2081 = 2.78 \u00c5\u207b\u00b9, Q\u2082 = 4.78 \u00c5\u207b\u00b9 anchored to published diffraction (Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988)); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
+          "source_detail": "Scalar peak positions Q\u2081 = 2.78 \u00c5\u207b\u00b9, Q\u2082 = 4.78 \u00c5\u207b\u00b9 anchored to published diffraction (Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988) [DOI: 10.1103/physrevb.37.2979]); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
           "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 2.78 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 2.26 \u00c5, coherence length L \u2248 5.4 \u00c5) without crystalline Bragg peaks."
         },
         "rdf_gr": {
-          "r1_A": 2.62,
-          "r1_bond_length_A": 2.62,
-          "r2_A": 4.35,
-          "r2_second_shell_A": 4.35,
-          "r2_r1_ratio": 1.66,
+          "r1_A": 2.65,
+          "r1_bond_length_A": 2.65,
+          "r2_A": 4.45,
+          "r2_second_shell_A": 4.45,
+          "r2_r1_ratio": 1.68,
           "first_shell_cn": 9.5,
           "partial_pairs": [
             {
               "pair": "Mo\u2013Ge",
-              "r_ij_A": 2.62,
+              "r_ij_A": 2.65,
               "sigma_r_A": 0.11,
               "cn_ij": 9.5,
               "coordination_number": "CN = 9.5",
@@ -139675,129 +139693,129 @@
             ],
             [
               1.99,
-              0.136
+              0.153
             ],
             [
               2.16,
-              0.106
+              0.134
             ],
             [
               2.32,
-              0.32
+              0.341
             ],
             [
               2.49,
-              1.248
+              1.067
             ],
             [
               2.65,
-              1.842
+              1.922
             ],
             [
               2.82,
-              0.73
+              0.886
             ],
             [
               2.98,
-              0.277
+              0.27
             ],
             [
               3.15,
-              0.281
+              0.251
             ],
             [
               3.31,
-              0.411
+              0.373
             ],
             [
               3.48,
-              0.544
+              0.501
             ],
             [
               3.64,
-              0.65
+              0.605
             ],
             [
               3.81,
-              0.762
+              0.703
             ],
             [
               3.97,
-              0.956
+              0.821
             ],
             [
               4.13,
-              1.361
+              1.084
             ],
             [
               4.3,
-              1.789
+              1.574
             ],
             [
               4.46,
-              1.675
+              1.819
             ],
             [
               4.63,
-              1.18
+              1.479
             ],
             [
               4.79,
-              0.867
+              1.033
             ],
             [
               4.96,
-              0.742
+              0.799
             ],
             [
               5.12,
-              0.687
+              0.718
             ],
             [
               5.29,
-              0.647
+              0.669
             ],
             [
               5.46,
-              0.625
+              0.636
             ],
             [
               5.62,
-              0.624
+              0.621
             ],
             [
               5.79,
-              0.654
+              0.628
             ],
             [
               5.95,
-              0.724
+              0.663
             ],
             [
               6.12,
-              0.842
+              0.744
             ],
             [
               6.28,
-              0.962
+              0.86
             ],
             [
               6.45,
-              1.032
+              0.984
             ],
             [
               6.61,
-              1.011
+              1.041
             ],
             [
               6.78,
-              0.931
+              1.009
             ]
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Shells (r\u2081, r\u2082; 3/3 pairs) + Parameterized g(r) Curve",
-          "source_detail": "First/second shells r\u2081 = 2.62 \u00c5, r\u2082 = 4.35 \u00c5 & partial pair lengths from Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988); continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
-          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 2.62 \u00c5 followed by broadened second shell at r\u2082 = 4.35 \u00c5 (r\u2082/r\u2081 = 1.66), decaying to g(r) \u2192 1 at long range."
+          "source_detail": "First/second shells r\u2081 = 2.65 \u00c5, r\u2082 = 4.45 \u00c5 & partial pair lengths from Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988) [DOI: 10.1103/physrevb.37.2979]; continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
+          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 2.65 \u00c5 followed by broadened second shell at r\u2082 = 4.45 \u00c5 (r\u2082/r\u2081 = 1.68), decaying to g(r) \u2192 1 at long range."
         },
         "bond_angle_distribution": {
           "mean_angle_deg": 60.0,
@@ -139950,7 +139968,7 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Angles (\u03b8\u2081, \u03b8\u2082) + Parameterized P(\u03b8) Curve",
-          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 60.0\u00b0, \u03b8\u2082 = 109.0\u00b0 from Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988); continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
+          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 60.0\u00b0, \u03b8\u2082 = 109.0\u00b0 from Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988) [DOI: 10.1103/physrevb.37.2979]; continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
           "physical_interpretation": "Primary bond-angle peak at \u03b8\u2081 = 60.0\u00b0 (FWHM \u2248 12.8\u00b0) paired with inter-unit / second-shell angle \u03b8\u2082 = 109.0\u00b0 provides the topological flexibility required for non-crystalline packing."
         },
         "ring_or_voronoi_distribution": {
@@ -139991,7 +140009,7 @@
           ],
           "source_type": "composition_weighted_reconstruction",
           "source_badge": "\u2696\ufe0f Archetype-Guided Composition-Weighted Topology",
-          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of MoGe (guided by Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988)).",
+          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of MoGe (guided by Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988) [DOI: 10.1103/physrevb.37.2979]).",
           "physical_interpretation": "Broad distribution of <0,3,6,0> Trigonal Prism & <0,2,8,0> Antiprism breaks 3D translational symmetry and frustrates crystallization in MoGe."
         }
       },
@@ -140646,8 +140664,8 @@
           "is_direct_experimental_benchmark": true,
           "overall_type": "direct_experimental_benchmark",
           "overall_badge": "\ud83d\udd2c Experimental / RMC Benchmark Peaks + Parameterized Curve Profiles",
-          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Sheng et al., Nature 439, 419 (2006); Zhang & Inoue, Mater. Trans. 50, 1340 (2009); continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
-          "benchmark_reference": "Sheng et al., Nature 439, 419 (2006); Zhang & Inoue, Mater. Trans. 50, 1340 (2009)",
+          "composition_weighting_note": "Scalar peak positions (Q\u2081, Q\u2082, r\u2081, r\u2082, \u03b8\u2081, \u03b8\u2082) anchored directly to Zhang et al., Mater. Trans. 50, 1340 (2009) [DOI: 10.2320/matertrans.mbw200833]; Sheng et al., Nature 439, 419 (2006); continuous S(Q), g(r), and P(\u03b8) curves are parameterized Gaussian/Lorentzian reconstructions.",
+          "benchmark_reference": "Zhang et al., Mater. Trans. 50, 1340 (2009) [DOI: 10.2320/matertrans.mbw200833]; Sheng et al., Nature 439, 419 (2006)",
           "experimental_pair_count": 4,
           "total_pair_count": 4
         },
@@ -140815,15 +140833,15 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Peaks (Q\u2081, Q\u2082) + Parameterized S(Q) Curve",
-          "source_detail": "Scalar peak positions Q\u2081 = 2.71 \u00c5\u207b\u00b9, Q\u2082 = 4.63 \u00c5\u207b\u00b9 anchored to published diffraction (Sheng et al., Nature 439, 419 (2006); Zhang & Inoue, Mater. Trans. 50, 1340 (2009)); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
+          "source_detail": "Scalar peak positions Q\u2081 = 2.71 \u00c5\u207b\u00b9, Q\u2082 = 4.63 \u00c5\u207b\u00b9 anchored to published diffraction (Zhang et al., Mater. Trans. 50, 1340 (2009) [DOI: 10.2320/matertrans.mbw200833]; Sheng et al., Nature 439, 419 (2006)); continuous S(Q) curve is a parameterized Gaussian/Lorentzian profile reconstruction.",
           "physical_interpretation": "First Sharp Diffraction Peak at Q\u2081 = 2.71 \u00c5\u207b\u00b9 corresponds to quasi-periodic medium-range order (d \u2248 2.32 \u00c5, coherence length L \u2248 5.6 \u00c5) without crystalline Bragg peaks."
         },
         "rdf_gr": {
-          "r1_A": 2.79,
-          "r1_bond_length_A": 2.79,
-          "r2_A": 4.7,
-          "r2_second_shell_A": 4.7,
-          "r2_r1_ratio": 1.68,
+          "r1_A": 2.86,
+          "r1_bond_length_A": 2.86,
+          "r2_A": 4.78,
+          "r2_second_shell_A": 4.78,
+          "r2_r1_ratio": 1.67,
           "first_shell_cn": 12.2,
           "partial_pairs": [
             {
@@ -140898,125 +140916,125 @@
             ],
             [
               2.16,
-              0.17
+              0.171
             ],
             [
               2.32,
-              0.241
+              0.252
             ],
             [
               2.49,
-              0.591
+              0.608
             ],
             [
               2.65,
-              1.217
+              1.234
             ],
             [
               2.82,
-              1.529
+              1.536
             ],
             [
               2.98,
-              1.055
+              1.045
             ],
             [
               3.15,
-              0.863
+              0.829
             ],
             [
               3.31,
-              0.647
+              0.599
             ],
             [
               3.48,
-              0.446
+              0.396
             ],
             [
               3.64,
-              0.49
+              0.445
             ],
             [
               3.81,
-              0.584
+              0.543
             ],
             [
               3.97,
-              0.667
+              0.628
             ],
             [
               4.13,
-              0.755
+              0.709
             ],
             [
               4.3,
-              0.928
+              0.827
             ],
             [
               4.46,
-              1.303
+              1.087
             ],
             [
               4.63,
-              1.762
+              1.575
             ],
             [
               4.79,
-              1.721
+              1.82
             ],
             [
               4.96,
-              1.236
+              1.479
             ],
             [
               5.12,
-              0.893
+              1.033
             ],
             [
               5.29,
-              0.751
+              0.8
             ],
             [
               5.46,
-              0.69
+              0.715
             ],
             [
               5.62,
-              0.651
+              0.669
             ],
             [
               5.79,
-              0.626
+              0.635
             ],
             [
               5.95,
-              0.619
+              0.62
             ],
             [
               6.12,
-              0.631
+              0.622
             ],
             [
               6.28,
-              0.668
+              0.643
             ],
             [
               6.45,
-              0.743
+              0.695
             ],
             [
               6.61,
-              0.853
+              0.78
             ],
             [
               6.78,
-              0.981
+              0.905
             ]
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Shells (r\u2081, r\u2082; 4/4 pairs) + Parameterized g(r) Curve",
-          "source_detail": "First/second shells r\u2081 = 2.79 \u00c5, r\u2082 = 4.70 \u00c5 & partial pair lengths from Sheng et al., Nature 439, 419 (2006); Zhang & Inoue, Mater. Trans. 50, 1340 (2009); continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
-          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 2.79 \u00c5 followed by broadened second shell at r\u2082 = 4.70 \u00c5 (r\u2082/r\u2081 = 1.68), decaying to g(r) \u2192 1 at long range."
+          "source_detail": "First/second shells r\u2081 = 2.86 \u00c5, r\u2082 = 4.78 \u00c5 & partial pair lengths from Zhang et al., Mater. Trans. 50, 1340 (2009) [DOI: 10.2320/matertrans.mbw200833]; Sheng et al., Nature 439, 419 (2006); continuous total g(r) profile is a parameterized Gaussian shell reconstruction weighted by stoichiometric c_\u03b1 c_\u03b2.",
+          "physical_interpretation": "Composition-weighted first coordination shell at r\u2081 = 2.86 \u00c5 followed by broadened second shell at r\u2082 = 4.78 \u00c5 (r\u2082/r\u2081 = 1.67), decaying to g(r) \u2192 1 at long range."
         },
         "bond_angle_distribution": {
           "mean_angle_deg": 59.5,
@@ -141169,7 +141187,7 @@
           ],
           "source_type": "experimental_benchmark",
           "source_badge": "\ud83d\udd2c Benchmark Angles (\u03b8\u2081, \u03b8\u2082) + Parameterized P(\u03b8) Curve",
-          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 59.5\u00b0, \u03b8\u2082 = 108.5\u00b0 from Sheng et al., Nature 439, 419 (2006); Zhang & Inoue, Mater. Trans. 50, 1340 (2009); continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
+          "source_detail": "Mean intra/inter-unit angles \u03b8\u2081 = 59.5\u00b0, \u03b8\u2082 = 108.5\u00b0 from Zhang et al., Mater. Trans. 50, 1340 (2009) [DOI: 10.2320/matertrans.mbw200833]; Sheng et al., Nature 439, 419 (2006); continuous P(\u03b8) curve is a parameterized bimodal Gaussian profile.",
           "physical_interpretation": "Primary bond-angle peak at \u03b8\u2081 = 59.5\u00b0 (FWHM \u2248 11.0\u00b0) paired with inter-unit / second-shell angle \u03b8\u2082 = 108.5\u00b0 provides the topological flexibility required for non-crystalline packing."
         },
         "ring_or_voronoi_distribution": {
@@ -141210,7 +141228,7 @@
           ],
           "source_type": "composition_weighted_reconstruction",
           "source_badge": "\u2696\ufe0f Archetype-Guided Composition-Weighted Topology",
-          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of Zr50Cu40Al10 (guided by Sheng et al., Nature 439, 419 (2006); Zhang & Inoue, Mater. Trans. 50, 1340 (2009)).",
+          "source_detail": "Ring / Voronoi polyhedron fractions computed from stoichiometric atomic fractions c_i of Zr50Cu40Al10 (guided by Zhang et al., Mater. Trans. 50, 1340 (2009) [DOI: 10.2320/matertrans.mbw200833]; Sheng et al., Nature 439, 419 (2006)).",
           "physical_interpretation": "Broad distribution of <0,0,12,0> & <0,2,8,2> Icosahedral Clusters breaks 3D translational symmetry and frustrates crystallization in Zr50Cu40Al10."
         }
       },

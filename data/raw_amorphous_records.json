@@ -13,7 +13,7 @@
     "api_retrieval_status": {
       "note": "Live API queries skipped in unit test mode",
       "verified_doi_registry_path": "data/verified_doi_registry.json",
-      "registry_verified_records": 246,
+      "registry_verified_records": 238,
       "total_catalog_records": 246
     }
   },
@@ -93,15 +93,15 @@
         "O"
       ],
       "material_class": "Oxide",
-      "amorphous_verification_technique": "Diffuse XRD halo; Raman spectroscopy; DSC Tg=433 K",
-      "doi": "10.1103/physrevb.19.4292",
-      "source_reference": "Galeener, Phys. Rev. B 19, 4292 (1979) \u2014 \"Band limits and the vibrational spectra of tetrahedral glasses\"",
+      "amorphous_verification_technique": "Diffuse XRD halo; neutron diffraction; Raman spectroscopy; DSC Tg=433 K",
+      "doi": "10.1016/0022-3093(89)90274-3",
+      "source_reference": "Clare, Wright, Sinclair, Galeener & Geissberger, Journal of Non-Crystalline Solids 111, 123 (1989) \u2014 \"A neutron diffraction investigation of the structure of vitreous As2O3\"",
       "reported_coordination": {
         "As": "Pyramidal AsO3 units (CN=3)",
         "O": "Bridging oxygen (CN=2)"
       },
       "crystalline_conversion_note": "Single-component arsenite glass former with corner-sharing pyramidal units.",
-      "doi_registry_verified": true
+      "doi_registry_verified": false
     },
     {
       "chemical_formula": "Na2Si2O5",
@@ -448,8 +448,8 @@
       ],
       "material_class": "Oxide",
       "amorphous_verification_technique": "Diffuse XRD halo; 27Al/29Si MAS NMR; DSC Tg=1145 K",
-      "doi": "10.1007/s10717-019-00130-5",
-      "source_reference": "Alekseev, Savinkov & Sigaev, Glass Ceram 76, 45 (2019) \u2014 \"Investigation of Glass Formation and the Properties of Lanthanum-Aluminum-Borosilicate Glasses with High Lanthanum Oxide Content\"",
+      "doi": "10.1016/j.jnoncrysol.2010.01.017",
+      "source_reference": "Iftekhar, Grins & Ed\u00e9n, Journal of Non-Crystalline Solids 356, 1043 (2010) \u2014 \"Composition\u2013property relationships of the La2O3\u2013Al2O3\u2013SiO2 glass system\"",
       "reported_coordination": {
         "Si": "SiO4 tetrahedra (CN=4)",
         "Al": "AlO4 tetrahedra (CN=4)",
@@ -457,7 +457,7 @@
         "O": "Bridging O"
       },
       "crystalline_conversion_note": "Lanthanum aluminosilicate glass with high elastic modulus and tetrahedral SiO4/AlO4 framework.",
-      "doi_registry_verified": true
+      "doi_registry_verified": false
     },
     {
       "chemical_formula": "NdAl3Si3O12",
@@ -570,16 +570,16 @@
         "O"
       ],
       "material_class": "Oxide",
-      "amorphous_verification_technique": "Diffuse XRD halo; 11B NMR; DSC Tg=868 K",
-      "doi": "10.1103/slv2-dtwz",
-      "source_reference": "Alderman, Phys. Rev. Materials 9, 105603 (2025) \u2014 \"Tracking boron coordination change with temperature in a barium borosilicate glass melt by neutron diffraction\"",
+      "amorphous_verification_technique": "Diffuse XRD halo; 11B NMR; high-energy X-ray diffraction; DSC Tg=868 K",
+      "doi": "10.1063/5.0153282",
+      "source_reference": "Alderman, Benmore, Holland & Weber, The Journal of Chemical Physics 158, 224501 (2023) \u2014 \"Boron coordination change in barium borate melts and glasses and its contribution to configurational heat capacity, entropy, and fragility\"",
       "reported_coordination": {
         "B": "BO4 tetrahedra and BO3 triangles (CN=3.4)",
         "Ba": "Modifier (CN=8)",
         "O": "Bridging O"
       },
       "crystalline_conversion_note": "Barium borate glass with tetrahedral BO4 cross-links.",
-      "doi_registry_verified": true
+      "doi_registry_verified": false
     },
     {
       "chemical_formula": "Bi2B4O9",
@@ -741,16 +741,16 @@
         "O"
       ],
       "material_class": "Oxide",
-      "amorphous_verification_technique": "Diffuse XRD halo; Ga K-edge EXAFS & 71Ga NMR; DSC Tg=1025 K",
-      "doi": "10.1016/0022-3093(89)90182-8",
-      "source_reference": "Fukumi & Sakka, Journal of Non-Crystalline Solids 110, 61 (1989) \u2014 \"Structure of alkali or alkaline earth niobium gallate glasses\"",
+      "amorphous_verification_technique": "Diffuse XRD halo; Raman spectroscopy; Ga K-edge EXAFS & 71Ga NMR; DSC Tg=1025 K",
+      "doi": "10.1016/s0022-3093(87)80110-2",
+      "source_reference": "Fukumi & Sakka, Journal of Non-Crystalline Solids 95-96, 193 (1987) \u2014 \"Structure of alkali or alkaline earth metal gallate glasses\"",
       "reported_coordination": {
         "Ga": "GaO4 tetrahedra (CN=4)",
         "Ca": "Charge-balancing cation (CN=6)",
         "O": "Bridging O"
       },
       "crystalline_conversion_note": "Silica-free calcium gallate glass; Ga3+ forms corner-sharing GaO4 tetrahedra stabilized by Ca2+.",
-      "doi_registry_verified": true
+      "doi_registry_verified": false
     },
     {
       "chemical_formula": "Te4V2O13",
@@ -900,9 +900,9 @@
         "O"
       ],
       "material_class": "Oxide",
-      "amorphous_verification_technique": "Diffuse XRD halo; 11B NMR; DSC Tg=960 K",
-      "doi": "10.1007/bf00551969",
-      "source_reference": "White, Res & Bednarik, J Mater Sci 18, 1021 (1983) \u2014 \"A lanthanum-tantalum (Al) oxide porous glass ceramic\"",
+      "amorphous_verification_technique": "Diffuse XRD halo; Ta L3-edge XAFS & 11B NMR; DSC Tg=960 K",
+      "doi": "10.1016/j.jallcom.2025.178622",
+      "source_reference": "Alekseev et al., Journal of Alloys and Compounds 1014, 178622 (2025) \u2014 \"Tantalum and niobium \u2013 same row, different connectivity. A XAFS study of La2O3-Nb2O5-B2O3 and La2O3-Ta2O5-B2O3 glasses\"",
       "reported_coordination": {
         "B": "BO4 tetrahedra and BO3 triangles (CN=3.5)",
         "Ta": "TaO6 intermediate (CN=6)",
@@ -910,7 +910,7 @@
         "O": "Bridging O"
       },
       "crystalline_conversion_note": "High-refractive-index lanthanum tantaloborate optical glass.",
-      "doi_registry_verified": true
+      "doi_registry_verified": false
     },
     {
       "chemical_formula": "MnSiO3",
@@ -920,16 +920,16 @@
         "O"
       ],
       "material_class": "Oxide",
-      "amorphous_verification_technique": "Diffuse XRD halo; neutron diffraction; DSC Tg=985 K",
-      "doi": "10.1088/0022-3719/13/19/012",
-      "source_reference": "Ferre et al., J. Phys. C: Solid State Phys. 13, 3697 (1980) \u2014 \"Magnetic properties of an amorphous insulating spin glass: manganese aluminosilicate\"",
+      "amorphous_verification_technique": "Diffuse XRD halo; HRTEM/SAED; XPS; DSC Tg=985 K",
+      "doi": "10.1016/j.jallcom.2019.07.012",
+      "source_reference": "Wang et al., Journal of Alloys and Compounds 804, 243 (2019) \u2014 \"Amorphous MnSiO3 confined in graphene sheets for superior lithium-ion batteries\"",
       "reported_coordination": {
         "Si": "SiO4 tetrahedra (CN=4)",
         "Mn": "Modifier/intermediate (CN=5-6)",
         "O": "Bridging/non-bridging O"
       },
       "crystalline_conversion_note": "Rhodonite-composition manganese silicate glass.",
-      "doi_registry_verified": true
+      "doi_registry_verified": false
     },
     {
       "chemical_formula": "CoSiO3",
@@ -959,15 +959,15 @@
       ],
       "material_class": "Oxide",
       "amorphous_verification_technique": "Diffuse XRD halo; 113Cd & 31P MAS NMR; DSC Tg=680 K",
-      "doi": "10.3363/prb1992.10.0_509",
-      "source_reference": "DONZE et al., Phosphorus Research Bulletin 10, 509 (1999) \u2014 \"XPS AND NMR ANALYSES OF LEAD CADMIUM PHOSPHATE GLASSES\"",
+      "doi": "10.1016/s0022-3093(01)01049-3",
+      "source_reference": "Hussin, Holland & Dupree, Journal of Non-Crystalline Solids 298, 32 (2002) \u2014 \"A MAS NMR structural study of cadmium phosphate glasses\"",
       "reported_coordination": {
         "P": "PO4 tetrahedra (CN=4)",
         "Cd": "Modifier (CN=6)",
         "O": "Bridging/non-bridging O"
       },
       "crystalline_conversion_note": "Cadmium metaphosphate glass with PO4 tetrahedral chains.",
-      "doi_registry_verified": true
+      "doi_registry_verified": false
     },
     {
       "chemical_formula": "GeS2",
@@ -3460,16 +3460,16 @@
         "P"
       ],
       "material_class": "Oxide",
-      "amorphous_verification_technique": "Diffuse XRD halo; 27Al/31P MAS NMR; DSC Tg=1025 K",
-      "doi": "10.2478/v10168-012-0043-2",
-      "source_reference": "Saddeek & Abo-Naf, Archives of Acoustics 37 (2012) \u2014 \"Influence of MoO3 on the Structure of Lithium Aluminum Phosphate Glasses\"",
+      "amorphous_verification_technique": "Diffuse XRD halo; DTA/DSC; 27Al/31P MAS NMR; DSC Tg=1025 K",
+      "doi": "10.1007/bf01197650",
+      "source_reference": "Langlet, Saltzberg & Shannon, Journal of Materials Science 27, 972 (1992) \u2014 \"Aluminium metaphosphate glass-ceramics\"",
       "reported_coordination": {
         "P": "PO4 tetrahedra (CN=4)",
         "Al": "AlO4 tetrahedra and AlO6 octahedra (CN=4,6)",
         "O": "Al-O-P bridging O"
       },
       "crystalline_conversion_note": "Aluminum metaphosphate glass; equimolar AlPO4 is structural isomorph of SiO2 with alternating AlO4 and PO4 tetrahedra.",
-      "doi_registry_verified": true
+      "doi_registry_verified": false
     },
     {
       "chemical_formula": "BaO-P2O5",

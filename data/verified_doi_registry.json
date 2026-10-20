@@ -157,44 +157,6 @@
         "P2O5"
       ]
     },
-    "10.1103/physrevb.19.4292": {
-      "doi": "10.1103/physrevb.19.4292",
-      "title": "Band limits and the vibrational spectra of tetrahedral glasses",
-      "journal": "Phys. Rev. B",
-      "journal_full": "Physical Review B",
-      "first_author": "Galeener",
-      "first_author_norm": "galeener",
-      "authors": [
-        "Galeener"
-      ],
-      "year": 1979,
-      "volume": "19",
-      "page": "4292",
-      "tdm_links": [
-        {
-          "url": "http://link.aps.org/article/10.1103/PhysRevB.19.4292",
-          "content_type": "unspecified"
-        },
-        {
-          "url": "http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevB.19.4292/fulltext",
-          "content_type": "unspecified"
-        }
-      ],
-      "crossref_abstract": "",
-      "http_status": 200,
-      "verified": true,
-      "canonical_citation": "Galeener, Phys. Rev. B 19, 4292 (1979) — \"Band limits and the vibrational spectra of tetrahedral glasses\"",
-      "openalex": {
-        "openalex_id": "https://openalex.org/W2013053623",
-        "is_oa": false,
-        "oa_url": "",
-        "cited_by_count": 755,
-        "abstract": "The primary features of the Raman and infrared spectra of $A{X}_{2}$ tetrahedral glasses are associated with the edges of the vibrational bands calculated by Sen and Thorpe. The dominant Raman peak is assigned to a singular matrix element rather than a peak in the density of vibrational states. Simple expressions are developed which yield useful values of the vibrational force constants and intertetrahedral angles for vitreous Si${\\mathrm{O}}_{2}$, Ge${\\mathrm{O}}_{2}$, and Be${\\mathrm{F}}_{2}$."
-      },
-      "formulas": [
-        "As2O3"
-      ]
-    },
     "10.1111/jace.17993": {
       "doi": "10.1111/jace.17993",
       "title": "The structure of sodium silicate glass from neutron diffraction and modeling of oxygen‐oxygen correlations",
@@ -820,50 +782,6 @@
         "Y3Al5O12"
       ]
     },
-    "10.1007/s10717-019-00130-5": {
-      "doi": "10.1007/s10717-019-00130-5",
-      "title": "Investigation of Glass Formation and the Properties of Lanthanum-Aluminum-Borosilicate Glasses with High Lanthanum Oxide Content",
-      "journal": "Glass Ceram",
-      "journal_full": "Glass and Ceramics",
-      "first_author": "Alekseev",
-      "first_author_norm": "alekseev",
-      "authors": [
-        "Alekseev",
-        "Savinkov",
-        "Sigaev"
-      ],
-      "year": 2019,
-      "volume": "76",
-      "page": "45",
-      "tdm_links": [
-        {
-          "url": "http://link.springer.com/content/pdf/10.1007/s10717-019-00130-5.pdf",
-          "content_type": "application/pdf"
-        },
-        {
-          "url": "http://link.springer.com/article/10.1007/s10717-019-00130-5/fulltext.html",
-          "content_type": "text/html"
-        },
-        {
-          "url": "http://link.springer.com/content/pdf/10.1007/s10717-019-00130-5.pdf",
-          "content_type": "application/pdf"
-        }
-      ],
-      "crossref_abstract": "",
-      "http_status": 200,
-      "verified": true,
-      "canonical_citation": "Alekseev, Savinkov & Sigaev, Glass Ceram 76, 45 (2019) — \"Investigation of Glass Formation and the Properties of Lanthanum-Aluminum-Borosilicate Glasses with High Lanthanum Oxide Content\"",
-      "openalex": {
-        "openalex_id": "https://openalex.org/W2947707108",
-        "is_oa": false,
-        "oa_url": "",
-        "cited_by_count": 6,
-        "abstract": ""
-      },
-      "formulas": [
-        "LaAl3Si3O12"
-      ]
-    },
     "10.1111/j.1151-2916.1990.tb05087.x": {
       "doi": "10.1111/j.1151-2916.1990.tb05087.x",
       "title": "Rare‐Earth Aluminosilicate Glasses",
@@ -986,44 +904,6 @@
       },
       "formulas": [
         "NaB3Si3O10"
-      ]
-    },
-    "10.1103/slv2-dtwz": {
-      "doi": "10.1103/slv2-dtwz",
-      "title": "Tracking boron coordination change with temperature in a barium borosilicate glass melt by neutron diffraction",
-      "journal": "Phys. Rev. Materials",
-      "journal_full": "Physical Review Materials",
-      "first_author": "Alderman",
-      "first_author_norm": "alderman",
-      "authors": [
-        "Alderman"
-      ],
-      "year": 2025,
-      "volume": "9",
-      "page": "105603",
-      "tdm_links": [
-        {
-          "url": "https://link.aps.org/article/10.1103/slv2-dtwz",
-          "content_type": "unspecified"
-        },
-        {
-          "url": "http://harvest.aps.org/v2/journals/articles/10.1103/slv2-dtwz/fulltext",
-          "content_type": "unspecified"
-        }
-      ],
-      "crossref_abstract": "Pulsed neutron diffraction measurements on a barium borosilicate glass and its supercooled liquid reveal clear, quantitative evidence for a tetrahedral to trigonal boron transition above the glass transition temperature, T g . In particular the tetrahedral boron fraction, N 4 ( T ), is about 50(1)% in a 28 BaO · 48 B 2 O 3 · 24 Si O 2 (BBS352) glass, independent of temperature, but falls continuously above T g = 901 K to 36(1)% at 1200 K. The data are interpreted in terms of simplified chemical equilibria, from which it is inferred that the boron coordination change contributes between 30% to 40% of the total calorimetric configurational heat capacity at T g , as well as to the entropy and liquid fragility. The thermal expansion coefficient of the B–O bond in BBS352 glass is measured to be α BO = 6.5 (1.7) ppm K − 1 , slightly larger than for pure B 2 O 3 glass and very similar to the known bulk expansion, implying a remarkably simple vibrational thermal expansion mechanism for the solid. Resolution of B–O and Si–O correlations in the real-space pair distribution function is demonstrated for 50 BaO · 25 B 2 O 3 · 25 Si O 2 (BBS211) glass, and the factors governing if these features can be resolved are discussed.",
-      "http_status": 200,
-      "verified": true,
-      "canonical_citation": "Alderman, Phys. Rev. Materials 9, 105603 (2025) — \"Tracking boron coordination change with temperature in a barium borosilicate glass melt by neutron diffraction\"",
-      "openalex": {
-        "openalex_id": "https://openalex.org/W4415156671",
-        "is_oa": true,
-        "oa_url": "https://doi.org/10.1103/slv2-dtwz",
-        "cited_by_count": 2,
-        "abstract": "Pulsed neutron diffraction measurements on a barium borosilicate glass and its supercooled liquid reveal clear, quantitative evidence for a tetrahedral to trigonal boron transition above the glass transition temperature, T g . In particular the tetrahedral boron fraction, N 4 ( T ), is about 50(1)% in a 28 BaO · 48 B 2 O 3 · 24 Si O 2 (BBS352) glass, independent of temperature, but falls continuously above T g = 901 K to 36(1)% at 1200 K. The data are interpreted in terms of simplified chemical equilibria, from which it is inferred that the boron coordination change contributes between 30% to "
-      },
-      "formulas": [
-        "BaB4O7"
       ]
     },
     "10.1016/b978-0-323-39309-6.00009-2": {
@@ -1343,45 +1223,6 @@
         "Na2O-2GeO2"
       ]
     },
-    "10.1016/0022-3093(89)90182-8": {
-      "doi": "10.1016/0022-3093(89)90182-8",
-      "title": "Structure of alkali or alkaline earth niobium gallate glasses",
-      "journal": "Journal of Non-Crystalline Solids",
-      "journal_full": "Journal of Non-Crystalline Solids",
-      "first_author": "Fukumi",
-      "first_author_norm": "fukumi",
-      "authors": [
-        "Fukumi",
-        "Sakka"
-      ],
-      "year": 1989,
-      "volume": "110",
-      "page": "61",
-      "tdm_links": [
-        {
-          "url": "https://api.elsevier.com/content/article/PII:0022309389901828?httpAccept=text/xml",
-          "content_type": "text/xml"
-        },
-        {
-          "url": "https://api.elsevier.com/content/article/PII:0022309389901828?httpAccept=text/plain",
-          "content_type": "text/plain"
-        }
-      ],
-      "crossref_abstract": "",
-      "http_status": 200,
-      "verified": true,
-      "canonical_citation": "Fukumi & Sakka, Journal of Non-Crystalline Solids 110, 61 (1989) — \"Structure of alkali or alkaline earth niobium gallate glasses\"",
-      "openalex": {
-        "openalex_id": "https://openalex.org/W2015894988",
-        "is_oa": false,
-        "oa_url": "",
-        "cited_by_count": 14,
-        "abstract": ""
-      },
-      "formulas": [
-        "CaGa2O4"
-      ]
-    },
     "10.1016/j.molstruc.2008.02.009": {
       "doi": "10.1016/j.molstruc.2008.02.009",
       "title": "AC conductivity and dielectric studies in V2O5–TeO2 and V2O5–CoO–TeO2 glasses",
@@ -1644,87 +1485,6 @@
         "CaNb2Si2O9"
       ]
     },
-    "10.1007/bf00551969": {
-      "doi": "10.1007/bf00551969",
-      "title": "A lanthanum-tantalum (Al) oxide porous glass ceramic",
-      "journal": "J Mater Sci",
-      "journal_full": "Journal of Materials Science",
-      "first_author": "White",
-      "first_author_norm": "white",
-      "authors": [
-        "White",
-        "Res",
-        "Bednarik"
-      ],
-      "year": 1983,
-      "volume": "18",
-      "page": "1021",
-      "tdm_links": [
-        {
-          "url": "http://link.springer.com/content/pdf/10.1007/BF00551969.pdf",
-          "content_type": "application/pdf"
-        },
-        {
-          "url": "http://link.springer.com/article/10.1007/BF00551969/fulltext.html",
-          "content_type": "text/html"
-        },
-        {
-          "url": "http://link.springer.com/content/pdf/10.1007/BF00551969",
-          "content_type": "unspecified"
-        }
-      ],
-      "crossref_abstract": "",
-      "http_status": 200,
-      "verified": true,
-      "canonical_citation": "White, Res & Bednarik, J Mater Sci 18, 1021 (1983) — \"A lanthanum-tantalum (Al) oxide porous glass ceramic\"",
-      "openalex": {
-        "openalex_id": "https://openalex.org/W2050034165",
-        "is_oa": false,
-        "oa_url": "",
-        "cited_by_count": 11,
-        "abstract": ""
-      },
-      "formulas": [
-        "LaTaB4O10"
-      ]
-    },
-    "10.1088/0022-3719/13/19/012": {
-      "doi": "10.1088/0022-3719/13/19/012",
-      "title": "Magnetic properties of an amorphous insulating spin glass: manganese aluminosilicate",
-      "journal": "J. Phys. C: Solid State Phys.",
-      "journal_full": "Journal of Physics C: Solid State Physics",
-      "first_author": "Ferre",
-      "first_author_norm": "ferre",
-      "authors": [
-        "Ferre",
-        "Pommier",
-        "Renard",
-        "Knorr"
-      ],
-      "year": 1980,
-      "volume": "13",
-      "page": "3697",
-      "tdm_links": [
-        {
-          "url": "http://stacks.iop.org/0022-3719/13/i=19/a=012/pdf",
-          "content_type": "unspecified"
-        }
-      ],
-      "crossref_abstract": "",
-      "http_status": 200,
-      "verified": true,
-      "canonical_citation": "Ferre et al., J. Phys. C: Solid State Phys. 13, 3697 (1980) — \"Magnetic properties of an amorphous insulating spin glass: manganese aluminosilicate\"",
-      "openalex": {
-        "openalex_id": "https://openalex.org/W2015527949",
-        "is_oa": true,
-        "oa_url": "https://iopscience.iop.org/article/10.1088/0022-3719/13/19/012/pdf",
-        "cited_by_count": 38,
-        "abstract": "The authors report on susceptibility and magnetisation measurements of amorphous manganese aluminosilicate and demonstrate that they can be considered as insulating spin glasses with large antiferromagnetic interactions. In particular, the cusp of chi (T) at T f is easily rounded under weak static magnetic fields. The in-field magnetisation curves for H<5 kOe and the field and time dependence of the remanent magnetisation have a similar behaviour to classical metallic spin glass alloys. The spin freezing temperature T f depends weakly on the frequency used in susceptibility measurements and th"
-      },
-      "formulas": [
-        "MnSiO3"
-      ]
-    },
     "10.1016/s0022-3093(01)00660-0": {
       "doi": "10.1016/s0022-3093(01)00660-0",
       "title": "Environment of Ni, Co and Zn in low alkali borate and silicate glasses",
@@ -1746,39 +1506,6 @@
       "openalex": {},
       "formulas": [
         "CoSiO3"
-      ]
-    },
-    "10.3363/prb1992.10.0_509": {
-      "doi": "10.3363/prb1992.10.0_509",
-      "title": "XPS AND NMR ANALYSES OF LEAD CADMIUM PHOSPHATE GLASSES",
-      "journal": "Phosphorus Research Bulletin",
-      "journal_full": "Phosphorus Research Bulletin",
-      "first_author": "DONZE",
-      "first_author_norm": "donze",
-      "authors": [
-        "DONZE",
-        "MONTAGNE",
-        "GRIMBLOT",
-        "GENGEMBRE",
-        "PALAVIT"
-      ],
-      "year": 1999,
-      "volume": "10",
-      "page": "509",
-      "tdm_links": [],
-      "crossref_abstract": "",
-      "http_status": 200,
-      "verified": true,
-      "canonical_citation": "DONZE et al., Phosphorus Research Bulletin 10, 509 (1999) — \"XPS AND NMR ANALYSES OF LEAD CADMIUM PHOSPHATE GLASSES\"",
-      "openalex": {
-        "openalex_id": "https://openalex.org/W1981812786",
-        "is_oa": true,
-        "oa_url": "https://www.jstage.jst.go.jp/article/prb1992/10/0/10_509/_pdf",
-        "cited_by_count": 3,
-        "abstract": "Two lead-cadmium phosphate glasses were prepared by reaction of PbCl2 and CdCl2 with NH4H2PO4. 31P MAS-NMR shows that the glass network reticulation depends on the batch composition. The XPS O1s photopeak is decomposed into components associated with brindging and non-bridging oxygens. Moreover, a third component is attributed to O involved in Pb-O-P bonds which contribute to the network reticulation. The decomposition of the O1s core level is in agreement with the analytical glass compositions. No P-Cl bonds are detected in the C12p photopeak. P2p, Pb 4f7/2 and Cd 3d5/2 binding energy do not "
-      },
-      "formulas": [
-        "CdP2O6"
       ]
     },
     "10.1016/s0022-3093(01)00667-6": {
@@ -6581,41 +6308,6 @@
         "2Fe2O3-3P2O5"
       ]
     },
-    "10.2478/v10168-012-0043-2": {
-      "doi": "10.2478/v10168-012-0043-2",
-      "title": "Influence of MoO3 on the Structure of Lithium Aluminum Phosphate Glasses",
-      "journal": "Archives of Acoustics",
-      "journal_full": "Archives of Acoustics",
-      "first_author": "Saddeek",
-      "first_author_norm": "saddeek",
-      "authors": [
-        "Saddeek",
-        "Abo-Naf"
-      ],
-      "year": 2012,
-      "volume": "37",
-      "page": "",
-      "tdm_links": [
-        {
-          "url": "https://www.degruyter.com/view/j/aoa.2012.37.issue-3/v10168-012-0043-2/v10168-012-0043-2.pdf",
-          "content_type": "unspecified"
-        }
-      ],
-      "crossref_abstract": "",
-      "http_status": 200,
-      "verified": true,
-      "canonical_citation": "Saddeek & Abo-Naf, Archives of Acoustics 37 (2012) — \"Influence of MoO3 on the Structure of Lithium Aluminum Phosphate Glasses\"",
-      "openalex": {
-        "openalex_id": "https://openalex.org/W2116054101",
-        "is_oa": true,
-        "oa_url": "http://journals.pan.pl/Content/101607/PDF/11_paper.pdf",
-        "cited_by_count": 14,
-        "abstract": "IR spectroscopy, density and ultrasonic velocity measurements have been carried out for aluminum lithium phosphate glasses with and without MoO3.The observed changes in the FTIR spectra of the glasses were related to the modifier/former role of molybdenum ions.The results revealed that the density increases with increasing MoO3 content, which was attributed to the increase in the compactness and packing of the glass network.The ultrasonic data were analyzed in terms of creation of new bonds of MoO3 attached to phosphate units.The new bonds increased the average crosslink density and the number"
-      },
-      "formulas": [
-        "Al2O3-3P2O5"
-      ]
-    },
     "10.1016/j.ssi.2019.115186": {
       "doi": "10.1016/j.ssi.2019.115186",
       "title": "Proton-conducting BaO-P2O5 and BaO-La2O3-Al2O3-P2O5 glass thin films",
@@ -9080,6 +8772,151 @@
       "formulas": [
         "Ge15Te85"
       ]
+    },
+    "10.1016/0022-3093(89)90274-3": {
+      "doi": "10.1016/0022-3093(89)90274-3",
+      "verified_via_crossref_api": true,
+      "http_status": 200,
+      "title": "A neutron diffraction investigation of the structure of vitreous As2O3",
+      "authors": [
+        "Alexis G. Clare",
+        "Adrian C. Wright",
+        "Roger N. Sinclair",
+        "Frank L. Galeener",
+        "Arthur E. Geissberger"
+      ],
+      "journal": "Journal of Non-Crystalline Solids",
+      "year": 1989,
+      "openalex_id": "https://openalex.org/W2018753673",
+      "citation_count": 49,
+      "abstract": ""
+    },
+    "10.1016/j.jnoncrysol.2010.01.017": {
+      "doi": "10.1016/j.jnoncrysol.2010.01.017",
+      "verified_via_crossref_api": true,
+      "http_status": 200,
+      "title": "Composition–property relationships of the La2O3–Al2O3–SiO2 glass system",
+      "authors": [
+        "Shahriar Iftekhar",
+        "Jekabs Grins",
+        "Mattias Edén"
+      ],
+      "journal": "Journal of Non-Crystalline Solids",
+      "year": 2010,
+      "openalex_id": "https://openalex.org/W2012399698",
+      "citation_count": 86,
+      "abstract": ""
+    },
+    "10.1063/5.0153282": {
+      "doi": "10.1063/5.0153282",
+      "verified_via_crossref_api": true,
+      "http_status": 200,
+      "title": "Boron coordination change in barium borate melts and glasses and its contribution to configurational heat capacity, entropy, and fragility",
+      "authors": [
+        "O. L. G. Alderman",
+        "C. J. Benmore",
+        "D. Holland",
+        "J. K. R. Weber"
+      ],
+      "journal": "The Journal of Chemical Physics",
+      "year": 2023,
+      "openalex_id": "https://openalex.org/W4379931356",
+      "citation_count": 13,
+      "abstract": "High-energy x-ray diffraction from molten and glassy BaB2O4 and BaB4O7 has been performed using aerodynamic levitation and laser heating over a wide range of temperatures. Remarkably, even in the presence of a heavy metal modifier dominating x-ray scattering, it was possible to extract accurate values for the tetrahedral, sp3, boron fraction, N4, which declines with increasing temperature, using bond valence-based mapping from the measured mean B-O bond lengths while accounting for vibrational thermal expansion. These are used within a boron-coordination-change model to extract enthalpies, ΔH, and entropies, ΔS, of isomerization between sp2 and sp3 boron. The results for BaB4O7, ΔH = 22(3) kJ mol-1 boron, ΔS = 19(2) J mol-1 boron K-1, agree quantitatively with those found previously for Na2B4O7. Analytical expressions for N4(J, T) and associated configurational heat capacity, CPconf(J, T), and entropy, Sconf(J, T), contributions are extended to cover a wide composition range 0 ≤ J = BaO/B2O3 ≤ 3 using a model for ΔH(J) and ΔS(J) derived empirically for lithium borates. Maxima in the CPconf(J, Tg) and fragility index contributions are thereby predicted for J ≲ 1, higher than the maximum observed and predicted in N4(J, Tg) at J ≃ 0.6. We discuss the utility of the boron-coordination-change isomerization model in the context of borate liquids containing other modifiers and the prospect of neutron diffraction to aid in empirical determinations of modifier-dependent effects, illustrated by new neutron diffraction data on Ba11B4O7 glass, its well-known α-polymorph, and lesser-known δ-phase."
+    },
+    "10.1016/s0022-3093(87)80110-2": {
+      "doi": "10.1016/s0022-3093(87)80110-2",
+      "verified_via_crossref_api": true,
+      "http_status": 200,
+      "title": "Structure of alkali or alkaline earth metal gallate glasses",
+      "authors": [
+        "Kohei Fukumi",
+        "Sumio Sakka"
+      ],
+      "journal": "Journal of Non-Crystalline Solids",
+      "year": 1987,
+      "openalex_id": "https://openalex.org/W2000492003",
+      "citation_count": 21,
+      "abstract": ""
+    },
+    "10.1016/j.jallcom.2025.178622": {
+      "doi": "10.1016/j.jallcom.2025.178622",
+      "verified_via_crossref_api": true,
+      "http_status": 200,
+      "title": "Tantalum and niobium – same row, different connectivity. A XAFS study of La2O3-Nb2O5-B2O3 and La2O3-Ta2O5-B2O3 glasses",
+      "authors": [
+        "R.O. Alekseev",
+        "L.A. Avakyan",
+        "E.A. Tretiakov",
+        "G. Yu. Shakhgildyan",
+        "A.A. Veligzhanin",
+        "G.N. Vishnyakov",
+        "G.B. Sukharina",
+        "A.M. Ermakova",
+        "V.I. Savinkov",
+        "L.A. Bugaev",
+        "V.N. Sigaev"
+      ],
+      "journal": "Journal of Alloys and Compounds",
+      "year": 2025,
+      "openalex_id": "https://openalex.org/W4406364284",
+      "citation_count": 6,
+      "abstract": ""
+    },
+    "10.1016/j.jallcom.2019.07.012": {
+      "doi": "10.1016/j.jallcom.2019.07.012",
+      "verified_via_crossref_api": true,
+      "http_status": 200,
+      "title": "Amorphous MnSiO3 confined in graphene sheets for superior lithium-ion batteries",
+      "authors": [
+        "Lei Wang",
+        "Minjie Shi",
+        "Cheng Yang",
+        "Yongchao Liu",
+        "Jintian Jiang",
+        "Kun Dai",
+        "Zhanhu Guo",
+        "Chao Yan"
+      ],
+      "journal": "Journal of Alloys and Compounds",
+      "year": 2019,
+      "openalex_id": "https://openalex.org/W2954181302",
+      "citation_count": 26,
+      "abstract": ""
+    },
+    "10.1016/s0022-3093(01)01049-3": {
+      "doi": "10.1016/s0022-3093(01)01049-3",
+      "verified_via_crossref_api": true,
+      "http_status": 200,
+      "title": "A MAS NMR structural study of cadmium phosphate glasses",
+      "authors": [
+        "R Hussin",
+        "D Holland",
+        "R Dupree"
+      ],
+      "journal": "Journal of Non-Crystalline Solids",
+      "year": 2002,
+      "openalex_id": "https://openalex.org/W2026190938",
+      "citation_count": 32,
+      "abstract": ""
+    },
+    "10.1007/bf01197650": {
+      "doi": "10.1007/bf01197650",
+      "verified_via_crossref_api": true,
+      "http_status": 200,
+      "title": "Aluminium metaphosphate glass-ceramics",
+      "authors": [
+        "M. Langlet",
+        "M. Saltzberg",
+        "R. D. Shannon"
+      ],
+      "journal": "Journal of Materials Science",
+      "year": 1992,
+      "openalex_id": "https://openalex.org/W2019951787",
+      "citation_count": 11,
+      "abstract": ""
     }
-  }
+  },
+  "total_unique_dois": 232,
+  "crossref_verified_count": 8
 }

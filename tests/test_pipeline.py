@@ -739,7 +739,7 @@ class TestAmorphousPeriodicTablePipeline(unittest.TestCase):
             s for s in systems
             if s["structural_characterization"]["provenance"]["is_direct_experimental_benchmark"]
         ]
-        self.assertEqual(len(exp_benchmarks), 43, "All 43 experimental SRO/MRO benchmarks must match")
+        self.assertEqual(len(exp_benchmarks), 44, "All 44 experimental SRO/MRO benchmarks must match")
         self.assertTrue(
             sys_by_formula["Pd40Ni10Cu30P20"]["structural_characterization"]["provenance"]["is_direct_experimental_benchmark"]
         )
@@ -770,7 +770,7 @@ class TestAmorphousPeriodicTablePipeline(unittest.TestCase):
             "Bulk Melt-Quenched (152)",
             "Rapid-Quenched Ribbon (31)",
             "Vapor / Thin-Film (58)",
-            "Lit. Benchmark Peak Anchors + Parameterized Curve (43 Canonical Systems)",
+            "Lit. Benchmark Peak Anchors + Parameterized Curve (44 Canonical Systems)",
         ):
             self.assertTrue(expected_sub in html_text, f"Expected '{expected_sub}' in index.html")
         for forbidden_sub in (
@@ -954,7 +954,7 @@ class TestAmorphousPeriodicTablePipeline(unittest.TestCase):
         sige_gr = sys_by_raw["Si0.5Ge0.5"]["structural_characterization"]["rdf_gr"]
         sige_pairs = {p["pair"]: p["r_ij_A"] for p in sige_gr["partial_pairs"]}
         self.assertEqual(set(sige_pairs.keys()), {"Si–Ge", "Si–Si", "Ge–Ge"})
-        self.assertEqual(sige_pairs["Si–Ge"], 2.40)
+        self.assertEqual(sige_pairs["Si–Ge"], 2.38)
         self.assertEqual(sige_pairs["Si–Si"], 2.35)
         self.assertEqual(sige_pairs["Ge–Ge"], 2.45)
 
@@ -1046,6 +1046,72 @@ class TestAmorphousPeriodicTablePipeline(unittest.TestCase):
         claude_md = (ROOT / "CLAUDE.md").read_text(encoding="utf-8")
         self.assertIn("Step 6", claude_md)
         self.assertIn("structural_characterization_data.py", claude_md)
+
+    def test_step11_vpn_fulltext_sro_mro_extraction(self) -> None:
+        """Verify full-text VPN paper extraction artifacts and audited direct experimental SRO/MRO benchmarks."""
+        vpn_summary_path = ROOT / "data" / "vpn_extracted_sro_mro.json"
+        vpn_tables_path = ROOT / "data" / "vpn_extracted_structural_tables.json"
+        self.assertTrue(vpn_summary_path.exists(), "data/vpn_extracted_sro_mro.json must exist")
+        self.assertTrue(vpn_tables_path.exists(), "data/vpn_extracted_structural_tables.json must exist")
+
+        vpn_summary = json.loads(vpn_summary_path.read_text(encoding="utf-8"))
+        meta = vpn_summary["metadata"]
+        self.assertEqual(meta["pdf_files_downloaded"], 72)
+        self.assertEqual(meta["pdf_files_with_extractable_text"], 61)
+        self.assertEqual(meta["scanned_image_pdfs_without_ocr"], 11)
+        self.assertEqual(meta["elsevier_xml_metadata_stubs"], 72)
+        self.assertEqual(meta["fulltext_files_downloaded"], 61)
+
+        systems_payload = json.loads((ROOT / "amorphous_systems.json").read_text(encoding="utf-8"))
+        sys_by_formula = {s["formula"]: s for s in systems_payload["systems"]}
+        sys_by_raw = {s["raw_formula"]: s for s in systems_payload["systems"]}
+
+        expected_replaced_catalog_dois = {
+            "As2O3": "10.1016/0022-3093(89)90274-3",
+            "LaAl3Si3O12": "10.1016/j.jnoncrysol.2010.01.017",
+            "BaB4O7": "10.1063/5.0153282",
+            "CaGa2O4": "10.1016/s0022-3093(87)80110-2",
+            "LaTaB4O10": "10.1016/j.jallcom.2025.178622",
+            "MnSiO3": "10.1016/j.jallcom.2019.07.012",
+            "CdP2O6": "10.1016/s0022-3093(01)01049-3",
+            "Al2O3-3P2O5": "10.1007/bf01197650",
+        }
+        for raw_f, exp_doi in expected_replaced_catalog_dois.items():
+            self.assertEqual(sys_by_raw[raw_f]["reference_doi"].lower(), exp_doi.lower())
+
+        expected_vpn_benchmarks = {
+            "Al2O3": (2.11, 1.80, 2.90, "10.3389/fmats.2019.00038"),
+            "Ta2O5": (2.04, 1.97, 3.74, "10.1063/1.4913586"),
+            "As2S3": (1.24, 2.28, 3.52, "10.1103/physrevb.39.10342"),
+            "As2Se3": (1.22, 2.42, 3.68, "10.1103/physrevb.78.064207"),
+            "GeSe3": (1.06, 2.37, 3.85, "10.3389/fmats.2019.00133"),
+            "GaN": (2.18, 1.95, 3.18, "10.1103/physrevlett.79.677"),
+            "MoGe": (2.78, 2.65, 4.45, "10.1103/physrevb.37.2979"),
+            "Zr50Cu40Al10": (2.71, 2.86, 4.78, "10.2320/matertrans.mbw200833"),
+        }
+        for formula, (exp_q1, exp_r1, exp_r2, exp_doi) in expected_vpn_benchmarks.items():
+            self.assertIn(formula, sys_by_formula)
+            sc = sys_by_formula[formula]["structural_characterization"]
+            self.assertTrue(sc["provenance"]["is_direct_experimental_benchmark"])
+            self.assertEqual(sc["diffraction_sq"]["q1_inv_A"], exp_q1)
+            self.assertEqual(sc["rdf_gr"]["r1_A"], exp_r1)
+            self.assertEqual(sc["rdf_gr"]["r2_A"], exp_r2)
+            self.assertIn(exp_doi, sc["provenance"]["benchmark_reference"])
+
+        # Ensure EXAFS/TEM-RDF-only papers (BN, GeAsSe3, GeSi) and non-diffraction papers (As2O3, BaB4O7)
+        # are NOT falsely flagged as full diffraction+RDF+angle experimental benchmarks
+        for non_full_bench in ("BN", "GeAsSe3", "GeSi", "As2O3", "BaB4O7"):
+            sc = sys_by_formula[non_full_bench]["structural_characterization"]
+            self.assertFalse(
+                sc["provenance"]["is_direct_experimental_benchmark"],
+                f"{non_full_bench} must not be marked as a full diffraction/RDF/angle benchmark",
+            )
+            self.assertEqual(sc["diffraction_sq"]["source_type"], "composition_weighted_reconstruction")
+        # Verify GaN does not claim an experimental ring percentage breakdown
+        self.assertEqual(
+            sys_by_formula["GaN"]["structural_characterization"]["ring_or_voronoi_distribution"]["source_type"],
+            "composition_weighted_reconstruction",
+        )
 
 
 if __name__ == "__main__":

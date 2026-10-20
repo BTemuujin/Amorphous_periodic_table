@@ -54,15 +54,15 @@ CANONICAL_PAIR_LENGTHS_A: Dict[str, float] = {
     "In-Se": 2.56, "Cu-Se": 2.42, "Ag-S": 2.52, "Li-S": 2.44, "Na-S": 2.78,
     "S-S": 2.06, "Se-Se": 2.34, "Te-Te": 2.75,
     # Covalent / Halide / Silicide / Germanide
-    "Si-Si": 2.35, "Ge-Ge": 2.45, "C-C": 1.54, "Si-C": 1.88, "Si-N": 1.73, "B-N": 1.46,
+    "Si-Si": 2.35, "Ge-Ge": 2.45, "C-C": 1.54, "Si-C": 1.88, "Si-N": 1.73, "B-N": 1.44,
     "B-C": 1.59, "C-N": 1.38, "Y-N": 2.36, "Ag-I": 2.85, "Cu-I": 2.62, "Ge-I": 2.50, "As-I": 2.55,
-    "B-B": 1.78, "P-P": 2.22, "As-As": 2.44, "Sb-Sb": 2.87, "Si-H": 1.48, "Si-Ge": 2.40,
+    "B-B": 1.78, "P-P": 2.22, "As-As": 2.44, "Sb-Sb": 2.87, "Si-H": 1.48, "Si-Ge": 2.38,
     "Ga-As": 2.45, "In-P": 2.54, "Ga-N": 1.95, "Al-N": 1.89, "Be-F": 1.55, "Zn-Cl": 2.29, "Zn-Br": 2.41,
     "Zr-F": 2.08, "Al-F": 1.81, "Th-F": 2.32, "Yb-F": 2.24, "Ba-F": 2.68,
     "Cd-As": 2.63, "Cd-P": 2.53, "Zn-As": 2.47, "Sn-As": 2.60,
     # Hellman Group & Vapor-Deposited Amorphous TM/RE Silicides & Germanides (EXAFS / PDF)
     "Fe-Ge": 2.46, "Fe-Si": 2.38, "Co-Si": 2.34, "Co-Ge": 2.43, "Mn-Si": 2.41, "Cr-Si": 2.46,
-    "Mo-Ge": 2.62, "Nb-Si": 2.66, "Gd-Si": 3.04, "Tb-Si": 3.01, "Gd-Ge": 3.12,
+    "Mo-Ge": 2.65, "Nb-Si": 2.66, "Gd-Si": 3.04, "Tb-Si": 3.01, "Gd-Ge": 3.12,
     # Metallic Glasses
     "Au-Si": 2.46, "Pd-Si": 2.42, "Pt-Si": 2.43, "Pd-P": 2.30, "Pt-P": 2.32, "Ni-P": 2.28,
     "Fe-B": 2.14, "Fe-P": 2.26, "Fe-C": 2.02, "Co-B": 2.11, "Ni-B": 2.10, "W-B": 2.28,
@@ -120,9 +120,9 @@ DIRECT_EXPERIMENTAL_SRO_BENCHMARKS: Dict[str, Dict[str, Any]] = {
         ],
     },
     "P2O5": {"q1": 1.38, "q2": 2.72, "r1": 1.54, "r2": 2.51, "theta1": 109.5, "theta2": 135.0, "ref": "Hoppe et al., JNCS 248, 1 (1999)"},
-    "Al2O3": {"q1": 1.96, "q2": 2.76, "r1": 1.80, "r2": 2.82, "theta1": 106.0, "theta2": 124.0, "ref": "Shi, Alderman, Berman, Weber & Benmore, Front. Mater. 6, 38 (2019)"},
+    "Al2O3": {"q1": 2.11, "q2": 2.90, "r1": 1.80, "r2": 2.90, "theta1": 106.0, "theta2": 124.0, "ref": "Shi, Alderman, Berman, Weber, You & Benmore, Front. Mater. 6, 38 (2019) [DOI: 10.3389/fmats.2019.00038]"},
     "TiO2": {"q1": 1.92, "q2": 2.68, "r1": 1.96, "r2": 2.78, "theta1": 92.0, "theta2": 131.0, "ref": "Petkov et al., J. Non-Cryst. Solids 231, 17 (1998)"},
-    "Ta2O5": {"q1": 2.04, "q2": 3.05, "r1": 1.97, "r2": 3.74, "theta1": 90.0, "theta2": 136.0, "ref": "Bassiri et al., APL Materials 3, 036103 (2015)"},
+    "Ta2O5": {"q1": 2.04, "q2": 3.05, "r1": 1.97, "r2": 3.74, "theta1": 90.0, "theta2": 136.0, "ref": "Alderman, Benmore et al., JPCM 27, 455104 (2015); Bassiri et al., APL Materials 3, 036103 (2015) [DOI: 10.1063/1.4913586]"},
     "ZrO2": {"q1": 2.12, "q2": 3.15, "r1": 2.12, "r2": 3.42, "theta1": 88.0, "theta2": 118.0, "ref": "Stachs, Gerber & Petkov, J. Non-Cryst. Solids 210, 14 (1997)"},
     "HfO2": {"q1": 2.14, "q2": 3.18, "r1": 2.09, "r2": 3.40, "theta1": 88.5, "theta2": 119.0, "ref": "Gritsenko et al., Microelectron. Eng. 81, 524 (2005)"},
     "Na2Si2O5": {"q1": 1.72, "q2": 2.88, "r1": 1.62, "r2": 2.64, "theta1": 109.5, "theta2": 139.0, "ref": "Greaves & Sen, Adv. Phys. 56, 1 (2007)"},
@@ -143,9 +143,9 @@ DIRECT_EXPERIMENTAL_SRO_BENCHMARKS: Dict[str, Dict[str, Any]] = {
         ],
     },
     "GeS2": {"q1": 1.02, "q2": 2.12, "r1": 2.22, "r2": 3.63, "theta1": 109.5, "theta2": 102.0, "ref": "Salmon, Proc. R. Soc. Lond. A 445, 351 (1994)"},
-    "GeSe3": {"q1": 1.04, "q2": 2.05, "r1": 2.36, "r2": 3.85, "theta1": 108.5, "theta2": 101.5, "ref": "Bouzid, Le Roux, Ori, Boero & Massobrio, Front. Mater. 6, 133 (2019)"},
-    "As2S3": {"q1": 1.24, "q2": 2.35, "r1": 2.28, "r2": 3.52, "theta1": 99.0, "theta2": 100.5, "ref": "Wright, Yarker & Johnson, J. Non-Cryst. Solids 76, 43 (1985)"},
-    "As2Se3": {"q1": 1.22, "q2": 2.24, "r1": 2.41, "r2": 3.68, "theta1": 98.5, "theta2": 101.0, "ref": "Hosokawa et al., Phys. Rev. B 84, 014201 (2011)"},
+    "GeSe3": {"q1": 1.06, "q2": 2.03, "r1": 2.37, "r2": 3.85, "theta1": 109.0, "theta2": 98.0, "ref": "Rowlands, Zeidler, Fischer & Salmon, Front. Mater. 6, 133 (2019) [DOI: 10.3389/fmats.2019.00133]"},
+    "As2S3": {"q1": 1.24, "q2": 2.35, "r1": 2.28, "r2": 3.52, "theta1": 99.0, "theta2": 100.5, "ref": "Yang, Paesler & Sayers, Phys. Rev. B 39, 10342 (1989) [DOI: 10.1103/physrevb.39.10342]; Wright et al., JNCS 76, 43 (1985)"},
+    "As2Se3": {"q1": 1.22, "q2": 2.24, "r1": 2.42, "r2": 3.68, "theta1": 98.5, "theta2": 101.0, "ref": "Xin, Liu & Salmon, Phys. Rev. B 78, 064207 (2008) [DOI: 10.1103/physrevb.78.064207]; Hosokawa et al., PRB 84, 014201 (2011)"},
     "Ge2Sb2Te5": {
         "q1": 1.05, "q2": 2.06, "r1": 2.68, "r2": 4.12, "theta1": 93.0, "theta2": 170.0,
         "ref": "Kolobov et al., Nat. Mater. 3, 703 (2004); Kohara et al., APL 89, 201910 (2006); Hegedüs & Elliott, Nat. Mater. 7, 399 (2008)",
@@ -177,12 +177,13 @@ DIRECT_EXPERIMENTAL_SRO_BENCHMARKS: Dict[str, Dict[str, Any]] = {
     },
     "Ge": {"q1": 1.90, "q2": 3.45, "r1": 2.45, "r2": 4.00, "theta1": 109.5, "theta2": 136.0, "ref": "Etherington, Wright, Wenzel et al., J. Non-Cryst. Solids 48, 265 (1982)"},
     "C": {"q1": 2.95, "q2": 5.45, "r1": 1.54, "r2": 2.52, "theta1": 109.5, "theta2": 120.0, "ref": "Gilkes, Gaskell & Robertson, Phys. Rev. B 51, 12303 (1995)"},
+    "GaN": {"q1": 2.18, "q2": 3.76, "r1": 1.95, "r2": 3.18, "theta1": 109.5, "theta2": 118.0, "ref": "Stumm & Drabold, Phys. Rev. Lett. 79, 677 (1997) [DOI: 10.1103/physrevlett.79.677]"},
     "BeF2": {"q1": 1.58, "q2": 2.95, "r1": 1.55, "r2": 2.54, "theta1": 109.5, "theta2": 145.5, "ref": "Wright et al., J. Non-Cryst. Solids 150, 69 (1992)"},
     "ZnCl2": {"q1": 1.08, "q2": 2.15, "r1": 2.29, "r2": 3.74, "theta1": 109.5, "theta2": 110.0, "ref": "Biggin & Enderby, J. Phys. C 14, 3129 (1981); Zeidler & Salmon, PRB (2010)"},
     "FeGe": {"q1": 2.86, "q2": 4.92, "r1": 2.46, "r2": 4.08, "theta1": 60.5, "theta2": 108.0, "ref": "Streubel, Bougiatioti, Karel & Hellman, PRL 115, 057204 (2015); PRB 94, 184429 (2016)"},
     "FeGe3": {"q1": 1.88, "q2": 3.42, "r1": 2.45, "r2": 4.00, "theta1": 108.0, "theta2": 134.0, "ref": "Karel, Zhang, Volkmann & Hellman, Phys. Rev. B 94, 184429 (2016)"},
     "FeSi": {"q1": 3.02, "q2": 5.18, "r1": 2.38, "r2": 3.95, "theta1": 61.0, "theta2": 109.0, "ref": "Karel, Jenei, Fuchs & Hellman, EPL 114, 57004 (2016)"},
-    "MoGe": {"q1": 2.78, "q2": 4.78, "r1": 2.62, "r2": 4.35, "theta1": 60.0, "theta2": 109.0, "ref": "Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988)"},
+    "MoGe": {"q1": 2.78, "q2": 4.78, "r1": 2.65, "r2": 4.45, "theta1": 60.0, "theta2": 109.0, "ref": "Kortright & Bienenstock, Phys. Rev. B 37, 2979 (1988) [DOI: 10.1103/physrevb.37.2979]"},
     "Cu50Zr50": {
         "q1": 2.72, "q2": 4.65, "r1": 2.78, "r2": 4.68, "theta1": 59.5, "theta2": 108.5,
         "ref": "Sheng et al., Nature 439, 419 (2006); Cheng & Ma, Prog. Mater. Sci. 56, 379 (2011)",
@@ -223,7 +224,7 @@ DIRECT_EXPERIMENTAL_SRO_BENCHMARKS: Dict[str, Dict[str, Any]] = {
         ],
     },
     "Cu46Zr46Al8": {"q1": 2.74, "q2": 4.68, "r1": 2.77, "r2": 4.66, "theta1": 59.5, "theta2": 108.5, "ref": "Cheng, Ma & Sheng, Phys. Rev. Lett. 102, 245501 (2009)"},
-    "Zr50Cu40Al10": {"q1": 2.71, "q2": 4.63, "r1": 2.79, "r2": 4.70, "theta1": 59.5, "theta2": 108.5, "ref": "Sheng et al., Nature 439, 419 (2006); Zhang & Inoue, Mater. Trans. 50, 1340 (2009)"},
+    "Zr50Cu40Al10": {"q1": 2.71, "q2": 4.63, "r1": 2.86, "r2": 4.78, "theta1": 59.5, "theta2": 108.5, "ref": "Zhang et al., Mater. Trans. 50, 1340 (2009) [DOI: 10.2320/matertrans.mbw200833]; Sheng et al., Nature 439, 419 (2006)"},
     "Ni80P20": {
         "q1": 3.12, "q2": 5.34, "r1": 2.28, "r2": 3.84, "theta1": 61.5, "theta2": 106.0,
         "ref": "Lamparter, Sperl, Steeb & Blétry, Z. Naturforsch. A 37, 1223 (1982); Sheng et al., Nature 439, 419 (2006)",
@@ -667,12 +668,12 @@ def compute_system_structural_characterization(
         elif sym_set == {"Si", "Ge"}:
             c_si = frac_map.get("Si", 0.50)
             c_ge = frac_map.get("Ge", 0.50)
-            r1 = round(c_si * c_si * 2.35 + 2.0 * c_si * c_ge * 2.40 + c_ge * c_ge * 2.45, 2)
+            r1 = round(c_si * c_si * 2.35 + 2.0 * c_si * c_ge * 2.38 + c_ge * c_ge * 2.45, 2)
             r2 = round(r1 * 1.63, 2)
             q1, q2 = round(4.55 / r1, 2), round(8.30 / r1, 2)
             first_shell_cn_val = 4.0
             for pair_lbl, r_val, w_val, desc in (
-                ("Si–Ge", 2.40, 2.0 * c_si * c_ge, "Heteropolar tetrahedral Si–Ge alloy bond"),
+                ("Si–Ge", 2.38, 2.0 * c_si * c_ge, "Heteropolar tetrahedral Si–Ge alloy bond"),
                 ("Si–Si", 2.35, c_si * c_si, "Homopolar tetrahedral Si–Si CRN bond"),
                 ("Ge–Ge", 2.45, c_ge * c_ge, "Homopolar tetrahedral Ge–Ge CRN bond"),
             ):

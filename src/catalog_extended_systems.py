@@ -82,9 +82,9 @@ EXTENDED_AMORPHOUS_SYSTEMS = [
     (
         "Al2O3-3P2O5",
         "Oxide",
-        "Diffuse XRD halo; 27Al/31P MAS NMR; DSC Tg=1025 K",
-        "10.2478/v10168-012-0043-2",
-        "Saddeek & Abo-Naf, Archives of Acoustics 37 (2012) — \"Influence of MoO3 on the Structure of Lithium Aluminum Phosphate Glasses\"",
+        "Diffuse XRD halo; DTA/DSC; 27Al/31P MAS NMR; DSC Tg=1025 K",
+        "10.1007/bf01197650",
+        "Langlet, Saltzberg & Shannon, Journal of Materials Science 27, 972 (1992) — \"Aluminium metaphosphate glass-ceramics\"",
         {"P": "PO4 tetrahedra (CN=4)", "Al": "AlO4 tetrahedra and AlO6 octahedra (CN=4,6)", "O": "Al-O-P bridging O"},
         "Aluminum metaphosphate glass; equimolar AlPO4 is structural isomorph of SiO2 with alternating AlO4 and PO4 tetrahedra.",
     ),
