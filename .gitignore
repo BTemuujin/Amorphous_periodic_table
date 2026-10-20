@@ -1,7 +1,29 @@
-
 # Beads / Dolt files (added by bd init)
 .dolt/
 *.db
+!amorphous_materials.db
 .beads-credential-key
 .beads/proxieddb/
 *.gate.lock*
+
+# Python bytecode & test/virtualenv caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Local API lookup & fulltext caches (canonical registry is data/verified_doi_registry.json)
+data/crossref_lookup_cache.json
+data/vpn_fulltext_cache/
+data/vpn_papers/
+
+# Ignore dotfiles/dot-directories and markdown files except README.md
+.*
+!.gitignore
+*.md
+!README.md

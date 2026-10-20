@@ -1,7 +1,0 @@
-{
-  "database": "dolt",
-  "backend": "dolt",
-  "dolt_mode": "embedded",
-  "dolt_database": "Amorphous_periodic_table",
-  "project_id": "bd8229bc-3161-4f57-afc2-bb364e68772e"
-}
